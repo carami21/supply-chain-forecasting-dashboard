@@ -1,0 +1,17 @@
+# data — raw dataset is 90MB+, downloaded from Mendeley (see README)
+data/raw/
+data/processed/
+
+# environments & secrets — never committed
+.venv/
+.env
+*.pem
+*.key
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+.DS_Store
