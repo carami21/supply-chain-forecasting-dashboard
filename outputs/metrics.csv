@@ -1,0 +1,17 @@
+category,model,mape,rmse,n_test
+Cardio Equipment,seasonal_naive,10.9,33.9,12
+Cardio Equipment,prophet,9.09,30.3,12
+Cleats,seasonal_naive,5.39,30.6,12
+Cleats,prophet,5.44,33.6,12
+Fishing,seasonal_naive,11.03,17.5,12
+Fishing,prophet,11.11,16.7,12
+Indoor/Outdoor Games,seasonal_naive,15.7,66.1,12
+Indoor/Outdoor Games,prophet,12.47,54.2,12
+Men's Footwear,seasonal_naive,8.65,16.6,12
+Men's Footwear,prophet,9.0,16.4,12
+Shop By Sport,seasonal_naive,17.77,46.3,12
+Shop By Sport,prophet,13.75,34.8,12
+Water Sports,seasonal_naive,14.1,18.3,12
+Water Sports,prophet,14.37,17.7,12
+Women's Apparel,seasonal_naive,8.89,47.5,12
+Women's Apparel,prophet,6.45,33.4,12
