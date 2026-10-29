@@ -7,3 +7,4 @@ jupyter
 streamlit
 plotly
 duckdb
+kaggle>=1.8  # optional: H&M download; 1.8+ reads the new ~/.kaggle/access_token

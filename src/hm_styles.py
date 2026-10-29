@@ -22,7 +22,8 @@ never committed or redistributed (Kaggle competition terms).
 Note: H&M's `price` column is scaled/anonymized, so revenue is reported as a
 relative index, not currency.
 
-Get the data (needs a Kaggle API token and the competition rules accepted):
+Get the data (needs kaggle>=1.8, an API token in ~/.kaggle/access_token, and the
+competition rules accepted on kaggle.com):
   kaggle competitions download -c h-and-m-personalized-fashion-recommendations \
       -f articles.csv -p data/raw/hm
   kaggle competitions download -c h-and-m-personalized-fashion-recommendations \
