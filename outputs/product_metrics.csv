@@ -1,0 +1,19 @@
+product_name,model,wape,mape,rmse,n_test
+Diamondback Women's Serene Classic Comfort Bi,seasonal_naive,10.38,10.28,11.6,12
+Diamondback Women's Serene Classic Comfort Bi,prophet,9.28,9.91,11.2,12
+Field & Stream Sportsman 16 Gun Fire Safe,seasonal_naive,11.1,11.03,17.5,12
+Field & Stream Sportsman 16 Gun Fire Safe,prophet,11.37,11.11,16.7,12
+Nike Men's CJ Elite 2 TD Football Cleat,seasonal_naive,8.48,8.65,16.6,12
+Nike Men's CJ Elite 2 TD Football Cleat,prophet,8.68,9.0,16.4,12
+Nike Men's Dri-FIT Victory Golf Polo,seasonal_naive,8.72,8.89,47.5,12
+Nike Men's Dri-FIT Victory Golf Polo,prophet,6.24,6.45,33.4,12
+Nike Men's Free 5.0+ Running Shoe,seasonal_naive,10.92,10.89,34.1,12
+Nike Men's Free 5.0+ Running Shoe,prophet,10.45,10.24,34.0,12
+O'Brien Men's Neoprene Life Vest,seasonal_naive,15.31,15.7,66.1,12
+O'Brien Men's Neoprene Life Vest,prophet,11.85,12.47,54.2,12
+Pelican Sunstream 100 Kayak,seasonal_naive,14.08,15.14,18.2,12
+Pelican Sunstream 100 Kayak,prophet,13.17,14.42,16.6,12
+Perfect Fitness Perfect Rip Deck,seasonal_naive,5.93,6.08,34.4,12
+Perfect Fitness Perfect Rip Deck,prophet,6.11,6.13,36.8,12
+Under Armour Girls' Toddler Spine Surge Runni,seasonal_naive,17.74,17.22,46.4,12
+Under Armour Girls' Toddler Spine Surge Runni,prophet,13.26,13.41,34.6,12

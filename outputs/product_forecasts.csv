@@ -1,0 +1,217 @@
+week,product_name,actual,yhat,yhat_lower,yhat_upper,model
+2017-07-11,Diamondback Women's Serene Classic Comfort Bi,93,101.0,,,seasonal_naive
+2017-07-18,Diamondback Women's Serene Classic Comfort Bi,114,102.0,,,seasonal_naive
+2017-07-25,Diamondback Women's Serene Classic Comfort Bi,88,91.0,,,seasonal_naive
+2017-08-01,Diamondback Women's Serene Classic Comfort Bi,89,98.0,,,seasonal_naive
+2017-08-08,Diamondback Women's Serene Classic Comfort Bi,96,86.0,,,seasonal_naive
+2017-08-15,Diamondback Women's Serene Classic Comfort Bi,93,104.0,,,seasonal_naive
+2017-08-22,Diamondback Women's Serene Classic Comfort Bi,79,89.0,,,seasonal_naive
+2017-08-29,Diamondback Women's Serene Classic Comfort Bi,106,84.0,,,seasonal_naive
+2017-09-05,Diamondback Women's Serene Classic Comfort Bi,94,93.0,,,seasonal_naive
+2017-09-12,Diamondback Women's Serene Classic Comfort Bi,105,85.0,,,seasonal_naive
+2017-09-19,Diamondback Women's Serene Classic Comfort Bi,103,105.0,,,seasonal_naive
+2017-09-26,Diamondback Women's Serene Classic Comfort Bi,77,87.0,,,seasonal_naive
+2017-07-11,Diamondback Women's Serene Classic Comfort Bi,93,99.2,83.0,114.9,prophet
+2017-07-18,Diamondback Women's Serene Classic Comfort Bi,114,100.8,84.1,116.6,prophet
+2017-07-25,Diamondback Women's Serene Classic Comfort Bi,88,100.3,83.8,115.8,prophet
+2017-08-01,Diamondback Women's Serene Classic Comfort Bi,89,98.7,81.9,116.7,prophet
+2017-08-08,Diamondback Women's Serene Classic Comfort Bi,96,97.2,81.5,113.9,prophet
+2017-08-15,Diamondback Women's Serene Classic Comfort Bi,93,95.9,77.7,112.5,prophet
+2017-08-22,Diamondback Women's Serene Classic Comfort Bi,79,95.2,77.6,112.1,prophet
+2017-08-29,Diamondback Women's Serene Classic Comfort Bi,106,95.9,79.1,112.4,prophet
+2017-09-05,Diamondback Women's Serene Classic Comfort Bi,94,98.7,82.3,115.6,prophet
+2017-09-12,Diamondback Women's Serene Classic Comfort Bi,105,102.1,84.8,119.1,prophet
+2017-09-19,Diamondback Women's Serene Classic Comfort Bi,103,103.7,85.7,119.4,prophet
+2017-09-26,Diamondback Women's Serene Classic Comfort Bi,77,102.5,86.2,119.1,prophet
+2017-07-11,Field & Stream Sportsman 16 Gun Fire Safe,111,118.0,,,seasonal_naive
+2017-07-18,Field & Stream Sportsman 16 Gun Fire Safe,119,114.0,,,seasonal_naive
+2017-07-25,Field & Stream Sportsman 16 Gun Fire Safe,134,111.0,,,seasonal_naive
+2017-08-01,Field & Stream Sportsman 16 Gun Fire Safe,106,126.0,,,seasonal_naive
+2017-08-08,Field & Stream Sportsman 16 Gun Fire Safe,133,108.0,,,seasonal_naive
+2017-08-15,Field & Stream Sportsman 16 Gun Fire Safe,128,126.0,,,seasonal_naive
+2017-08-22,Field & Stream Sportsman 16 Gun Fire Safe,141,124.0,,,seasonal_naive
+2017-08-29,Field & Stream Sportsman 16 Gun Fire Safe,102,116.0,,,seasonal_naive
+2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,123,109.0,,,seasonal_naive
+2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,142,142.0,,,seasonal_naive
+2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,139,102.0,,,seasonal_naive
+2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,117,115.0,,,seasonal_naive
+2017-07-11,Field & Stream Sportsman 16 Gun Fire Safe,111,115.6,94.7,138.0,prophet
+2017-07-18,Field & Stream Sportsman 16 Gun Fire Safe,119,112.2,90.7,134.6,prophet
+2017-07-25,Field & Stream Sportsman 16 Gun Fire Safe,134,111.7,89.4,133.2,prophet
+2017-08-01,Field & Stream Sportsman 16 Gun Fire Safe,106,112.7,89.9,134.8,prophet
+2017-08-08,Field & Stream Sportsman 16 Gun Fire Safe,133,115.3,94.5,137.9,prophet
+2017-08-15,Field & Stream Sportsman 16 Gun Fire Safe,128,119.2,97.5,141.0,prophet
+2017-08-22,Field & Stream Sportsman 16 Gun Fire Safe,141,122.9,100.8,143.9,prophet
+2017-08-29,Field & Stream Sportsman 16 Gun Fire Safe,102,123.6,101.7,147.5,prophet
+2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,123,120.3,97.5,142.4,prophet
+2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,142,115.1,92.9,135.8,prophet
+2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,139,111.4,90.5,133.5,prophet
+2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,117,110.9,89.8,132.4,prophet
+2017-07-11,Nike Men's CJ Elite 2 TD Football Cleat,157,155.0,,,seasonal_naive
+2017-07-18,Nike Men's CJ Elite 2 TD Football Cleat,159,144.0,,,seasonal_naive
+2017-07-25,Nike Men's CJ Elite 2 TD Football Cleat,152,169.0,,,seasonal_naive
+2017-08-01,Nike Men's CJ Elite 2 TD Football Cleat,155,148.0,,,seasonal_naive
+2017-08-08,Nike Men's CJ Elite 2 TD Football Cleat,165,152.0,,,seasonal_naive
+2017-08-15,Nike Men's CJ Elite 2 TD Football Cleat,157,180.0,,,seasonal_naive
+2017-08-22,Nike Men's CJ Elite 2 TD Football Cleat,147,175.0,,,seasonal_naive
+2017-08-29,Nike Men's CJ Elite 2 TD Football Cleat,141,175.0,,,seasonal_naive
+2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,149,151.0,,,seasonal_naive
+2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,177,175.0,,,seasonal_naive
+2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,140,149.0,,,seasonal_naive
+2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,141,145.0,,,seasonal_naive
+2017-07-11,Nike Men's CJ Elite 2 TD Football Cleat,157,160.3,136.1,185.3,prophet
+2017-07-18,Nike Men's CJ Elite 2 TD Football Cleat,159,159.9,136.8,183.4,prophet
+2017-07-25,Nike Men's CJ Elite 2 TD Football Cleat,152,158.6,133.2,181.7,prophet
+2017-08-01,Nike Men's CJ Elite 2 TD Football Cleat,155,158.4,135.1,180.1,prophet
+2017-08-08,Nike Men's CJ Elite 2 TD Football Cleat,165,161.4,137.6,185.5,prophet
+2017-08-15,Nike Men's CJ Elite 2 TD Football Cleat,157,167.1,142.7,189.7,prophet
+2017-08-22,Nike Men's CJ Elite 2 TD Football Cleat,147,171.8,149.5,194.4,prophet
+2017-08-29,Nike Men's CJ Elite 2 TD Football Cleat,141,171.9,148.3,196.3,prophet
+2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,149,167.6,143.2,192.2,prophet
+2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,177,162.7,138.4,188.2,prophet
+2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,140,161.3,137.3,187.1,prophet
+2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,141,163.0,140.5,186.6,prophet
+2017-07-11,Nike Men's Dri-FIT Victory Golf Polo,395,444.0,,,seasonal_naive
+2017-07-18,Nike Men's Dri-FIT Victory Golf Polo,469,441.0,,,seasonal_naive
+2017-07-25,Nike Men's Dri-FIT Victory Golf Polo,413,510.0,,,seasonal_naive
+2017-08-01,Nike Men's Dri-FIT Victory Golf Polo,450,452.0,,,seasonal_naive
+2017-08-08,Nike Men's Dri-FIT Victory Golf Polo,440,515.0,,,seasonal_naive
+2017-08-15,Nike Men's Dri-FIT Victory Golf Polo,415,458.0,,,seasonal_naive
+2017-08-22,Nike Men's Dri-FIT Victory Golf Polo,452,439.0,,,seasonal_naive
+2017-08-29,Nike Men's Dri-FIT Victory Golf Polo,446,383.0,,,seasonal_naive
+2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,464,484.0,,,seasonal_naive
+2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,407,430.0,,,seasonal_naive
+2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,451,452.0,,,seasonal_naive
+2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,448,492.0,,,seasonal_naive
+2017-07-11,Nike Men's Dri-FIT Victory Golf Polo,395,465.1,388.8,540.8,prophet
+2017-07-18,Nike Men's Dri-FIT Victory Golf Polo,469,468.6,385.1,547.3,prophet
+2017-07-25,Nike Men's Dri-FIT Victory Golf Polo,413,467.6,391.4,543.4,prophet
+2017-08-01,Nike Men's Dri-FIT Victory Golf Polo,450,465.2,390.4,540.4,prophet
+2017-08-08,Nike Men's Dri-FIT Victory Golf Polo,440,460.8,386.2,537.2,prophet
+2017-08-15,Nike Men's Dri-FIT Victory Golf Polo,415,451.8,370.2,534.0,prophet
+2017-08-22,Nike Men's Dri-FIT Victory Golf Polo,452,438.6,362.1,515.3,prophet
+2017-08-29,Nike Men's Dri-FIT Victory Golf Polo,446,427.7,353.1,499.7,prophet
+2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,464,427.1,348.9,497.9,prophet
+2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,407,439.1,358.6,513.9,prophet
+2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,451,457.3,383.8,534.2,prophet
+2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,448,470.6,387.3,543.2,prophet
+2017-07-11,Nike Men's Free 5.0+ Running Shoe,247,256.0,,,seasonal_naive
+2017-07-18,Nike Men's Free 5.0+ Running Shoe,273,210.0,,,seasonal_naive
+2017-07-25,Nike Men's Free 5.0+ Running Shoe,278,250.0,,,seasonal_naive
+2017-08-01,Nike Men's Free 5.0+ Running Shoe,234,265.0,,,seasonal_naive
+2017-08-08,Nike Men's Free 5.0+ Running Shoe,269,234.0,,,seasonal_naive
+2017-08-15,Nike Men's Free 5.0+ Running Shoe,246,239.0,,,seasonal_naive
+2017-08-22,Nike Men's Free 5.0+ Running Shoe,247,238.0,,,seasonal_naive
+2017-08-29,Nike Men's Free 5.0+ Running Shoe,264,277.0,,,seasonal_naive
+2017-09-05,Nike Men's Free 5.0+ Running Shoe,299,237.0,,,seasonal_naive
+2017-09-12,Nike Men's Free 5.0+ Running Shoe,206,251.0,,,seasonal_naive
+2017-09-19,Nike Men's Free 5.0+ Running Shoe,298,274.0,,,seasonal_naive
+2017-09-26,Nike Men's Free 5.0+ Running Shoe,252,266.0,,,seasonal_naive
+2017-07-11,Nike Men's Free 5.0+ Running Shoe,247,238.3,179.7,299.4,prophet
+2017-07-18,Nike Men's Free 5.0+ Running Shoe,273,224.7,173.3,282.2,prophet
+2017-07-25,Nike Men's Free 5.0+ Running Shoe,278,225.0,168.1,284.0,prophet
+2017-08-01,Nike Men's Free 5.0+ Running Shoe,234,236.9,179.7,296.1,prophet
+2017-08-08,Nike Men's Free 5.0+ Running Shoe,269,247.0,190.9,303.1,prophet
+2017-08-15,Nike Men's Free 5.0+ Running Shoe,246,245.7,182.3,303.1,prophet
+2017-08-22,Nike Men's Free 5.0+ Running Shoe,247,237.6,179.4,291.1,prophet
+2017-08-29,Nike Men's Free 5.0+ Running Shoe,264,235.1,177.1,291.7,prophet
+2017-09-05,Nike Men's Free 5.0+ Running Shoe,299,243.2,188.0,304.5,prophet
+2017-09-12,Nike Men's Free 5.0+ Running Shoe,206,253.9,197.4,313.4,prophet
+2017-09-19,Nike Men's Free 5.0+ Running Shoe,298,255.5,197.2,307.9,prophet
+2017-09-26,Nike Men's Free 5.0+ Running Shoe,252,246.8,184.3,304.7,prophet
+2017-07-11,O'Brien Men's Neoprene Life Vest,425,457.0,,,seasonal_naive
+2017-07-18,O'Brien Men's Neoprene Life Vest,373,384.0,,,seasonal_naive
+2017-07-25,O'Brien Men's Neoprene Life Vest,365,405.0,,,seasonal_naive
+2017-08-01,O'Brien Men's Neoprene Life Vest,376,383.0,,,seasonal_naive
+2017-08-08,O'Brien Men's Neoprene Life Vest,391,327.0,,,seasonal_naive
+2017-08-15,O'Brien Men's Neoprene Life Vest,350,416.0,,,seasonal_naive
+2017-08-22,O'Brien Men's Neoprene Life Vest,402,311.0,,,seasonal_naive
+2017-08-29,O'Brien Men's Neoprene Life Vest,445,384.0,,,seasonal_naive
+2017-09-05,O'Brien Men's Neoprene Life Vest,296,363.0,,,seasonal_naive
+2017-09-12,O'Brien Men's Neoprene Life Vest,373,473.0,,,seasonal_naive
+2017-09-19,O'Brien Men's Neoprene Life Vest,405,363.0,,,seasonal_naive
+2017-09-26,O'Brien Men's Neoprene Life Vest,338,452.0,,,seasonal_naive
+2017-07-11,O'Brien Men's Neoprene Life Vest,425,416.8,343.1,488.5,prophet
+2017-07-18,O'Brien Men's Neoprene Life Vest,373,418.4,347.4,491.2,prophet
+2017-07-25,O'Brien Men's Neoprene Life Vest,365,402.8,331.3,468.1,prophet
+2017-08-01,O'Brien Men's Neoprene Life Vest,376,373.8,305.1,438.1,prophet
+2017-08-08,O'Brien Men's Neoprene Life Vest,391,344.5,278.7,409.2,prophet
+2017-08-15,O'Brien Men's Neoprene Life Vest,350,332.5,262.9,393.6,prophet
+2017-08-22,O'Brien Men's Neoprene Life Vest,402,346.5,278.6,413.6,prophet
+2017-08-29,O'Brien Men's Neoprene Life Vest,445,378.5,311.1,445.8,prophet
+2017-09-05,O'Brien Men's Neoprene Life Vest,296,408.8,341.6,478.7,prophet
+2017-09-12,O'Brien Men's Neoprene Life Vest,373,422.8,355.5,496.2,prophet
+2017-09-19,O'Brien Men's Neoprene Life Vest,405,421.6,353.6,487.0,prophet
+2017-09-26,O'Brien Men's Neoprene Life Vest,338,417.1,349.2,492.8,prophet
+2017-07-11,Pelican Sunstream 100 Kayak,99,108.0,,,seasonal_naive
+2017-07-18,Pelican Sunstream 100 Kayak,119,120.0,,,seasonal_naive
+2017-07-25,Pelican Sunstream 100 Kayak,69,100.0,,,seasonal_naive
+2017-08-01,Pelican Sunstream 100 Kayak,118,96.0,,,seasonal_naive
+2017-08-08,Pelican Sunstream 100 Kayak,127,97.0,,,seasonal_naive
+2017-08-15,Pelican Sunstream 100 Kayak,117,112.0,,,seasonal_naive
+2017-08-22,Pelican Sunstream 100 Kayak,113,115.0,,,seasonal_naive
+2017-08-29,Pelican Sunstream 100 Kayak,98,109.0,,,seasonal_naive
+2017-09-05,Pelican Sunstream 100 Kayak,129,108.0,,,seasonal_naive
+2017-09-12,Pelican Sunstream 100 Kayak,92,115.0,,,seasonal_naive
+2017-09-19,Pelican Sunstream 100 Kayak,116,105.0,,,seasonal_naive
+2017-09-26,Pelican Sunstream 100 Kayak,103,120.0,,,seasonal_naive
+2017-07-11,Pelican Sunstream 100 Kayak,99,115.2,96.2,134.0,prophet
+2017-07-18,Pelican Sunstream 100 Kayak,119,109.8,91.4,127.3,prophet
+2017-07-25,Pelican Sunstream 100 Kayak,69,105.0,86.8,124.7,prophet
+2017-08-01,Pelican Sunstream 100 Kayak,118,103.5,86.2,123.5,prophet
+2017-08-08,Pelican Sunstream 100 Kayak,127,105.1,85.9,123.5,prophet
+2017-08-15,Pelican Sunstream 100 Kayak,117,108.0,90.1,126.7,prophet
+2017-08-22,Pelican Sunstream 100 Kayak,113,109.9,91.2,128.0,prophet
+2017-08-29,Pelican Sunstream 100 Kayak,98,109.8,91.8,130.7,prophet
+2017-09-05,Pelican Sunstream 100 Kayak,129,108.4,89.2,126.7,prophet
+2017-09-12,Pelican Sunstream 100 Kayak,92,107.0,88.0,126.2,prophet
+2017-09-19,Pelican Sunstream 100 Kayak,116,106.7,87.2,123.9,prophet
+2017-09-26,Pelican Sunstream 100 Kayak,103,107.6,88.2,126.3,prophet
+2017-07-11,Perfect Fitness Perfect Rip Deck,564,565.0,,,seasonal_naive
+2017-07-18,Perfect Fitness Perfect Rip Deck,489,481.0,,,seasonal_naive
+2017-07-25,Perfect Fitness Perfect Rip Deck,480,457.0,,,seasonal_naive
+2017-08-01,Perfect Fitness Perfect Rip Deck,503,497.0,,,seasonal_naive
+2017-08-08,Perfect Fitness Perfect Rip Deck,499,537.0,,,seasonal_naive
+2017-08-15,Perfect Fitness Perfect Rip Deck,504,537.0,,,seasonal_naive
+2017-08-22,Perfect Fitness Perfect Rip Deck,545,511.0,,,seasonal_naive
+2017-08-29,Perfect Fitness Perfect Rip Deck,582,547.0,,,seasonal_naive
+2017-09-05,Perfect Fitness Perfect Rip Deck,490,521.0,,,seasonal_naive
+2017-09-12,Perfect Fitness Perfect Rip Deck,472,511.0,,,seasonal_naive
+2017-09-19,Perfect Fitness Perfect Rip Deck,461,524.0,,,seasonal_naive
+2017-09-26,Perfect Fitness Perfect Rip Deck,449,496.0,,,seasonal_naive
+2017-07-11,Perfect Fitness Perfect Rip Deck,564,510.2,436.9,586.8,prophet
+2017-07-18,Perfect Fitness Perfect Rip Deck,489,491.8,419.4,569.4,prophet
+2017-07-25,Perfect Fitness Perfect Rip Deck,480,488.6,410.8,570.8,prophet
+2017-08-01,Perfect Fitness Perfect Rip Deck,503,504.8,428.4,580.9,prophet
+2017-08-08,Perfect Fitness Perfect Rip Deck,499,527.5,460.0,599.8,prophet
+2017-08-15,Perfect Fitness Perfect Rip Deck,504,540.0,468.1,611.9,prophet
+2017-08-22,Perfect Fitness Perfect Rip Deck,545,536.4,468.2,612.1,prophet
+2017-08-29,Perfect Fitness Perfect Rip Deck,582,524.7,452.1,596.5,prophet
+2017-09-05,Perfect Fitness Perfect Rip Deck,490,515.9,443.5,586.6,prophet
+2017-09-12,Perfect Fitness Perfect Rip Deck,472,513.2,445.5,591.2,prophet
+2017-09-19,Perfect Fitness Perfect Rip Deck,461,510.9,436.9,589.9,prophet
+2017-09-26,Perfect Fitness Perfect Rip Deck,449,503.6,427.8,583.3,prophet
+2017-07-11,Under Armour Girls' Toddler Spine Surge Runni,205,228.0,,,seasonal_naive
+2017-07-18,Under Armour Girls' Toddler Spine Surge Runni,261,164.0,,,seasonal_naive
+2017-07-25,Under Armour Girls' Toddler Spine Surge Runni,255,186.0,,,seasonal_naive
+2017-08-01,Under Armour Girls' Toddler Spine Surge Runni,216,259.0,,,seasonal_naive
+2017-08-08,Under Armour Girls' Toddler Spine Surge Runni,203,243.0,,,seasonal_naive
+2017-08-15,Under Armour Girls' Toddler Spine Surge Runni,241,258.0,,,seasonal_naive
+2017-08-22,Under Armour Girls' Toddler Spine Surge Runni,168,194.0,,,seasonal_naive
+2017-08-29,Under Armour Girls' Toddler Spine Surge Runni,239,209.0,,,seasonal_naive
+2017-09-05,Under Armour Girls' Toddler Spine Surge Runni,261,209.0,,,seasonal_naive
+2017-09-12,Under Armour Girls' Toddler Spine Surge Runni,210,264.0,,,seasonal_naive
+2017-09-19,Under Armour Girls' Toddler Spine Surge Runni,223,228.0,,,seasonal_naive
+2017-09-26,Under Armour Girls' Toddler Spine Surge Runni,173,158.0,,,seasonal_naive
+2017-07-11,Under Armour Girls' Toddler Spine Surge Runni,205,202.7,153.6,257.9,prophet
+2017-07-18,Under Armour Girls' Toddler Spine Surge Runni,261,199.1,146.1,252.8,prophet
+2017-07-25,Under Armour Girls' Toddler Spine Surge Runni,255,210.5,157.8,263.5,prophet
+2017-08-01,Under Armour Girls' Toddler Spine Surge Runni,216,225.8,171.3,276.2,prophet
+2017-08-08,Under Armour Girls' Toddler Spine Surge Runni,203,231.1,181.0,281.2,prophet
+2017-08-15,Under Armour Girls' Toddler Spine Surge Runni,241,223.0,169.2,273.7,prophet
+2017-08-22,Under Armour Girls' Toddler Spine Surge Runni,168,210.8,157.9,264.1,prophet
+2017-08-29,Under Armour Girls' Toddler Spine Surge Runni,239,207.2,154.8,258.9,prophet
+2017-09-05,Under Armour Girls' Toddler Spine Surge Runni,261,215.1,162.3,264.9,prophet
+2017-09-12,Under Armour Girls' Toddler Spine Surge Runni,210,226.0,170.7,276.9,prophet
+2017-09-19,Under Armour Girls' Toddler Spine Surge Runni,223,228.1,177.3,274.2,prophet
+2017-09-26,Under Armour Girls' Toddler Spine Surge Runni,173,218.9,164.5,269.7,prophet

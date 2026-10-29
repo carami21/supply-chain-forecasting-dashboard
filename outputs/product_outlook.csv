@@ -1,0 +1,109 @@
+week,product_name,yhat,yhat_lower,yhat_upper
+2017-10-03,Diamondback Women's Serene Classic Comfort Bi,95.7,80.9,113.0
+2017-10-10,Diamondback Women's Serene Classic Comfort Bi,96.9,79.3,113.4
+2017-10-17,Diamondback Women's Serene Classic Comfort Bi,100.3,83.7,117.0
+2017-10-24,Diamondback Women's Serene Classic Comfort Bi,103.1,87.1,119.5
+2017-10-31,Diamondback Women's Serene Classic Comfort Bi,103.0,85.6,118.8
+2017-11-07,Diamondback Women's Serene Classic Comfort Bi,100.7,85.5,118.0
+2017-11-14,Diamondback Women's Serene Classic Comfort Bi,98.5,82.6,116.0
+2017-11-21,Diamondback Women's Serene Classic Comfort Bi,97.2,81.6,113.1
+2017-11-28,Diamondback Women's Serene Classic Comfort Bi,95.6,78.3,112.8
+2017-12-05,Diamondback Women's Serene Classic Comfort Bi,92.6,75.6,109.1
+2017-12-12,Diamondback Women's Serene Classic Comfort Bi,89.5,72.8,106.6
+2017-12-19,Diamondback Women's Serene Classic Comfort Bi,89.2,72.8,106.6
+2017-10-03,Field & Stream Sportsman 16 Gun Fire Safe,115.3,91.7,137.7
+2017-10-10,Field & Stream Sportsman 16 Gun Fire Safe,115.5,94.1,139.4
+2017-10-17,Field & Stream Sportsman 16 Gun Fire Safe,119.2,97.5,142.0
+2017-10-24,Field & Stream Sportsman 16 Gun Fire Safe,125.6,101.8,147.7
+2017-10-31,Field & Stream Sportsman 16 Gun Fire Safe,131.3,109.6,151.8
+2017-11-07,Field & Stream Sportsman 16 Gun Fire Safe,132.8,109.3,155.1
+2017-11-14,Field & Stream Sportsman 16 Gun Fire Safe,129.9,107.1,153.4
+2017-11-21,Field & Stream Sportsman 16 Gun Fire Safe,125.1,102.3,147.3
+2017-11-28,Field & Stream Sportsman 16 Gun Fire Safe,121.9,99.7,145.1
+2017-12-05,Field & Stream Sportsman 16 Gun Fire Safe,121.4,99.3,144.6
+2017-12-12,Field & Stream Sportsman 16 Gun Fire Safe,122.2,99.5,145.3
+2017-12-19,Field & Stream Sportsman 16 Gun Fire Safe,122.9,100.7,146.3
+2017-10-03,Nike Men's CJ Elite 2 TD Football Cleat,158.2,131.5,182.8
+2017-10-10,Nike Men's CJ Elite 2 TD Football Cleat,159.5,134.7,184.7
+2017-10-17,Nike Men's CJ Elite 2 TD Football Cleat,161.2,136.7,186.5
+2017-10-24,Nike Men's CJ Elite 2 TD Football Cleat,163.7,140.0,187.3
+2017-10-31,Nike Men's CJ Elite 2 TD Football Cleat,166.0,143.1,189.6
+2017-11-07,Nike Men's CJ Elite 2 TD Football Cleat,164.9,140.3,188.7
+2017-11-14,Nike Men's CJ Elite 2 TD Football Cleat,159.0,133.7,183.9
+2017-11-21,Nike Men's CJ Elite 2 TD Football Cleat,151.4,126.3,176.2
+2017-11-28,Nike Men's CJ Elite 2 TD Football Cleat,148.2,122.2,173.1
+2017-12-05,Nike Men's CJ Elite 2 TD Football Cleat,152.8,127.2,178.1
+2017-12-12,Nike Men's CJ Elite 2 TD Football Cleat,161.7,137.3,185.6
+2017-12-19,Nike Men's CJ Elite 2 TD Football Cleat,167.4,140.8,194.1
+2017-10-03,Nike Men's Dri-FIT Victory Golf Polo,466.4,392.6,541.9
+2017-10-10,Nike Men's Dri-FIT Victory Golf Polo,459.5,385.9,534.6
+2017-10-17,Nike Men's Dri-FIT Victory Golf Polo,443.9,372.1,519.4
+2017-10-24,Nike Men's Dri-FIT Victory Golf Polo,427.1,351.8,501.0
+2017-10-31,Nike Men's Dri-FIT Victory Golf Polo,415.5,346.1,488.2
+2017-11-07,Nike Men's Dri-FIT Victory Golf Polo,411.0,334.6,481.4
+2017-11-14,Nike Men's Dri-FIT Victory Golf Polo,410.2,335.3,491.3
+2017-11-21,Nike Men's Dri-FIT Victory Golf Polo,408.9,336.0,485.5
+2017-11-28,Nike Men's Dri-FIT Victory Golf Polo,406.6,330.8,486.8
+2017-12-05,Nike Men's Dri-FIT Victory Golf Polo,407.4,336.6,478.8
+2017-12-12,Nike Men's Dri-FIT Victory Golf Polo,416.3,334.1,487.1
+2017-12-19,Nike Men's Dri-FIT Victory Golf Polo,433.4,356.6,506.7
+2017-10-03,Nike Men's Free 5.0+ Running Shoe,245.8,186.6,305.0
+2017-10-10,Nike Men's Free 5.0+ Running Shoe,245.8,191.6,305.8
+2017-10-17,Nike Men's Free 5.0+ Running Shoe,251.6,192.2,308.4
+2017-10-24,Nike Men's Free 5.0+ Running Shoe,256.3,201.3,313.2
+2017-10-31,Nike Men's Free 5.0+ Running Shoe,257.0,194.7,312.9
+2017-11-07,Nike Men's Free 5.0+ Running Shoe,257.7,203.7,315.2
+2017-11-14,Nike Men's Free 5.0+ Running Shoe,263.3,202.5,321.1
+2017-11-21,Nike Men's Free 5.0+ Running Shoe,272.1,213.1,327.6
+2017-11-28,Nike Men's Free 5.0+ Running Shoe,276.3,214.4,337.6
+2017-12-05,Nike Men's Free 5.0+ Running Shoe,271.0,208.0,326.5
+2017-12-12,Nike Men's Free 5.0+ Running Shoe,260.1,195.4,317.4
+2017-12-19,Nike Men's Free 5.0+ Running Shoe,252.9,193.9,311.0
+2017-10-03,O'Brien Men's Neoprene Life Vest,410.5,333.7,478.5
+2017-10-10,O'Brien Men's Neoprene Life Vest,418.5,351.4,495.5
+2017-10-17,O'Brien Men's Neoprene Life Vest,421.0,344.5,497.8
+2017-10-24,O'Brien Men's Neoprene Life Vest,418.0,346.9,486.2
+2017-10-31,O'Brien Men's Neoprene Life Vest,414.4,342.5,489.0
+2017-11-07,O'Brien Men's Neoprene Life Vest,412.2,341.9,479.3
+2017-11-14,O'Brien Men's Neoprene Life Vest,407.7,338.2,473.8
+2017-11-21,O'Brien Men's Neoprene Life Vest,398.3,321.6,470.1
+2017-11-28,O'Brien Men's Neoprene Life Vest,389.1,317.8,464.8
+2017-12-05,O'Brien Men's Neoprene Life Vest,389.9,314.1,466.8
+2017-12-12,O'Brien Men's Neoprene Life Vest,403.6,339.5,479.4
+2017-12-19,O'Brien Men's Neoprene Life Vest,419.4,345.5,495.2
+2017-10-03,Pelican Sunstream 100 Kayak,107.7,86.7,127.6
+2017-10-10,Pelican Sunstream 100 Kayak,108.2,86.7,128.0
+2017-10-17,Pelican Sunstream 100 Kayak,108.8,90.8,129.7
+2017-10-24,Pelican Sunstream 100 Kayak,109.4,89.3,129.9
+2017-10-31,Pelican Sunstream 100 Kayak,110.4,92.0,130.4
+2017-11-07,Pelican Sunstream 100 Kayak,111.6,90.8,131.2
+2017-11-14,Pelican Sunstream 100 Kayak,112.5,92.1,133.5
+2017-11-21,Pelican Sunstream 100 Kayak,112.1,91.8,132.5
+2017-11-28,Pelican Sunstream 100 Kayak,110.3,88.3,129.9
+2017-12-05,Pelican Sunstream 100 Kayak,107.9,87.7,128.2
+2017-12-12,Pelican Sunstream 100 Kayak,106.0,86.4,125.9
+2017-12-19,Pelican Sunstream 100 Kayak,104.7,86.8,124.5
+2017-10-03,Perfect Fitness Perfect Rip Deck,485.1,412.5,561.3
+2017-10-10,Perfect Fitness Perfect Rip Deck,488.8,407.6,564.8
+2017-10-17,Perfect Fitness Perfect Rip Deck,496.0,422.3,573.8
+2017-10-24,Perfect Fitness Perfect Rip Deck,503.6,429.0,580.4
+2017-10-31,Perfect Fitness Perfect Rip Deck,506.7,434.8,578.9
+2017-11-07,Perfect Fitness Perfect Rip Deck,504.7,431.1,576.8
+2017-11-14,Perfect Fitness Perfect Rip Deck,503.8,431.2,576.1
+2017-11-21,Perfect Fitness Perfect Rip Deck,511.1,437.7,586.1
+2017-11-28,Perfect Fitness Perfect Rip Deck,524.5,446.1,598.7
+2017-12-05,Perfect Fitness Perfect Rip Deck,531.6,462.5,600.3
+2017-12-12,Perfect Fitness Perfect Rip Deck,521.1,443.0,596.9
+2017-12-19,Perfect Fitness Perfect Rip Deck,497.3,423.4,574.1
+2017-10-03,Under Armour Girls' Toddler Spine Surge Runni,200.3,146.1,253.4
+2017-10-10,Under Armour Girls' Toddler Spine Surge Runni,202.9,149.2,253.2
+2017-10-17,Under Armour Girls' Toddler Spine Surge Runni,214.0,161.5,264.2
+2017-10-24,Under Armour Girls' Toddler Spine Surge Runni,225.0,175.4,278.2
+2017-10-31,Under Armour Girls' Toddler Spine Surge Runni,227.7,175.3,283.4
+2017-11-07,Under Armour Girls' Toddler Spine Surge Runni,221.4,163.8,274.7
+2017-11-14,Under Armour Girls' Toddler Spine Surge Runni,213.5,159.7,265.9
+2017-11-21,Under Armour Girls' Toddler Spine Surge Runni,212.7,160.0,264.1
+2017-11-28,Under Armour Girls' Toddler Spine Surge Runni,220.1,169.2,272.7
+2017-12-05,Under Armour Girls' Toddler Spine Surge Runni,227.2,172.1,280.3
+2017-12-12,Under Armour Girls' Toddler Spine Surge Runni,224.2,169.9,278.9
+2017-12-19,Under Armour Girls' Toddler Spine Surge Runni,211.1,159.9,264.6
