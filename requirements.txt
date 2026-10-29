@@ -4,3 +4,6 @@ prophet
 statsmodels
 matplotlib
 jupyter
+streamlit
+plotly
+duckdb
