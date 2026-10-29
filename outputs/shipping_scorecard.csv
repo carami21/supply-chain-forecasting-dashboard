@@ -1,0 +1,5 @@
+shipping_mode,order_lines,late_rate,promised_days,actual_days,avg_delay,p95_actual_days,share_of_lines
+Same Day,8819,0.476,0.0,0.476,0.476,1.0,0.054
+First Class,25217,1.0,1.0,2.0,1.0,2.0,0.154
+Second Class,32082,0.798,2.0,3.993,1.993,6.0,0.196
+Standard Class,97883,0.398,4.0,3.994,-0.006,6.0,0.597
