@@ -8,10 +8,19 @@ which are rising, and how much will each sell next?"
 
   hm_style_summary.csv    every product type: purchases, customers, avg price
   hm_style_weekly.csv     week x top styles : purchases
-  hm_trends.csv           8-week momentum per style (last 8 wks vs prior 8)
+  hm_trends.csv           per style: growth vs market (YoY growth of the last
+                          8 wks vs the same 8 wks a year earlier, relative to
+                          total-market YoY, i.e. share gain — the trend signal),
+                          raw YoY, and
+                          sequential momentum (vs the prior 8 wks — mostly
+                          season change in fashion, kept for reference)
   hm_style_forecasts.csv / hm_style_metrics.csv
-                          top styles: Prophet vs seasonal-naive, 8-week
-                          holdout, scored by WAPE
+                          top styles, 8-week holdout, scored by WAPE:
+                          seasonal_naive, prophet, and seasonal_naive_adj
+                          (last year's same week x this year's YoY run-rate).
+                          With only 2 years of history Prophet sees one
+                          seasonal cycle, so the adjusted naive is the
+                          retail-standard benchmark to beat.
   hm_colour_month.csv     month x colour group : purchases + share of month
   hm_group_weekly.csv     week x index group (Ladieswear, Menswear, ...)
 
@@ -58,7 +67,18 @@ TOP_N_WEEKLY = 20
 TOP_N_FORECAST = 12
 HOLDOUT_WEEKS = 8
 MOMENTUM_WEEKS = 8
-MIN_TREND_UNITS = 2000  # ignore tiny styles in the momentum ranking
+MIN_TREND_UNITS = 20000  # recent + last-year purchases; ignore tiny styles
+SEASON = 52
+
+
+def adjusted_naive(train: pd.Series, test_index: pd.DatetimeIndex) -> pd.DataFrame:
+    """Last year's same week, scaled by this year's run-rate: the ratio of
+    the last 8 training weeks to the same 8 weeks a year before. Keeps the
+    seasonal shape, corrects the level."""
+    fc = seasonal_naive(train, test_index)
+    ratio = (train.iloc[-MOMENTUM_WEEKS:].sum()
+             / train.iloc[-MOMENTUM_WEEKS - SEASON:-SEASON].sum())
+    return fc.assign(yhat=fc["yhat"] * ratio)
 
 
 def _query(con: duckdb.DuckDBPyConnection, sql: str) -> pd.DataFrame:
@@ -116,10 +136,19 @@ def run(raw: Path = RAW, out: Path = OUT) -> bool:
 
     recent = wide.tail(MOMENTUM_WEEKS).sum()
     prior = wide.iloc[-2 * MOMENTUM_WEEKS:-MOMENTUM_WEEKS].sum()
-    trend = pd.DataFrame({"recent_units": recent, "prior_units": prior})
-    trend = trend[(trend["recent_units"] + trend["prior_units"]) >= MIN_TREND_UNITS]
-    trend["growth"] = trend["recent_units"] / trend["prior_units"] - 1
-    trend = trend.replace([float("inf")], pd.NA).dropna().sort_values("growth", ascending=False)
+    last_year = wide.iloc[-MOMENTUM_WEEKS - SEASON:-SEASON].sum()
+    trend = pd.DataFrame({"recent_units": recent, "prior_units": prior,
+                          "last_year_units": last_year})
+    trend = trend[((trend["recent_units"] + trend["last_year_units"]) >= MIN_TREND_UNITS)
+                  & (trend.index != "Unknown")]
+    trend["yoy"] = trend["recent_units"] / trend["last_year_units"] - 1
+    # growth vs the market: total purchases fell YoY in 2020, so raw YoY
+    # drags every style down. >0 means the style gained share of the mix.
+    market = recent.sum() / last_year.sum()
+    trend["growth"] = (1 + trend["yoy"]) / market - 1
+    trend["momentum"] = trend["recent_units"] / trend["prior_units"] - 1  # sequential
+    trend = (trend.replace([float("inf")], pd.NA).dropna(subset=["growth"])
+                  .sort_values("growth", ascending=False))
     round_numeric(trend.rename_axis("product_type_name").reset_index(), 4) \
         .to_csv(out / "hm_trends.csv", index=False)
 
@@ -128,6 +157,7 @@ def run(raw: Path = RAW, out: Path = OUT) -> bool:
         s = wide[style].astype(float)
         train, test = s.iloc[:-HOLDOUT_WEEKS], s.iloc[-HOLDOUT_WEEKS:]
         for name, fc in [("seasonal_naive", seasonal_naive(train, test.index)),
+                         ("seasonal_naive_adj", adjusted_naive(train, test.index)),
                          ("prophet", prophet_forecast(train, test.index))]:
             fc = fc.reindex(test.index)
             forecasts.append(pd.DataFrame({
@@ -157,10 +187,14 @@ def run(raw: Path = RAW, out: Path = OUT) -> bool:
     print(f"  top style: {summary.iloc[0]['product_type_name']} "
           f"({summary.iloc[0]['unit_share']:.1%} of purchases)")
     if len(trend):
-        print(f"  fastest riser: {trend.index[0]} ({trend['growth'].iloc[0]:+.0%}); "
-              f"fastest faller: {trend.index[-1]} ({trend['growth'].iloc[-1]:+.0%})")
+        print(f"  market YoY: {market - 1:+.0%}; biggest share gainer: {trend.index[0]} "
+              f"({trend['growth'].iloc[0]:+.0%} vs market); biggest loser: "
+              f"{trend.index[-1]} ({trend['growth'].iloc[-1]:+.0%})")
+    best = metrics.loc[metrics.groupby("product_type_name")["wape"].idxmin(), "model"]
     print(f"  style forecasts (top {TOP_N_FORECAST}): mean WAPE "
-          f"seasonal_naive={m['seasonal_naive']:.1f}%  prophet={m['prophet']:.1f}%")
+          + "  ".join(f"{k}={v:.1f}%" for k, v in m.sort_values().items()))
+    print("  best model per style: " + ", ".join(f"{k} {v}" for k, v in
+                                                best.value_counts().items()))
     return True
 
 

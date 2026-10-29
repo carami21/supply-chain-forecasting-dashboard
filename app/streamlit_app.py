@@ -337,16 +337,22 @@ if hm_top is not None:
                 x=tr["growth"], y=tr["product_type_name"], orientation="h",
                 marker=dict(color=[SERIES[2] if g > 0 else SERIES[1] for g in tr["growth"]],
                             cornerradius=4),
-                hovertemplate="%{y}: %{x:+.0%} (last 8 wks vs prior 8)<extra></extra>"))
+                customdata=tr[["yoy", "recent_units"]].values,
+                hovertemplate="%{y}: %{x:+.0%} vs market<br>raw YoY %{customdata[0]:+.0%} · "
+                              "%{customdata[1]:,.0f} purchases (last 8 wks)<extra></extra>"))
             fig.update_xaxes(tickformat="+.0%")
-            right.plotly_chart(style(fig, "Rising and falling styles (8-wk momentum)", 460),
+            right.plotly_chart(style(fig, "Gaining / losing share: last 8 wks vs same weeks last "
+                                          "year, relative to market", 460),
                                use_container_width=True)
 
         if hm_fc is not None:
-            pick = st.selectbox("Style forecast", sorted(hm_fc["product_type_name"].unique()))
+            fc_styles = [t for t in hm_top["product_type_name"]
+                         if t in set(hm_fc["product_type_name"])]
+            pick = st.selectbox("Style forecast", fc_styles, index=0)
             h = hm_weekly[hm_weekly["product_type_name"] == pick].set_index("week")["units"]
             f = hm_fc[(hm_fc["product_type_name"] == pick)]
             fp, fn = f[f["model"] == "prophet"], f[f["model"] == "seasonal_naive"]
+            fa = f[f["model"] == "seasonal_naive_adj"]
             fig = go.Figure()
             fig.add_scatter(x=h.index, y=h.values, mode="lines", name="Actual",
                             line=dict(color=INK_2, width=1.5))
@@ -356,23 +362,48 @@ if hm_top is not None:
                             line=dict(width=0), name="Prophet 95% band", hoverinfo="skip")
             fig.add_scatter(x=fp["week"], y=fp["yhat"], mode="lines", name="Prophet",
                             line=dict(color=SERIES[0], width=2))
-            fig.add_scatter(x=fn["week"], y=fn["yhat"], mode="lines", name="Naive",
+            fig.add_scatter(x=fn["week"], y=fn["yhat"], mode="lines", name="Seasonal naive",
                             line=dict(color=SERIES[1], width=2, dash="dot"))
-            st.plotly_chart(style(fig, f"{pick}: weekly purchases", 420, "Purchases / week"),
-                            use_container_width=True)
+            if len(fa):
+                fig.add_scatter(x=fa["week"], y=fa["yhat"], mode="lines",
+                                name="Naive × YoY run-rate",
+                                line=dict(color=SERIES[2], width=2, dash="dash"))
+            fig.update_xaxes(range=[h.index.max() - pd.Timedelta(weeks=60),
+                                    h.index.max() + pd.Timedelta(days=4)])
+            st.plotly_chart(style(fig, f"{pick}: weekly purchases (last ~year)", 420,
+                                  "Purchases / week"), use_container_width=True)
             if hm_metrics is not None:
-                with st.expander("Style forecast accuracy (WAPE, 8-week holdout)"):
+                mm = hm_metrics[hm_metrics["product_type_name"] == pick].set_index("model")["wape"]
+                labels = {"prophet": "Prophet", "seasonal_naive": "Seasonal naive",
+                          "seasonal_naive_adj": "Naive × YoY"}
+                c = st.columns(len(mm) + 1)
+                for i, (k, v) in enumerate(mm.items()):
+                    c[i].metric(f"{labels.get(k, k)} WAPE", f"{v:.1f}%")
+                c[-1].metric("Use for this style", labels.get(mm.idxmin(), mm.idxmin()))
+                st.caption("8-week holdout. H&M covers only 2 years, so Prophet sees a single "
+                           "seasonal cycle; simple seasonal methods win most styles. "
+                           "Pick the model per style.")
+                with st.expander("Style forecast accuracy, all styles (WAPE %)"):
                     st.dataframe(hm_metrics.pivot(index="product_type_name", columns="model",
-                                                  values="wape"), use_container_width=True)
+                                                  values="wape").round(1),
+                                 use_container_width=True)
 
         if hm_colour is not None:
             top_c = hm_colour.groupby("colour_group_name")["units"].sum().nlargest(8).index
             hc = hm_colour[hm_colour["colour_group_name"].isin(top_c)]
             share = hc.pivot_table(index="colour_group_name", columns="month",
-                                   values="share", aggfunc="sum").fillna(0)
-            fig = go.Figure(go.Heatmap(z=share.values, x=share.columns.astype(str),
-                                       y=share.index, colorscale=SEQ, xgap=2, ygap=2,
-                                       colorbar=dict(tickformat=".1%"),
-                                       hovertemplate="%{y} · %{x}: %{z:.1%}<extra></extra>"))
-            st.plotly_chart(style(fig, "Colour share of purchases by month", 380),
+                                   values="share", aggfunc="sum").fillna(0).reindex(top_c)
+            # index each colour to its own average share: Black is ~35% of all
+            # purchases, so raw share hides every other colour's seasonality
+            idx = share.div(share.mean(axis=1), axis=0)
+            fig = go.Figure(go.Heatmap(
+                z=idx.values, x=idx.columns.astype(str), y=idx.index, zmid=1,
+                colorscale=[[0, "#2a78d6"], [0.5, "#f0efec"], [1, "#e34948"]],
+                xgap=2, ygap=2, customdata=share.values,
+                colorbar=dict(title="vs avg", tickformat=".1f"),
+                hovertemplate="%{y} · %{x}<br>%{z:.2f}× its average share "
+                              "(%{customdata:.1%} of purchases)<extra></extra>"))
+            fig.update_yaxes(autorange="reversed")
+            st.plotly_chart(style(fig, "Colour seasonality: monthly share vs that colour's "
+                                       "average (red = above, blue = below)", 400),
                             use_container_width=True)

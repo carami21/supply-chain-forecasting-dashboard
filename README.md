@@ -22,18 +22,31 @@ Results ship in a Streamlit dashboard plus Tableau-ready extracts.
 | 📈 | **Prophet beats seasonal-naive**: 10.2% vs 11.6% MAPE by category, 10.0% vs 11.4% WAPE by product (~12% better, wins 6 of 9 products). | Sizing safety stock on Prophet's error instead of naive's frees **$5.4K** of inventory at the same service level, led by the Nike Dri-FIT polo (40 fewer units). |
 | ⚠️ | **5.3% of category-weeks** breach the 95% band (2 high severity); 29 region-weeks show late-rate spikes >2σ. | Only medium/high flags are actionable; ~5% low flags are what a 95% band produces by chance. |
 
+### Fashion style trends (H&M, 31.6M real purchases, Sep 2018 – Sep 2020)
+
+| | Finding | So what |
+|---|---|---|
+| 👖 | **Trousers lead at 13% of purchases**, then Dresses (10%) and Sweaters (9%). | Core styles to never stock out. |
+| 🧥 | With the overall market flat year-over-year, **Cardigans gained +48% share, Hoodies +27%, Blazers +22%, Leggings +18%**, and Earrings/Necklaces about +35%. **Shorts lost 28%, Sweaters 23%, Jumpsuits 23%, Blouses 11%.** | A 2020 shift toward comfortable layering and accessories. Buyers should move open-to-buy dollars from going-out pieces into layering pieces. |
+| 🎨 | Black is about 35% of everything. White and Light Blue run 1.3–1.5× their average share in spring and summer; Dark Blue peaks in autumn and winter. | Time colourway allocations by season, not evenly across the year. |
+| 📉 | Style forecasts on an 8-week holdout: **seasonal naive 23.0% WAPE, naive × YoY run-rate 23.8%, Prophet 26.8%**. Prophet wins only on Dress. | With 2 years of history Prophet sees one seasonal cycle, so simple seasonal methods win. Pick the model per style (the dashboard does). |
+
+"Share gain" compares the last 8 weeks to the same 8 weeks a year earlier, relative to the total market. A raw 8-week-vs-prior-8 comparison mostly measures season change (it shows Boots up 300% in September), so it is reported only as a secondary column.
+
 Full generated memo: [`outputs/recommendations.md`](outputs/recommendations.md).
 
 ## Dashboard
 
 ```bash
-python run_pipeline.py          # ~5 s on DataCo; + a few minutes if H&M data is present
+python run_pipeline.py          # ~5 s on DataCo; ~15 s total with the 3.5 GB H&M file (DuckDB)
 streamlit run app/streamlit_app.py
 ```
 
 | Brands & Products | Demand Forecast | Inventory & Logistics |
 |---|---|---|
 | ![](docs/screenshots/dash_brands.png) | ![](docs/screenshots/dash_forecast.png) | ![](docs/screenshots/dash_inventory.png) |
+
+![Style Trends (H&M)](docs/screenshots/dash_styles_full.png)
 
 Tableau Public version: build from `tableau/*.csv` with
 [`docs/tableau_build_guide.md`](docs/tableau_build_guide.md).

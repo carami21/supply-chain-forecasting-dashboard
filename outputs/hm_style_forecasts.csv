@@ -1,0 +1,289 @@
+week,product_type_name,actual,yhat,yhat_lower,yhat_upper,model
+2020-07-27,Trousers,33188.0,34362.0,,,seasonal_naive
+2020-08-03,Trousers,27104.0,37921.0,,,seasonal_naive
+2020-08-10,Trousers,26508.0,43756.0,,,seasonal_naive
+2020-08-17,Trousers,33058.0,37647.0,,,seasonal_naive
+2020-08-24,Trousers,47341.0,33742.0,,,seasonal_naive
+2020-08-31,Trousers,46298.0,43355.0,,,seasonal_naive
+2020-09-07,Trousers,45162.0,40474.0,,,seasonal_naive
+2020-09-14,Trousers,36663.0,37198.0,,,seasonal_naive
+2020-07-27,Trousers,33188.0,32861.6,,,seasonal_naive_adj
+2020-08-03,Trousers,27104.0,36265.2,,,seasonal_naive_adj
+2020-08-10,Trousers,26508.0,41845.5,,,seasonal_naive_adj
+2020-08-17,Trousers,33058.0,36003.2,,,seasonal_naive_adj
+2020-08-24,Trousers,47341.0,32268.7,,,seasonal_naive_adj
+2020-08-31,Trousers,46298.0,41462.0,,,seasonal_naive_adj
+2020-09-07,Trousers,45162.0,38706.8,,,seasonal_naive_adj
+2020-09-14,Trousers,36663.0,35573.8,,,seasonal_naive_adj
+2020-07-27,Trousers,33188.0,33097.1,18176.1,47951.6,prophet
+2020-08-03,Trousers,27104.0,35587.3,22400.4,49660.1,prophet
+2020-08-10,Trousers,26508.0,33830.5,19851.5,47881.9,prophet
+2020-08-17,Trousers,33058.0,29875.4,15942.4,44011.7,prophet
+2020-08-24,Trousers,47341.0,28342.6,14736.6,42513.9,prophet
+2020-08-31,Trousers,46298.0,31671.1,16771.8,46167.6,prophet
+2020-09-07,Trousers,45162.0,37925.9,22168.9,53080.6,prophet
+2020-09-14,Trousers,36663.0,43047.5,29119.2,56592.4,prophet
+2020-07-27,Dress,49509.0,41015.0,,,seasonal_naive
+2020-08-03,Dress,48727.0,33245.0,,,seasonal_naive
+2020-08-10,Dress,40894.0,33383.0,,,seasonal_naive
+2020-08-17,Dress,27814.0,25313.0,,,seasonal_naive
+2020-08-24,Dress,21588.0,23377.0,,,seasonal_naive
+2020-08-31,Dress,17327.0,19317.0,,,seasonal_naive
+2020-09-07,Dress,20103.0,19062.0,,,seasonal_naive
+2020-09-14,Dress,18323.0,20393.0,,,seasonal_naive
+2020-07-27,Dress,49509.0,38701.2,,,seasonal_naive_adj
+2020-08-03,Dress,48727.0,31369.6,,,seasonal_naive_adj
+2020-08-10,Dress,40894.0,31499.8,,,seasonal_naive_adj
+2020-08-17,Dress,27814.0,23885.0,,,seasonal_naive_adj
+2020-08-24,Dress,21588.0,22058.2,,,seasonal_naive_adj
+2020-08-31,Dress,17327.0,18227.3,,,seasonal_naive_adj
+2020-09-07,Dress,20103.0,17986.7,,,seasonal_naive_adj
+2020-09-14,Dress,18323.0,19242.6,,,seasonal_naive_adj
+2020-07-27,Dress,49509.0,47440.0,32038.6,62772.8,prophet
+2020-08-03,Dress,48727.0,46618.5,33007.0,61144.5,prophet
+2020-08-10,Dress,40894.0,35415.0,20985.9,49918.7,prophet
+2020-08-17,Dress,27814.0,22494.6,8113.1,37086.0,prophet
+2020-08-24,Dress,21588.0,17351.2,3307.2,31978.8,prophet
+2020-08-31,Dress,17327.0,20609.1,5230.1,35572.3,prophet
+2020-09-07,Dress,20103.0,25213.6,8949.3,40856.3,prophet
+2020-09-14,Dress,18323.0,25401.0,11024.4,39382.0,prophet
+2020-07-27,Sweater,8186.0,11727.0,,,seasonal_naive
+2020-08-03,Sweater,5301.0,15454.0,,,seasonal_naive
+2020-08-10,Sweater,7029.0,28250.0,,,seasonal_naive
+2020-08-17,Sweater,12056.0,20319.0,,,seasonal_naive
+2020-08-24,Sweater,28415.0,17348.0,,,seasonal_naive
+2020-08-31,Sweater,30709.0,33741.0,,,seasonal_naive
+2020-09-07,Sweater,35372.0,38911.0,,,seasonal_naive
+2020-09-14,Sweater,29054.0,37190.0,,,seasonal_naive
+2020-07-27,Sweater,8186.0,8323.8,,,seasonal_naive_adj
+2020-08-03,Sweater,5301.0,10969.2,,,seasonal_naive_adj
+2020-08-10,Sweater,7029.0,20051.7,,,seasonal_naive_adj
+2020-08-17,Sweater,12056.0,14422.3,,,seasonal_naive_adj
+2020-08-24,Sweater,28415.0,12313.5,,,seasonal_naive_adj
+2020-08-31,Sweater,30709.0,23949.2,,,seasonal_naive_adj
+2020-09-07,Sweater,35372.0,27618.8,,,seasonal_naive_adj
+2020-09-14,Sweater,29054.0,26397.3,,,seasonal_naive_adj
+2020-07-27,Sweater,8186.0,9718.6,0.0,27912.6,prophet
+2020-08-03,Sweater,5301.0,15197.0,0.0,32433.5,prophet
+2020-08-10,Sweater,7029.0,16712.9,0.0,33923.0,prophet
+2020-08-17,Sweater,12056.0,14753.0,0.0,32067.4,prophet
+2020-08-24,Sweater,28415.0,14801.2,0.0,32158.4,prophet
+2020-08-31,Sweater,30709.0,21802.3,3553.6,39557.8,prophet
+2020-09-07,Sweater,35372.0,34844.2,15545.0,53405.9,prophet
+2020-09-14,Sweater,29054.0,47736.2,30676.6,64326.1,prophet
+2020-07-27,T-shirt,25146.0,25989.0,,,seasonal_naive
+2020-08-03,T-shirt,24547.0,23691.0,,,seasonal_naive
+2020-08-10,T-shirt,21825.0,22484.0,,,seasonal_naive
+2020-08-17,T-shirt,20990.0,20090.0,,,seasonal_naive
+2020-08-24,T-shirt,19646.0,19349.0,,,seasonal_naive
+2020-08-31,T-shirt,15702.0,16625.0,,,seasonal_naive
+2020-09-07,T-shirt,15058.0,13782.0,,,seasonal_naive
+2020-09-14,T-shirt,13084.0,12640.0,,,seasonal_naive
+2020-07-27,T-shirt,25146.0,21802.7,,,seasonal_naive_adj
+2020-08-03,T-shirt,24547.0,19874.9,,,seasonal_naive_adj
+2020-08-10,T-shirt,21825.0,18862.3,,,seasonal_naive_adj
+2020-08-17,T-shirt,20990.0,16853.9,,,seasonal_naive_adj
+2020-08-24,T-shirt,19646.0,16232.3,,,seasonal_naive_adj
+2020-08-31,T-shirt,15702.0,13947.1,,,seasonal_naive_adj
+2020-09-07,T-shirt,15058.0,11562.0,,,seasonal_naive_adj
+2020-09-14,T-shirt,13084.0,10604.0,,,seasonal_naive_adj
+2020-07-27,T-shirt,25146.0,24381.1,16749.2,31979.0,prophet
+2020-08-03,T-shirt,24547.0,22527.3,15782.3,29725.4,prophet
+2020-08-10,T-shirt,21825.0,18261.1,11111.0,25448.2,prophet
+2020-08-17,T-shirt,20990.0,13739.5,6612.9,20970.0,prophet
+2020-08-24,T-shirt,19646.0,11437.9,4478.6,18686.4,prophet
+2020-08-31,T-shirt,15702.0,11496.5,3875.7,18911.3,prophet
+2020-09-07,T-shirt,15058.0,12013.4,3954.0,19764.9,prophet
+2020-09-14,T-shirt,13084.0,11524.8,4400.6,18452.9,prophet
+2020-07-27,Top,15533.0,17900.0,,,seasonal_naive
+2020-08-03,Top,12860.0,17584.0,,,seasonal_naive
+2020-08-10,Top,12057.0,17889.0,,,seasonal_naive
+2020-08-17,Top,13729.0,14160.0,,,seasonal_naive
+2020-08-24,Top,18277.0,12520.0,,,seasonal_naive
+2020-08-31,Top,18117.0,16706.0,,,seasonal_naive
+2020-09-07,Top,18962.0,16157.0,,,seasonal_naive
+2020-09-14,Top,15179.0,15866.0,,,seasonal_naive
+2020-07-27,Top,15533.0,16511.1,,,seasonal_naive_adj
+2020-08-03,Top,12860.0,16219.6,,,seasonal_naive_adj
+2020-08-10,Top,12057.0,16500.9,,,seasonal_naive_adj
+2020-08-17,Top,13729.0,13061.3,,,seasonal_naive_adj
+2020-08-24,Top,18277.0,11548.5,,,seasonal_naive_adj
+2020-08-31,Top,18117.0,15409.7,,,seasonal_naive_adj
+2020-09-07,Top,18962.0,14903.3,,,seasonal_naive_adj
+2020-09-14,Top,15179.0,14634.9,,,seasonal_naive_adj
+2020-07-27,Top,15533.0,19109.7,13516.2,24678.2,prophet
+2020-08-03,Top,12860.0,19187.8,14244.3,24463.4,prophet
+2020-08-10,Top,12057.0,16135.5,10895.1,21403.0,prophet
+2020-08-17,Top,13729.0,12706.0,7482.8,18005.3,prophet
+2020-08-24,Top,18277.0,12010.0,6909.4,17322.5,prophet
+2020-08-31,Top,18117.0,14322.2,8736.7,19756.5,prophet
+2020-09-07,Top,18962.0,17124.5,11217.4,22805.6,prophet
+2020-09-14,Top,15179.0,17958.5,12737.4,23036.2,prophet
+2020-07-27,Blouse,12258.0,17721.0,,,seasonal_naive
+2020-08-03,Blouse,11562.0,15927.0,,,seasonal_naive
+2020-08-10,Blouse,12080.0,16846.0,,,seasonal_naive
+2020-08-17,Blouse,11101.0,11152.0,,,seasonal_naive
+2020-08-24,Blouse,12366.0,9618.0,,,seasonal_naive
+2020-08-31,Blouse,10946.0,11076.0,,,seasonal_naive
+2020-09-07,Blouse,10766.0,10689.0,,,seasonal_naive
+2020-09-14,Blouse,10273.0,9679.0,,,seasonal_naive
+2020-07-27,Blouse,12258.0,12414.0,,,seasonal_naive_adj
+2020-08-03,Blouse,11562.0,11157.2,,,seasonal_naive_adj
+2020-08-10,Blouse,12080.0,11801.0,,,seasonal_naive_adj
+2020-08-17,Blouse,11101.0,7812.2,,,seasonal_naive_adj
+2020-08-24,Blouse,12366.0,6737.6,,,seasonal_naive_adj
+2020-08-31,Blouse,10946.0,7759.0,,,seasonal_naive_adj
+2020-09-07,Blouse,10766.0,7487.9,,,seasonal_naive_adj
+2020-09-14,Blouse,10273.0,6780.4,,,seasonal_naive_adj
+2020-07-27,Blouse,12258.0,16362.2,9985.9,22710.1,prophet
+2020-08-03,Blouse,11562.0,14905.5,9270.2,20919.3,prophet
+2020-08-10,Blouse,12080.0,10249.3,4275.5,16253.9,prophet
+2020-08-17,Blouse,11101.0,5577.2,0.0,11618.2,prophet
+2020-08-24,Blouse,12366.0,3965.9,0.0,10021.8,prophet
+2020-08-31,Blouse,10946.0,5415.4,0.0,11610.3,prophet
+2020-09-07,Blouse,10766.0,7496.2,762.5,13972.4,prophet
+2020-09-14,Blouse,10273.0,8295.6,2343.6,14083.9,prophet
+2020-07-27,Vest top,17533.0,21403.0,,,seasonal_naive
+2020-08-03,Vest top,19058.0,16326.0,,,seasonal_naive
+2020-08-10,Vest top,17333.0,15320.0,,,seasonal_naive
+2020-08-17,Vest top,10990.0,12574.0,,,seasonal_naive
+2020-08-24,Vest top,8489.0,11296.0,,,seasonal_naive
+2020-08-31,Vest top,6465.0,7716.0,,,seasonal_naive
+2020-09-07,Vest top,6411.0,6259.0,,,seasonal_naive
+2020-09-14,Vest top,5446.0,5658.0,,,seasonal_naive
+2020-07-27,Vest top,17533.0,14193.0,,,seasonal_naive_adj
+2020-08-03,Vest top,19058.0,10826.3,,,seasonal_naive_adj
+2020-08-10,Vest top,17333.0,10159.2,,,seasonal_naive_adj
+2020-08-17,Vest top,10990.0,8338.2,,,seasonal_naive_adj
+2020-08-24,Vest top,8489.0,7490.7,,,seasonal_naive_adj
+2020-08-31,Vest top,6465.0,5116.7,,,seasonal_naive_adj
+2020-09-07,Vest top,6411.0,4150.5,,,seasonal_naive_adj
+2020-09-14,Vest top,5446.0,3752.0,,,seasonal_naive_adj
+2020-07-27,Vest top,17533.0,20192.7,12980.7,27370.7,prophet
+2020-08-03,Vest top,19058.0,18319.3,11945.4,25121.3,prophet
+2020-08-10,Vest top,17333.0,12990.5,6233.9,19782.2,prophet
+2020-08-17,Vest top,10990.0,7256.9,522.6,14091.6,prophet
+2020-08-24,Vest top,8489.0,4394.7,0.0,11244.3,prophet
+2020-08-31,Vest top,6465.0,4525.7,0.0,11528.2,prophet
+2020-09-07,Vest top,6411.0,5105.1,0.0,12425.6,prophet
+2020-09-14,Vest top,5446.0,4208.5,0.0,10756.7,prophet
+2020-07-27,Bra,13649.0,13359.0,,,seasonal_naive
+2020-08-03,Bra,12905.0,13601.0,,,seasonal_naive
+2020-08-10,Bra,12729.0,14040.0,,,seasonal_naive
+2020-08-17,Bra,12783.0,11814.0,,,seasonal_naive
+2020-08-24,Bra,11554.0,11204.0,,,seasonal_naive
+2020-08-31,Bra,9549.0,10195.0,,,seasonal_naive
+2020-09-07,Bra,10203.0,8725.0,,,seasonal_naive
+2020-09-14,Bra,8716.0,7721.0,,,seasonal_naive
+2020-07-27,Bra,13649.0,15152.1,,,seasonal_naive_adj
+2020-08-03,Bra,12905.0,15426.6,,,seasonal_naive_adj
+2020-08-10,Bra,12729.0,15924.5,,,seasonal_naive_adj
+2020-08-17,Bra,12783.0,13399.7,,,seasonal_naive_adj
+2020-08-24,Bra,11554.0,12707.9,,,seasonal_naive_adj
+2020-08-31,Bra,9549.0,11563.4,,,seasonal_naive_adj
+2020-09-07,Bra,10203.0,9896.1,,,seasonal_naive_adj
+2020-09-14,Bra,8716.0,8757.4,,,seasonal_naive_adj
+2020-07-27,Bra,13649.0,15769.8,10787.0,20730.3,prophet
+2020-08-03,Bra,12905.0,16751.7,12348.0,21451.2,prophet
+2020-08-10,Bra,12729.0,15699.6,11031.4,20391.9,prophet
+2020-08-17,Bra,12783.0,13465.0,8812.2,18185.7,prophet
+2020-08-24,Bra,11554.0,11804.1,7260.4,16536.5,prophet
+2020-08-31,Bra,9549.0,11507.2,6531.7,16348.2,prophet
+2020-09-07,Bra,10203.0,12017.0,6755.1,17077.8,prophet
+2020-09-14,Bra,8716.0,12524.7,7873.4,17047.9,prophet
+2020-07-27,Shorts,15369.0,25394.0,,,seasonal_naive
+2020-08-03,Shorts,18740.0,16727.0,,,seasonal_naive
+2020-08-10,Shorts,12935.0,14196.0,,,seasonal_naive
+2020-08-17,Shorts,6925.0,11405.0,,,seasonal_naive
+2020-08-24,Shorts,2985.0,9861.0,,,seasonal_naive
+2020-08-31,Shorts,2098.0,4185.0,,,seasonal_naive
+2020-09-07,Shorts,1857.0,2773.0,,,seasonal_naive
+2020-09-14,Shorts,1652.0,2073.0,,,seasonal_naive
+2020-07-27,Shorts,15369.0,15591.4,,,seasonal_naive_adj
+2020-08-03,Shorts,18740.0,10270.0,,,seasonal_naive_adj
+2020-08-10,Shorts,12935.0,8716.0,,,seasonal_naive_adj
+2020-08-17,Shorts,6925.0,7002.4,,,seasonal_naive_adj
+2020-08-24,Shorts,2985.0,6054.4,,,seasonal_naive_adj
+2020-08-31,Shorts,2098.0,2569.5,,,seasonal_naive_adj
+2020-09-07,Shorts,1857.0,1702.6,,,seasonal_naive_adj
+2020-09-14,Shorts,1652.0,1272.8,,,seasonal_naive_adj
+2020-07-27,Shorts,15369.0,21793.7,11901.9,31639.0,prophet
+2020-08-03,Shorts,18740.0,18866.2,10123.9,28195.7,prophet
+2020-08-10,Shorts,12935.0,10909.6,1642.3,20225.0,prophet
+2020-08-17,Shorts,6925.0,2754.7,0.0,12140.1,prophet
+2020-08-24,Shorts,2985.0,0.0,0.0,8352.8,prophet
+2020-08-31,Shorts,2098.0,0.0,0.0,8737.0,prophet
+2020-09-07,Shorts,1857.0,0.0,0.0,9382.8,prophet
+2020-09-14,Shorts,1652.0,0.0,0.0,6134.3,prophet
+2020-07-27,Bikini top,14022.0,16926.0,,,seasonal_naive
+2020-08-03,Bikini top,22426.0,12325.0,,,seasonal_naive
+2020-08-10,Bikini top,15724.0,9758.0,,,seasonal_naive
+2020-08-17,Bikini top,5952.0,7002.0,,,seasonal_naive
+2020-08-24,Bikini top,3328.0,5486.0,,,seasonal_naive
+2020-08-31,Bikini top,2281.0,3056.0,,,seasonal_naive
+2020-09-07,Bikini top,1628.0,2080.0,,,seasonal_naive
+2020-09-14,Bikini top,1426.0,1608.0,,,seasonal_naive
+2020-07-27,Bikini top,14022.0,13056.0,,,seasonal_naive_adj
+2020-08-03,Bikini top,22426.0,9507.0,,,seasonal_naive_adj
+2020-08-10,Bikini top,15724.0,7526.9,,,seasonal_naive_adj
+2020-08-17,Bikini top,5952.0,5401.0,,,seasonal_naive_adj
+2020-08-24,Bikini top,3328.0,4231.7,,,seasonal_naive_adj
+2020-08-31,Bikini top,2281.0,2357.3,,,seasonal_naive_adj
+2020-09-07,Bikini top,1628.0,1604.4,,,seasonal_naive_adj
+2020-09-14,Bikini top,1426.0,1240.3,,,seasonal_naive_adj
+2020-07-27,Bikini top,14022.0,17837.3,10987.3,24656.8,prophet
+2020-08-03,Bikini top,22426.0,15011.9,8958.0,21472.6,prophet
+2020-08-10,Bikini top,15724.0,9050.4,2632.9,15501.2,prophet
+2020-08-17,Bikini top,5952.0,3427.3,0.0,9917.1,prophet
+2020-08-24,Bikini top,3328.0,1092.8,0.0,7598.6,prophet
+2020-08-31,Bikini top,2281.0,1509.2,0.0,8164.3,prophet
+2020-09-07,Bikini top,1628.0,1860.5,0.0,8817.8,prophet
+2020-09-14,Bikini top,1426.0,535.0,0.0,6753.2,prophet
+2020-07-27,Swimwear bottom,12849.0,18130.0,,,seasonal_naive
+2020-08-03,Swimwear bottom,20283.0,13016.0,,,seasonal_naive
+2020-08-10,Swimwear bottom,14149.0,10478.0,,,seasonal_naive
+2020-08-17,Swimwear bottom,5546.0,7271.0,,,seasonal_naive
+2020-08-24,Swimwear bottom,3094.0,5859.0,,,seasonal_naive
+2020-08-31,Swimwear bottom,2217.0,3423.0,,,seasonal_naive
+2020-09-07,Swimwear bottom,1646.0,2388.0,,,seasonal_naive
+2020-09-14,Swimwear bottom,1423.0,1847.0,,,seasonal_naive
+2020-07-27,Swimwear bottom,12849.0,12553.4,,,seasonal_naive_adj
+2020-08-03,Swimwear bottom,20283.0,9012.4,,,seasonal_naive_adj
+2020-08-10,Swimwear bottom,14149.0,7255.1,,,seasonal_naive_adj
+2020-08-17,Swimwear bottom,5546.0,5034.5,,,seasonal_naive_adj
+2020-08-24,Swimwear bottom,3094.0,4056.8,,,seasonal_naive_adj
+2020-08-31,Swimwear bottom,2217.0,2370.1,,,seasonal_naive_adj
+2020-09-07,Swimwear bottom,1646.0,1653.5,,,seasonal_naive_adj
+2020-09-14,Swimwear bottom,1423.0,1278.9,,,seasonal_naive_adj
+2020-07-27,Swimwear bottom,12849.0,18179.4,11278.7,25048.2,prophet
+2020-08-03,Swimwear bottom,20283.0,15172.1,9073.3,21680.5,prophet
+2020-08-10,Swimwear bottom,14149.0,8824.8,2359.7,15323.3,prophet
+2020-08-17,Swimwear bottom,5546.0,2863.1,0.0,9400.3,prophet
+2020-08-24,Swimwear bottom,3094.0,419.0,0.0,6973.0,prophet
+2020-08-31,Swimwear bottom,2217.0,909.0,0.0,7611.8,prophet
+2020-09-07,Swimwear bottom,1646.0,1314.1,0.0,8321.2,prophet
+2020-09-14,Swimwear bottom,1423.0,0.0,0.0,6149.4,prophet
+2020-07-27,Underwear bottom,9936.0,10912.0,,,seasonal_naive
+2020-08-03,Underwear bottom,10044.0,10126.0,,,seasonal_naive
+2020-08-10,Underwear bottom,10236.0,11887.0,,,seasonal_naive
+2020-08-17,Underwear bottom,10247.0,9159.0,,,seasonal_naive
+2020-08-24,Underwear bottom,10653.0,8749.0,,,seasonal_naive
+2020-08-31,Underwear bottom,8508.0,8207.0,,,seasonal_naive
+2020-09-07,Underwear bottom,8669.0,7297.0,,,seasonal_naive
+2020-09-14,Underwear bottom,7899.0,6566.0,,,seasonal_naive
+2020-07-27,Underwear bottom,9936.0,9350.2,,,seasonal_naive_adj
+2020-08-03,Underwear bottom,10044.0,8676.7,,,seasonal_naive_adj
+2020-08-10,Underwear bottom,10236.0,10185.7,,,seasonal_naive_adj
+2020-08-17,Underwear bottom,10247.0,7848.1,,,seasonal_naive_adj
+2020-08-24,Underwear bottom,10653.0,7496.8,,,seasonal_naive_adj
+2020-08-31,Underwear bottom,8508.0,7032.4,,,seasonal_naive_adj
+2020-09-07,Underwear bottom,8669.0,6252.6,,,seasonal_naive_adj
+2020-09-14,Underwear bottom,7899.0,5626.2,,,seasonal_naive_adj
+2020-07-27,Underwear bottom,9936.0,10757.2,6989.5,14508.2,prophet
+2020-08-03,Underwear bottom,10044.0,11099.9,7770.1,14653.5,prophet
+2020-08-10,Underwear bottom,10236.0,10292.1,6762.2,13840.2,prophet
+2020-08-17,Underwear bottom,10247.0,8785.5,5267.2,12355.1,prophet
+2020-08-24,Underwear bottom,10653.0,7616.0,4180.3,11194.4,prophet
+2020-08-31,Underwear bottom,8508.0,7359.2,3597.0,11019.8,prophet
+2020-09-07,Underwear bottom,8669.0,7769.5,3790.7,11596.2,prophet
+2020-09-14,Underwear bottom,7899.0,8271.3,4754.3,11691.6,prophet

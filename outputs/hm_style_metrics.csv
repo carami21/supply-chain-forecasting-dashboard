@@ -1,0 +1,37 @@
+product_type_name,model,wape,rmse,n_test
+Trousers,seasonal_naive,18.82,9033.2,8
+Trousers,seasonal_naive_adj,18.7,8813.1,8
+Trousers,prophet,22.46,10023.3,8
+Dress,seasonal_naive,16.73,6955.6,8
+Dress,seasonal_naive_adj,18.79,8125.1,8
+Dress,prophet,14.2,4636.6,8
+Sweater,seasonal_naive,44.17,10275.1,8
+Sweater,seasonal_naive_adj,34.89,8510.7,8
+Sweater,prophet,41.98,10095.1,8
+T-shirt,seasonal_naive,3.97,825.6,8
+T-shirt,seasonal_naive_adj,16.83,3391.1,8
+T-shirt,prophet,19.63,4564.8,8
+Top,seasonal_naive,19.26,3633.0,8
+Top,seasonal_naive_adj,18.83,3567.4,8
+Top,prophet,23.8,4112.4,8
+Blouse,seasonal_naive,19.92,3153.2,8
+Blouse,seasonal_naive_adj,21.58,3079.4,8
+Blouse,prophet,37.2,4712.2,8
+Vest top,seasonal_naive,15.94,2194.1,8
+Vest top,seasonal_naive_adj,30.2,4304.2,8
+Vest top,prophet,21.86,2832.3,8
+Bra,seasonal_naive,7.31,931.4,8
+Bra,seasonal_naive_adj,12.33,1757.0,8
+Bra,prophet,18.95,2506.9,8
+Shorts,seasonal_naive,44.88,4728.4,8
+Shorts,seasonal_naive_adj,27.27,3525.0,8
+Shorts,prophet,34.11,3207.0,8
+Bikini top,seasonal_naive,35.32,4368.3,8
+Bikini top,seasonal_naive_adj,35.67,5433.6,8
+Bikini top,prophet,36.77,3982.4,8
+Swimwear bottom,seasonal_naive,37.71,3656.8,8
+Swimwear bottom,seasonal_naive_adj,33.07,4688.7,8
+Swimwear bottom,prophet,39.52,3554.6,8
+Underwear bottom,seasonal_naive,11.43,1237.1,8
+Underwear bottom,seasonal_naive_adj,18.01,1972.1,8
+Underwear bottom,prophet,11.62,1388.3,8
