@@ -1,0 +1,3835 @@
+week,style,segment,units
+2015-01-06,Accessories,Unisex,3
+2015-01-06,Bags,Unisex,13
+2015-01-06,Bikes,Women,109
+2015-01-06,Cleats,Men,141
+2015-01-06,Fitness Equipment,Unisex,557
+2015-01-06,Gloves,Men,3
+2015-01-06,Gloves,Unisex,24
+2015-01-06,Gloves,Women,43
+2015-01-06,Golf Balls,Unisex,49
+2015-01-06,Golf Clubs,Unisex,33
+2015-01-06,Jerseys,Kids,3
+2015-01-06,Kayaks,Unisex,106
+2015-01-06,Life Vests,Men,418
+2015-01-06,Outdoor Gear,Unisex,144
+2015-01-06,Polos,Men,425
+2015-01-06,Polos,Women,13
+2015-01-06,Running Shoes,Kids,185
+2015-01-06,Running Shoes,Men,254
+2015-01-06,Running Shoes,Women,7
+2015-01-06,Shorts,Women,16
+2015-01-06,Slides,Kids,8
+2015-01-06,Slides,Men,2
+2015-01-06,Slides,Women,17
+2015-01-06,Socks,Unisex,10
+2015-01-06,Swimwear,Kids,13
+2015-01-06,T-Shirts,Men,46
+2015-01-06,T-Shirts,Women,11
+2015-01-13,Bags,Unisex,14
+2015-01-13,Bikes,Women,99
+2015-01-13,Cleats,Kids,9
+2015-01-13,Cleats,Men,161
+2015-01-13,Fitness Equipment,Unisex,504
+2015-01-13,Gloves,Men,4
+2015-01-13,Gloves,Women,58
+2015-01-13,Golf Balls,Unisex,47
+2015-01-13,Golf Clubs,Unisex,41
+2015-01-13,Jerseys,Kids,8
+2015-01-13,Kayaks,Unisex,98
+2015-01-13,Life Vests,Men,441
+2015-01-13,Outdoor Gear,Unisex,124
+2015-01-13,Polos,Men,452
+2015-01-13,Polos,Women,14
+2015-01-13,Running Shoes,Kids,241
+2015-01-13,Running Shoes,Men,226
+2015-01-13,Running Shoes,Women,4
+2015-01-13,Shorts,Women,6
+2015-01-13,Slides,Kids,4
+2015-01-13,Slides,Men,35
+2015-01-13,Slides,Women,16
+2015-01-13,Socks,Unisex,3
+2015-01-13,Swimwear,Kids,5
+2015-01-13,T-Shirts,Men,10
+2015-01-13,T-Shirts,Women,9
+2015-01-20,Accessories,Unisex,7
+2015-01-20,Bags,Unisex,41
+2015-01-20,Bikes,Women,78
+2015-01-20,Cleats,Kids,7
+2015-01-20,Cleats,Men,152
+2015-01-20,Fitness Equipment,Unisex,579
+2015-01-20,Gloves,Men,5
+2015-01-20,Gloves,Unisex,29
+2015-01-20,Gloves,Women,28
+2015-01-20,Golf Balls,Unisex,60
+2015-01-20,Golf Clubs,Unisex,27
+2015-01-20,Jerseys,Kids,17
+2015-01-20,Kayaks,Unisex,104
+2015-01-20,Life Vests,Men,477
+2015-01-20,Outdoor Gear,Unisex,162
+2015-01-20,Polos,Men,368
+2015-01-20,Polos,Women,4
+2015-01-20,Running Shoes,Kids,269
+2015-01-20,Running Shoes,Men,271
+2015-01-20,Running Shoes,Women,9
+2015-01-20,Shorts,Women,18
+2015-01-20,Slides,Kids,8
+2015-01-20,Slides,Men,7
+2015-01-20,Slides,Women,19
+2015-01-20,Socks,Unisex,5
+2015-01-20,Swimwear,Kids,1
+2015-01-20,T-Shirts,Men,32
+2015-01-20,T-Shirts,Women,8
+2015-01-27,Accessories,Unisex,21
+2015-01-27,Bags,Unisex,14
+2015-01-27,Bikes,Women,100
+2015-01-27,Cleats,Men,173
+2015-01-27,Fitness Equipment,Unisex,475
+2015-01-27,Gloves,Men,4
+2015-01-27,Gloves,Unisex,9
+2015-01-27,Gloves,Women,44
+2015-01-27,Golf Balls,Unisex,65
+2015-01-27,Golf Clubs,Unisex,36
+2015-01-27,Jerseys,Kids,19
+2015-01-27,Kayaks,Unisex,134
+2015-01-27,Life Vests,Men,356
+2015-01-27,Outdoor Gear,Unisex,113
+2015-01-27,Polos,Men,512
+2015-01-27,Polos,Women,19
+2015-01-27,Running Shoes,Kids,208
+2015-01-27,Running Shoes,Men,234
+2015-01-27,Running Shoes,Women,4
+2015-01-27,Shorts,Women,4
+2015-01-27,Slides,Kids,5
+2015-01-27,Slides,Men,17
+2015-01-27,Slides,Women,8
+2015-01-27,Socks,Unisex,4
+2015-01-27,Swimwear,Kids,1
+2015-01-27,T-Shirts,Men,11
+2015-01-27,T-Shirts,Women,12
+2015-02-03,Accessories,Unisex,18
+2015-02-03,Bags,Unisex,22
+2015-02-03,Bikes,Women,112
+2015-02-03,Cleats,Kids,7
+2015-02-03,Cleats,Men,184
+2015-02-03,Fitness Equipment,Unisex,513
+2015-02-03,Gloves,Men,4
+2015-02-03,Gloves,Unisex,4
+2015-02-03,Gloves,Women,31
+2015-02-03,Golf Balls,Unisex,73
+2015-02-03,Golf Clubs,Unisex,15
+2015-02-03,Jerseys,Kids,12
+2015-02-03,Kayaks,Unisex,112
+2015-02-03,Life Vests,Men,451
+2015-02-03,Outdoor Gear,Unisex,108
+2015-02-03,Polos,Men,382
+2015-02-03,Polos,Women,9
+2015-02-03,Running Shoes,Kids,229
+2015-02-03,Running Shoes,Men,217
+2015-02-03,Running Shoes,Women,4
+2015-02-03,Shorts,Women,18
+2015-02-03,Slides,Kids,9
+2015-02-03,Slides,Men,16
+2015-02-03,Slides,Women,11
+2015-02-03,Socks,Unisex,15
+2015-02-03,Swimwear,Kids,9
+2015-02-03,T-Shirts,Men,31
+2015-02-10,Accessories,Unisex,5
+2015-02-10,Bags,Unisex,6
+2015-02-10,Bikes,Women,101
+2015-02-10,Cleats,Kids,5
+2015-02-10,Cleats,Men,158
+2015-02-10,Fitness Equipment,Unisex,486
+2015-02-10,Gloves,Men,5
+2015-02-10,Gloves,Unisex,17
+2015-02-10,Gloves,Women,34
+2015-02-10,Golf Balls,Unisex,40
+2015-02-10,Golf Clubs,Unisex,44
+2015-02-10,Jerseys,Kids,5
+2015-02-10,Kayaks,Unisex,99
+2015-02-10,Life Vests,Men,387
+2015-02-10,Outdoor Gear,Unisex,141
+2015-02-10,Polos,Men,428
+2015-02-10,Polos,Women,7
+2015-02-10,Running Shoes,Kids,222
+2015-02-10,Running Shoes,Men,239
+2015-02-10,Running Shoes,Women,5
+2015-02-10,Shorts,Women,3
+2015-02-10,Slides,Kids,9
+2015-02-10,Slides,Men,11
+2015-02-10,Slides,Women,9
+2015-02-10,Socks,Unisex,25
+2015-02-10,Swimwear,Kids,14
+2015-02-10,T-Shirts,Men,30
+2015-02-17,Accessories,Unisex,9
+2015-02-17,Bags,Unisex,13
+2015-02-17,Bikes,Women,107
+2015-02-17,Cleats,Kids,1
+2015-02-17,Cleats,Men,152
+2015-02-17,Fitness Equipment,Unisex,510
+2015-02-17,Gloves,Men,10
+2015-02-17,Gloves,Unisex,12
+2015-02-17,Gloves,Women,18
+2015-02-17,Golf Balls,Unisex,55
+2015-02-17,Golf Clubs,Unisex,44
+2015-02-17,Jerseys,Kids,11
+2015-02-17,Kayaks,Unisex,106
+2015-02-17,Life Vests,Men,401
+2015-02-17,Outdoor Gear,Unisex,114
+2015-02-17,Polos,Men,511
+2015-02-17,Polos,Women,15
+2015-02-17,Running Shoes,Kids,231
+2015-02-17,Running Shoes,Men,294
+2015-02-17,Shorts,Women,6
+2015-02-17,Slides,Men,15
+2015-02-17,Slides,Women,22
+2015-02-17,Socks,Unisex,10
+2015-02-17,Swimwear,Kids,15
+2015-02-17,T-Shirts,Men,24
+2015-02-17,T-Shirts,Women,4
+2015-02-24,Accessories,Unisex,9
+2015-02-24,Bags,Unisex,34
+2015-02-24,Bikes,Women,101
+2015-02-24,Cleats,Kids,7
+2015-02-24,Cleats,Men,169
+2015-02-24,Fitness Equipment,Unisex,565
+2015-02-24,Gloves,Men,6
+2015-02-24,Gloves,Unisex,23
+2015-02-24,Gloves,Women,60
+2015-02-24,Golf Balls,Unisex,48
+2015-02-24,Golf Clubs,Unisex,49
+2015-02-24,Kayaks,Unisex,102
+2015-02-24,Life Vests,Men,393
+2015-02-24,Outdoor Gear,Unisex,134
+2015-02-24,Polos,Men,479
+2015-02-24,Polos,Women,7
+2015-02-24,Running Shoes,Kids,274
+2015-02-24,Running Shoes,Men,197
+2015-02-24,Shorts,Women,5
+2015-02-24,Slides,Kids,10
+2015-02-24,Slides,Men,16
+2015-02-24,Slides,Women,25
+2015-02-24,Socks,Unisex,10
+2015-02-24,Swimwear,Kids,12
+2015-02-24,T-Shirts,Men,14
+2015-03-03,Accessories,Unisex,8
+2015-03-03,Bags,Unisex,18
+2015-03-03,Bikes,Women,84
+2015-03-03,Cleats,Kids,6
+2015-03-03,Cleats,Men,127
+2015-03-03,Fitness Equipment,Unisex,571
+2015-03-03,Gloves,Men,13
+2015-03-03,Gloves,Unisex,19
+2015-03-03,Gloves,Women,61
+2015-03-03,Golf Balls,Unisex,52
+2015-03-03,Golf Clubs,Unisex,48
+2015-03-03,Jerseys,Kids,5
+2015-03-03,Kayaks,Unisex,122
+2015-03-03,Life Vests,Men,422
+2015-03-03,Outdoor Gear,Unisex,136
+2015-03-03,Polos,Men,421
+2015-03-03,Polos,Women,9
+2015-03-03,Running Shoes,Kids,264
+2015-03-03,Running Shoes,Men,249
+2015-03-03,Running Shoes,Women,12
+2015-03-03,Shorts,Women,10
+2015-03-03,Slides,Kids,8
+2015-03-03,Slides,Men,21
+2015-03-03,Slides,Women,26
+2015-03-03,Socks,Unisex,8
+2015-03-03,Swimwear,Kids,12
+2015-03-03,T-Shirts,Men,53
+2015-03-10,Accessories,Unisex,10
+2015-03-10,Bags,Unisex,6
+2015-03-10,Bikes,Women,99
+2015-03-10,Cleats,Men,157
+2015-03-10,Fitness Equipment,Unisex,520
+2015-03-10,Gloves,Men,5
+2015-03-10,Gloves,Unisex,13
+2015-03-10,Gloves,Women,22
+2015-03-10,Golf Balls,Unisex,48
+2015-03-10,Golf Clubs,Unisex,38
+2015-03-10,Jerseys,Kids,10
+2015-03-10,Kayaks,Unisex,109
+2015-03-10,Life Vests,Men,391
+2015-03-10,Outdoor Gear,Unisex,111
+2015-03-10,Polos,Men,397
+2015-03-10,Polos,Women,9
+2015-03-10,Running Shoes,Kids,214
+2015-03-10,Running Shoes,Men,314
+2015-03-10,Running Shoes,Women,7
+2015-03-10,Shorts,Women,3
+2015-03-10,Slides,Kids,10
+2015-03-10,Slides,Men,10
+2015-03-10,Slides,Women,14
+2015-03-10,Socks,Unisex,3
+2015-03-10,Swimwear,Kids,14
+2015-03-10,T-Shirts,Men,15
+2015-03-10,T-Shirts,Women,9
+2015-03-17,Accessories,Unisex,6
+2015-03-17,Bags,Unisex,34
+2015-03-17,Bikes,Women,94
+2015-03-17,Cleats,Kids,4
+2015-03-17,Cleats,Men,148
+2015-03-17,Fitness Equipment,Unisex,485
+2015-03-17,Gloves,Men,9
+2015-03-17,Gloves,Unisex,26
+2015-03-17,Gloves,Women,54
+2015-03-17,Golf Balls,Unisex,57
+2015-03-17,Golf Clubs,Unisex,36
+2015-03-17,Jerseys,Kids,6
+2015-03-17,Kayaks,Unisex,87
+2015-03-17,Life Vests,Men,456
+2015-03-17,Outdoor Gear,Unisex,126
+2015-03-17,Polos,Men,430
+2015-03-17,Polos,Women,14
+2015-03-17,Running Shoes,Kids,212
+2015-03-17,Running Shoes,Men,245
+2015-03-17,Running Shoes,Women,11
+2015-03-17,Shorts,Women,9
+2015-03-17,Slides,Kids,11
+2015-03-17,Slides,Men,20
+2015-03-17,Slides,Women,10
+2015-03-17,Socks,Unisex,9
+2015-03-17,Swimwear,Kids,3
+2015-03-17,T-Shirts,Men,33
+2015-03-17,T-Shirts,Women,1
+2015-03-24,Bags,Unisex,10
+2015-03-24,Bikes,Women,96
+2015-03-24,Cleats,Kids,1
+2015-03-24,Cleats,Men,161
+2015-03-24,Fitness Equipment,Unisex,513
+2015-03-24,Gloves,Men,10
+2015-03-24,Gloves,Unisex,15
+2015-03-24,Gloves,Women,52
+2015-03-24,Golf Balls,Unisex,48
+2015-03-24,Golf Clubs,Unisex,48
+2015-03-24,Jerseys,Kids,13
+2015-03-24,Kayaks,Unisex,123
+2015-03-24,Life Vests,Men,470
+2015-03-24,Outdoor Gear,Unisex,117
+2015-03-24,Polos,Men,515
+2015-03-24,Polos,Women,10
+2015-03-24,Running Shoes,Kids,273
+2015-03-24,Running Shoes,Men,222
+2015-03-24,Running Shoes,Women,7
+2015-03-24,Shorts,Women,3
+2015-03-24,Slides,Kids,13
+2015-03-24,Slides,Men,20
+2015-03-24,Swimwear,Kids,8
+2015-03-24,T-Shirts,Men,24
+2015-03-24,T-Shirts,Women,15
+2015-03-31,Accessories,Unisex,9
+2015-03-31,Bags,Unisex,20
+2015-03-31,Bikes,Women,112
+2015-03-31,Cleats,Kids,11
+2015-03-31,Cleats,Men,180
+2015-03-31,Fitness Equipment,Unisex,504
+2015-03-31,Gloves,Men,11
+2015-03-31,Gloves,Unisex,21
+2015-03-31,Gloves,Women,36
+2015-03-31,Golf Balls,Unisex,30
+2015-03-31,Golf Clubs,Unisex,38
+2015-03-31,Jerseys,Kids,14
+2015-03-31,Kayaks,Unisex,104
+2015-03-31,Life Vests,Men,405
+2015-03-31,Outdoor Gear,Unisex,124
+2015-03-31,Polos,Men,450
+2015-03-31,Running Shoes,Kids,204
+2015-03-31,Running Shoes,Men,219
+2015-03-31,Running Shoes,Women,20
+2015-03-31,Shorts,Women,3
+2015-03-31,Slides,Kids,8
+2015-03-31,Slides,Men,26
+2015-03-31,Slides,Women,25
+2015-03-31,Socks,Unisex,4
+2015-03-31,Swimwear,Kids,8
+2015-03-31,T-Shirts,Men,31
+2015-03-31,T-Shirts,Women,4
+2015-04-07,Bags,Unisex,30
+2015-04-07,Bikes,Women,117
+2015-04-07,Cleats,Kids,8
+2015-04-07,Cleats,Men,176
+2015-04-07,Fitness Equipment,Unisex,476
+2015-04-07,Gloves,Men,5
+2015-04-07,Gloves,Unisex,26
+2015-04-07,Gloves,Women,47
+2015-04-07,Golf Balls,Unisex,37
+2015-04-07,Golf Clubs,Unisex,35
+2015-04-07,Jerseys,Kids,16
+2015-04-07,Kayaks,Unisex,116
+2015-04-07,Life Vests,Men,416
+2015-04-07,Outdoor Gear,Unisex,128
+2015-04-07,Polos,Men,501
+2015-04-07,Polos,Women,2
+2015-04-07,Running Shoes,Kids,225
+2015-04-07,Running Shoes,Men,248
+2015-04-07,Running Shoes,Women,11
+2015-04-07,Shorts,Women,9
+2015-04-07,Slides,Men,7
+2015-04-07,Slides,Women,10
+2015-04-07,Socks,Unisex,8
+2015-04-07,Swimwear,Kids,5
+2015-04-07,T-Shirts,Men,35
+2015-04-07,T-Shirts,Women,18
+2015-04-14,Accessories,Unisex,14
+2015-04-14,Bags,Unisex,24
+2015-04-14,Bikes,Women,118
+2015-04-14,Cleats,Kids,9
+2015-04-14,Cleats,Men,159
+2015-04-14,Fitness Equipment,Unisex,566
+2015-04-14,Gloves,Men,4
+2015-04-14,Gloves,Unisex,21
+2015-04-14,Gloves,Women,39
+2015-04-14,Golf Balls,Unisex,45
+2015-04-14,Golf Clubs,Unisex,36
+2015-04-14,Jerseys,Kids,10
+2015-04-14,Kayaks,Unisex,123
+2015-04-14,Life Vests,Men,434
+2015-04-14,Outdoor Gear,Unisex,119
+2015-04-14,Polos,Men,474
+2015-04-14,Polos,Women,4
+2015-04-14,Running Shoes,Kids,198
+2015-04-14,Running Shoes,Men,277
+2015-04-14,Running Shoes,Women,7
+2015-04-14,Shorts,Women,2
+2015-04-14,Slides,Men,10
+2015-04-14,Slides,Women,2
+2015-04-14,Socks,Unisex,2
+2015-04-14,Swimwear,Kids,2
+2015-04-14,T-Shirts,Men,39
+2015-04-21,Accessories,Unisex,10
+2015-04-21,Bags,Unisex,40
+2015-04-21,Bikes,Women,92
+2015-04-21,Cleats,Kids,2
+2015-04-21,Cleats,Men,130
+2015-04-21,Fitness Equipment,Unisex,490
+2015-04-21,Gloves,Men,14
+2015-04-21,Gloves,Unisex,12
+2015-04-21,Gloves,Women,48
+2015-04-21,Golf Balls,Unisex,45
+2015-04-21,Golf Clubs,Unisex,33
+2015-04-21,Jerseys,Kids,5
+2015-04-21,Kayaks,Unisex,109
+2015-04-21,Life Vests,Men,397
+2015-04-21,Outdoor Gear,Unisex,130
+2015-04-21,Polos,Men,389
+2015-04-21,Polos,Women,4
+2015-04-21,Running Shoes,Kids,194
+2015-04-21,Running Shoes,Men,259
+2015-04-21,Running Shoes,Women,1
+2015-04-21,Shorts,Women,19
+2015-04-21,Slides,Kids,10
+2015-04-21,Slides,Men,16
+2015-04-21,Slides,Women,10
+2015-04-21,Socks,Unisex,3
+2015-04-21,Swimwear,Kids,6
+2015-04-21,T-Shirts,Men,30
+2015-04-21,T-Shirts,Women,9
+2015-04-28,Accessories,Unisex,23
+2015-04-28,Bags,Unisex,27
+2015-04-28,Bikes,Women,87
+2015-04-28,Cleats,Kids,4
+2015-04-28,Cleats,Men,141
+2015-04-28,Fitness Equipment,Unisex,526
+2015-04-28,Gloves,Men,4
+2015-04-28,Gloves,Unisex,3
+2015-04-28,Gloves,Women,27
+2015-04-28,Golf Balls,Unisex,70
+2015-04-28,Golf Clubs,Unisex,21
+2015-04-28,Jerseys,Kids,5
+2015-04-28,Kayaks,Unisex,113
+2015-04-28,Life Vests,Men,351
+2015-04-28,Outdoor Gear,Unisex,136
+2015-04-28,Polos,Men,458
+2015-04-28,Polos,Women,9
+2015-04-28,Running Shoes,Kids,253
+2015-04-28,Running Shoes,Men,282
+2015-04-28,Running Shoes,Women,2
+2015-04-28,Shorts,Women,14
+2015-04-28,Slides,Kids,13
+2015-04-28,Slides,Men,3
+2015-04-28,Slides,Women,9
+2015-04-28,Socks,Unisex,12
+2015-04-28,Swimwear,Kids,12
+2015-04-28,T-Shirts,Men,30
+2015-04-28,T-Shirts,Women,5
+2015-05-05,Accessories,Unisex,15
+2015-05-05,Bags,Unisex,26
+2015-05-05,Bikes,Women,83
+2015-05-05,Cleats,Kids,9
+2015-05-05,Cleats,Men,143
+2015-05-05,Fitness Equipment,Unisex,460
+2015-05-05,Gloves,Men,9
+2015-05-05,Gloves,Unisex,8
+2015-05-05,Gloves,Women,52
+2015-05-05,Golf Balls,Unisex,50
+2015-05-05,Golf Clubs,Unisex,46
+2015-05-05,Jerseys,Kids,5
+2015-05-05,Kayaks,Unisex,111
+2015-05-05,Life Vests,Men,450
+2015-05-05,Outdoor Gear,Unisex,116
+2015-05-05,Polos,Men,396
+2015-05-05,Polos,Women,12
+2015-05-05,Running Shoes,Kids,233
+2015-05-05,Running Shoes,Men,307
+2015-05-05,Running Shoes,Women,16
+2015-05-05,Shorts,Women,16
+2015-05-05,Slides,Kids,11
+2015-05-05,Slides,Men,9
+2015-05-05,Slides,Women,2
+2015-05-05,Socks,Unisex,10
+2015-05-05,Swimwear,Kids,4
+2015-05-05,T-Shirts,Men,32
+2015-05-05,T-Shirts,Women,5
+2015-05-12,Accessories,Unisex,7
+2015-05-12,Bags,Unisex,37
+2015-05-12,Bikes,Women,100
+2015-05-12,Cleats,Kids,6
+2015-05-12,Cleats,Men,146
+2015-05-12,Fitness Equipment,Unisex,559
+2015-05-12,Gloves,Men,4
+2015-05-12,Gloves,Unisex,14
+2015-05-12,Gloves,Women,46
+2015-05-12,Golf Balls,Unisex,40
+2015-05-12,Golf Clubs,Unisex,66
+2015-05-12,Jerseys,Kids,10
+2015-05-12,Kayaks,Unisex,112
+2015-05-12,Life Vests,Men,387
+2015-05-12,Outdoor Gear,Unisex,119
+2015-05-12,Polos,Men,442
+2015-05-12,Polos,Women,5
+2015-05-12,Running Shoes,Kids,235
+2015-05-12,Running Shoes,Men,291
+2015-05-12,Running Shoes,Women,4
+2015-05-12,Shorts,Women,4
+2015-05-12,Slides,Kids,16
+2015-05-12,Slides,Men,20
+2015-05-12,Slides,Women,17
+2015-05-12,Socks,Unisex,11
+2015-05-12,Swimwear,Kids,2
+2015-05-12,T-Shirts,Men,27
+2015-05-12,T-Shirts,Women,12
+2015-05-19,Accessories,Unisex,12
+2015-05-19,Bags,Unisex,32
+2015-05-19,Bikes,Women,101
+2015-05-19,Cleats,Kids,8
+2015-05-19,Cleats,Men,178
+2015-05-19,Fitness Equipment,Unisex,470
+2015-05-19,Gloves,Men,4
+2015-05-19,Gloves,Unisex,8
+2015-05-19,Gloves,Women,43
+2015-05-19,Golf Balls,Unisex,49
+2015-05-19,Golf Clubs,Unisex,74
+2015-05-19,Jerseys,Kids,2
+2015-05-19,Kayaks,Unisex,109
+2015-05-19,Life Vests,Men,364
+2015-05-19,Outdoor Gear,Unisex,130
+2015-05-19,Polos,Men,420
+2015-05-19,Polos,Women,18
+2015-05-19,Running Shoes,Kids,225
+2015-05-19,Running Shoes,Men,294
+2015-05-19,Running Shoes,Women,8
+2015-05-19,Shorts,Women,4
+2015-05-19,Slides,Kids,8
+2015-05-19,Slides,Men,13
+2015-05-19,Slides,Women,12
+2015-05-19,Socks,Unisex,7
+2015-05-19,Swimwear,Kids,15
+2015-05-19,T-Shirts,Men,40
+2015-05-19,T-Shirts,Women,9
+2015-05-26,Accessories,Unisex,6
+2015-05-26,Bags,Unisex,10
+2015-05-26,Bikes,Women,99
+2015-05-26,Cleats,Kids,2
+2015-05-26,Cleats,Men,173
+2015-05-26,Fitness Equipment,Unisex,518
+2015-05-26,Gloves,Men,13
+2015-05-26,Gloves,Unisex,25
+2015-05-26,Gloves,Women,55
+2015-05-26,Golf Balls,Unisex,55
+2015-05-26,Golf Clubs,Unisex,39
+2015-05-26,Jerseys,Kids,8
+2015-05-26,Kayaks,Unisex,115
+2015-05-26,Life Vests,Men,403
+2015-05-26,Outdoor Gear,Unisex,132
+2015-05-26,Polos,Men,485
+2015-05-26,Polos,Women,12
+2015-05-26,Running Shoes,Kids,196
+2015-05-26,Running Shoes,Men,316
+2015-05-26,Running Shoes,Women,4
+2015-05-26,Shorts,Women,10
+2015-05-26,Slides,Kids,10
+2015-05-26,Slides,Men,14
+2015-05-26,Slides,Women,14
+2015-05-26,Socks,Unisex,4
+2015-05-26,Swimwear,Kids,8
+2015-05-26,T-Shirts,Men,27
+2015-05-26,T-Shirts,Women,12
+2015-06-02,Accessories,Unisex,21
+2015-06-02,Bags,Unisex,18
+2015-06-02,Bikes,Women,113
+2015-06-02,Cleats,Kids,4
+2015-06-02,Cleats,Men,180
+2015-06-02,Fitness Equipment,Unisex,509
+2015-06-02,Gloves,Men,4
+2015-06-02,Gloves,Unisex,19
+2015-06-02,Gloves,Women,47
+2015-06-02,Golf Balls,Unisex,35
+2015-06-02,Golf Clubs,Unisex,53
+2015-06-02,Kayaks,Unisex,94
+2015-06-02,Life Vests,Men,416
+2015-06-02,Outdoor Gear,Unisex,120
+2015-06-02,Polos,Men,387
+2015-06-02,Polos,Women,23
+2015-06-02,Running Shoes,Kids,231
+2015-06-02,Running Shoes,Men,339
+2015-06-02,Running Shoes,Women,4
+2015-06-02,Shorts,Women,10
+2015-06-02,Slides,Kids,7
+2015-06-02,Slides,Men,14
+2015-06-02,Slides,Women,7
+2015-06-02,Socks,Unisex,3
+2015-06-02,Swimwear,Kids,11
+2015-06-02,T-Shirts,Men,11
+2015-06-02,T-Shirts,Women,3
+2015-06-09,Accessories,Unisex,1
+2015-06-09,Bags,Unisex,18
+2015-06-09,Bikes,Women,104
+2015-06-09,Cleats,Kids,2
+2015-06-09,Cleats,Men,161
+2015-06-09,Fitness Equipment,Unisex,408
+2015-06-09,Gloves,Unisex,10
+2015-06-09,Gloves,Women,36
+2015-06-09,Golf Balls,Unisex,33
+2015-06-09,Golf Clubs,Unisex,37
+2015-06-09,Jerseys,Kids,16
+2015-06-09,Kayaks,Unisex,97
+2015-06-09,Life Vests,Men,360
+2015-06-09,Outdoor Gear,Unisex,140
+2015-06-09,Polos,Men,408
+2015-06-09,Running Shoes,Kids,188
+2015-06-09,Running Shoes,Men,282
+2015-06-09,Running Shoes,Women,1
+2015-06-09,Shorts,Women,3
+2015-06-09,Slides,Kids,5
+2015-06-09,Slides,Men,17
+2015-06-09,Slides,Women,19
+2015-06-09,Socks,Unisex,15
+2015-06-09,Swimwear,Kids,18
+2015-06-09,T-Shirts,Men,27
+2015-06-09,T-Shirts,Women,11
+2015-06-16,Accessories,Unisex,4
+2015-06-16,Bags,Unisex,36
+2015-06-16,Bikes,Women,107
+2015-06-16,Cleats,Kids,3
+2015-06-16,Cleats,Men,131
+2015-06-16,Fitness Equipment,Unisex,538
+2015-06-16,Gloves,Men,3
+2015-06-16,Gloves,Unisex,8
+2015-06-16,Gloves,Women,28
+2015-06-16,Golf Balls,Unisex,53
+2015-06-16,Golf Clubs,Unisex,47
+2015-06-16,Jerseys,Kids,16
+2015-06-16,Kayaks,Unisex,119
+2015-06-16,Life Vests,Men,417
+2015-06-16,Outdoor Gear,Unisex,120
+2015-06-16,Polos,Men,413
+2015-06-16,Polos,Women,16
+2015-06-16,Running Shoes,Kids,228
+2015-06-16,Running Shoes,Men,255
+2015-06-16,Running Shoes,Women,8
+2015-06-16,Shorts,Women,13
+2015-06-16,Slides,Kids,7
+2015-06-16,Slides,Men,22
+2015-06-16,Slides,Women,16
+2015-06-16,Socks,Unisex,9
+2015-06-16,Swimwear,Kids,8
+2015-06-16,T-Shirts,Men,37
+2015-06-16,T-Shirts,Women,4
+2015-06-23,Accessories,Unisex,5
+2015-06-23,Bags,Unisex,20
+2015-06-23,Bikes,Women,98
+2015-06-23,Cleats,Kids,2
+2015-06-23,Cleats,Men,155
+2015-06-23,Fitness Equipment,Unisex,540
+2015-06-23,Gloves,Men,7
+2015-06-23,Gloves,Unisex,2
+2015-06-23,Gloves,Women,29
+2015-06-23,Golf Balls,Unisex,62
+2015-06-23,Golf Clubs,Unisex,38
+2015-06-23,Jerseys,Kids,9
+2015-06-23,Kayaks,Unisex,121
+2015-06-23,Life Vests,Men,373
+2015-06-23,Outdoor Gear,Unisex,134
+2015-06-23,Polos,Men,417
+2015-06-23,Polos,Women,6
+2015-06-23,Running Shoes,Kids,226
+2015-06-23,Running Shoes,Men,256
+2015-06-23,Running Shoes,Women,9
+2015-06-23,Shorts,Women,7
+2015-06-23,Slides,Kids,7
+2015-06-23,Slides,Men,18
+2015-06-23,Slides,Women,1
+2015-06-23,Socks,Unisex,6
+2015-06-23,Swimwear,Kids,9
+2015-06-23,T-Shirts,Men,17
+2015-06-23,T-Shirts,Women,11
+2015-06-30,Accessories,Unisex,5
+2015-06-30,Bags,Unisex,10
+2015-06-30,Bikes,Women,92
+2015-06-30,Cleats,Kids,9
+2015-06-30,Cleats,Men,164
+2015-06-30,Fitness Equipment,Unisex,539
+2015-06-30,Gloves,Men,4
+2015-06-30,Gloves,Unisex,16
+2015-06-30,Gloves,Women,34
+2015-06-30,Golf Balls,Unisex,45
+2015-06-30,Golf Clubs,Unisex,62
+2015-06-30,Jerseys,Kids,5
+2015-06-30,Kayaks,Unisex,93
+2015-06-30,Life Vests,Men,463
+2015-06-30,Outdoor Gear,Unisex,145
+2015-06-30,Polos,Men,431
+2015-06-30,Polos,Women,6
+2015-06-30,Running Shoes,Kids,222
+2015-06-30,Running Shoes,Men,278
+2015-06-30,Running Shoes,Women,3
+2015-06-30,Shorts,Women,5
+2015-06-30,Slides,Men,23
+2015-06-30,Slides,Women,11
+2015-06-30,Socks,Unisex,6
+2015-06-30,Swimwear,Kids,13
+2015-06-30,T-Shirts,Men,34
+2015-06-30,T-Shirts,Women,4
+2015-07-07,Accessories,Unisex,5
+2015-07-07,Bags,Unisex,11
+2015-07-07,Bikes,Women,116
+2015-07-07,Cleats,Kids,12
+2015-07-07,Cleats,Men,183
+2015-07-07,Fitness Equipment,Unisex,474
+2015-07-07,Gloves,Men,7
+2015-07-07,Gloves,Unisex,16
+2015-07-07,Gloves,Women,27
+2015-07-07,Golf Balls,Unisex,47
+2015-07-07,Golf Clubs,Unisex,54
+2015-07-07,Jerseys,Kids,1
+2015-07-07,Kayaks,Unisex,113
+2015-07-07,Life Vests,Men,400
+2015-07-07,Outdoor Gear,Unisex,122
+2015-07-07,Polos,Men,501
+2015-07-07,Polos,Women,5
+2015-07-07,Running Shoes,Kids,225
+2015-07-07,Running Shoes,Men,234
+2015-07-07,Running Shoes,Women,2
+2015-07-07,Shorts,Women,11
+2015-07-07,Slides,Kids,10
+2015-07-07,Slides,Men,27
+2015-07-07,Slides,Women,24
+2015-07-07,Swimwear,Kids,4
+2015-07-07,T-Shirts,Men,14
+2015-07-07,T-Shirts,Women,10
+2015-07-14,Accessories,Unisex,5
+2015-07-14,Bags,Unisex,27
+2015-07-14,Bikes,Women,103
+2015-07-14,Cleats,Kids,8
+2015-07-14,Cleats,Men,160
+2015-07-14,Fitness Equipment,Unisex,558
+2015-07-14,Gloves,Men,6
+2015-07-14,Gloves,Unisex,13
+2015-07-14,Gloves,Women,33
+2015-07-14,Golf Balls,Unisex,55
+2015-07-14,Golf Clubs,Unisex,30
+2015-07-14,Jerseys,Kids,9
+2015-07-14,Kayaks,Unisex,107
+2015-07-14,Life Vests,Men,385
+2015-07-14,Outdoor Gear,Unisex,125
+2015-07-14,Polos,Men,540
+2015-07-14,Polos,Women,17
+2015-07-14,Running Shoes,Kids,186
+2015-07-14,Running Shoes,Men,266
+2015-07-14,Shorts,Women,9
+2015-07-14,Slides,Kids,11
+2015-07-14,Slides,Men,17
+2015-07-14,Slides,Women,13
+2015-07-14,Socks,Unisex,15
+2015-07-14,Swimwear,Kids,11
+2015-07-14,T-Shirts,Men,44
+2015-07-14,T-Shirts,Women,4
+2015-07-21,Accessories,Unisex,5
+2015-07-21,Bags,Unisex,27
+2015-07-21,Bikes,Women,98
+2015-07-21,Cleats,Kids,6
+2015-07-21,Cleats,Men,147
+2015-07-21,Fitness Equipment,Unisex,442
+2015-07-21,Gloves,Men,8
+2015-07-21,Gloves,Unisex,30
+2015-07-21,Gloves,Women,35
+2015-07-21,Golf Balls,Unisex,34
+2015-07-21,Golf Clubs,Unisex,41
+2015-07-21,Jerseys,Kids,2
+2015-07-21,Kayaks,Unisex,108
+2015-07-21,Life Vests,Men,453
+2015-07-21,Outdoor Gear,Unisex,118
+2015-07-21,Polos,Men,470
+2015-07-21,Polos,Women,3
+2015-07-21,Running Shoes,Kids,280
+2015-07-21,Running Shoes,Men,206
+2015-07-21,Running Shoes,Women,8
+2015-07-21,Shorts,Women,10
+2015-07-21,Slides,Kids,9
+2015-07-21,Slides,Men,10
+2015-07-21,Slides,Women,15
+2015-07-21,Socks,Unisex,3
+2015-07-21,Swimwear,Kids,4
+2015-07-21,T-Shirts,Men,19
+2015-07-21,T-Shirts,Women,15
+2015-07-28,Accessories,Unisex,9
+2015-07-28,Bags,Unisex,26
+2015-07-28,Bikes,Women,113
+2015-07-28,Cleats,Kids,4
+2015-07-28,Cleats,Men,158
+2015-07-28,Fitness Equipment,Unisex,542
+2015-07-28,Gloves,Men,7
+2015-07-28,Gloves,Unisex,18
+2015-07-28,Gloves,Women,47
+2015-07-28,Golf Balls,Unisex,50
+2015-07-28,Golf Clubs,Unisex,31
+2015-07-28,Jerseys,Kids,9
+2015-07-28,Kayaks,Unisex,118
+2015-07-28,Life Vests,Men,377
+2015-07-28,Outdoor Gear,Unisex,134
+2015-07-28,Polos,Men,414
+2015-07-28,Polos,Women,5
+2015-07-28,Running Shoes,Kids,189
+2015-07-28,Running Shoes,Men,254
+2015-07-28,Shorts,Women,7
+2015-07-28,Slides,Kids,3
+2015-07-28,Slides,Men,23
+2015-07-28,Slides,Women,18
+2015-07-28,Socks,Unisex,5
+2015-07-28,Swimwear,Kids,11
+2015-07-28,T-Shirts,Men,31
+2015-07-28,T-Shirts,Women,2
+2015-08-04,Accessories,Unisex,4
+2015-08-04,Bags,Unisex,19
+2015-08-04,Bikes,Women,100
+2015-08-04,Cleats,Kids,2
+2015-08-04,Cleats,Men,171
+2015-08-04,Fitness Equipment,Unisex,536
+2015-08-04,Gloves,Men,2
+2015-08-04,Gloves,Unisex,22
+2015-08-04,Gloves,Women,39
+2015-08-04,Golf Balls,Unisex,67
+2015-08-04,Golf Clubs,Unisex,36
+2015-08-04,Jerseys,Kids,2
+2015-08-04,Kayaks,Unisex,94
+2015-08-04,Life Vests,Men,379
+2015-08-04,Outdoor Gear,Unisex,113
+2015-08-04,Polos,Men,432
+2015-08-04,Polos,Women,6
+2015-08-04,Running Shoes,Kids,217
+2015-08-04,Running Shoes,Men,237
+2015-08-04,Running Shoes,Women,13
+2015-08-04,Shorts,Women,4
+2015-08-04,Slides,Men,10
+2015-08-04,Slides,Women,29
+2015-08-04,Socks,Unisex,17
+2015-08-04,Swimwear,Kids,9
+2015-08-04,T-Shirts,Men,37
+2015-08-04,T-Shirts,Women,12
+2015-08-11,Accessories,Unisex,7
+2015-08-11,Bags,Unisex,18
+2015-08-11,Bikes,Women,113
+2015-08-11,Cleats,Kids,4
+2015-08-11,Cleats,Men,157
+2015-08-11,Fitness Equipment,Unisex,563
+2015-08-11,Gloves,Men,14
+2015-08-11,Gloves,Unisex,4
+2015-08-11,Gloves,Women,26
+2015-08-11,Golf Balls,Unisex,55
+2015-08-11,Golf Clubs,Unisex,38
+2015-08-11,Jerseys,Kids,3
+2015-08-11,Kayaks,Unisex,110
+2015-08-11,Life Vests,Men,346
+2015-08-11,Outdoor Gear,Unisex,136
+2015-08-11,Polos,Men,452
+2015-08-11,Polos,Women,3
+2015-08-11,Running Shoes,Kids,223
+2015-08-11,Running Shoes,Men,258
+2015-08-11,Running Shoes,Women,5
+2015-08-11,Shorts,Women,2
+2015-08-11,Slides,Kids,12
+2015-08-11,Slides,Men,14
+2015-08-11,Slides,Women,22
+2015-08-11,Socks,Unisex,9
+2015-08-11,Swimwear,Kids,20
+2015-08-11,T-Shirts,Men,32
+2015-08-11,T-Shirts,Women,3
+2015-08-18,Accessories,Unisex,4
+2015-08-18,Bags,Unisex,16
+2015-08-18,Bikes,Women,88
+2015-08-18,Cleats,Kids,10
+2015-08-18,Cleats,Men,146
+2015-08-18,Fitness Equipment,Unisex,491
+2015-08-18,Gloves,Men,10
+2015-08-18,Gloves,Unisex,5
+2015-08-18,Gloves,Women,24
+2015-08-18,Golf Balls,Unisex,41
+2015-08-18,Golf Clubs,Unisex,55
+2015-08-18,Jerseys,Kids,5
+2015-08-18,Kayaks,Unisex,108
+2015-08-18,Life Vests,Men,263
+2015-08-18,Outdoor Gear,Unisex,135
+2015-08-18,Polos,Men,421
+2015-08-18,Polos,Women,9
+2015-08-18,Running Shoes,Kids,238
+2015-08-18,Running Shoes,Men,254
+2015-08-18,Shorts,Women,12
+2015-08-18,Slides,Kids,5
+2015-08-18,Slides,Men,14
+2015-08-18,Slides,Women,22
+2015-08-18,Socks,Unisex,1
+2015-08-18,Swimwear,Kids,8
+2015-08-18,T-Shirts,Men,29
+2015-08-18,T-Shirts,Women,1
+2015-08-25,Accessories,Unisex,3
+2015-08-25,Bags,Unisex,17
+2015-08-25,Bikes,Women,107
+2015-08-25,Cleats,Men,167
+2015-08-25,Fitness Equipment,Unisex,601
+2015-08-25,Gloves,Men,16
+2015-08-25,Gloves,Unisex,31
+2015-08-25,Gloves,Women,45
+2015-08-25,Golf Balls,Unisex,42
+2015-08-25,Golf Clubs,Unisex,66
+2015-08-25,Jerseys,Kids,9
+2015-08-25,Kayaks,Unisex,120
+2015-08-25,Life Vests,Men,403
+2015-08-25,Outdoor Gear,Unisex,123
+2015-08-25,Polos,Men,474
+2015-08-25,Polos,Women,17
+2015-08-25,Running Shoes,Kids,172
+2015-08-25,Running Shoes,Men,252
+2015-08-25,Running Shoes,Women,4
+2015-08-25,Shorts,Women,8
+2015-08-25,Slides,Kids,8
+2015-08-25,Slides,Men,26
+2015-08-25,Slides,Women,20
+2015-08-25,Socks,Unisex,19
+2015-08-25,Swimwear,Kids,19
+2015-08-25,T-Shirts,Men,50
+2015-08-25,T-Shirts,Women,15
+2015-09-01,Accessories,Unisex,12
+2015-09-01,Bags,Unisex,20
+2015-09-01,Bikes,Women,101
+2015-09-01,Cleats,Kids,7
+2015-09-01,Cleats,Men,178
+2015-09-01,Fitness Equipment,Unisex,486
+2015-09-01,Gloves,Men,7
+2015-09-01,Gloves,Women,37
+2015-09-01,Golf Balls,Unisex,71
+2015-09-01,Golf Clubs,Unisex,41
+2015-09-01,Kayaks,Unisex,100
+2015-09-01,Life Vests,Men,406
+2015-09-01,Outdoor Gear,Unisex,166
+2015-09-01,Polos,Men,396
+2015-09-01,Polos,Women,8
+2015-09-01,Running Shoes,Kids,231
+2015-09-01,Running Shoes,Men,237
+2015-09-01,Running Shoes,Women,7
+2015-09-01,Shorts,Women,24
+2015-09-01,Slides,Kids,12
+2015-09-01,Slides,Men,10
+2015-09-01,Slides,Women,21
+2015-09-01,Socks,Unisex,20
+2015-09-01,Swimwear,Kids,8
+2015-09-01,T-Shirts,Men,31
+2015-09-01,T-Shirts,Women,10
+2015-09-08,Accessories,Unisex,10
+2015-09-08,Bags,Unisex,13
+2015-09-08,Bikes,Women,99
+2015-09-08,Cleats,Kids,13
+2015-09-08,Cleats,Men,162
+2015-09-08,Fitness Equipment,Unisex,556
+2015-09-08,Gloves,Men,7
+2015-09-08,Gloves,Unisex,17
+2015-09-08,Gloves,Women,33
+2015-09-08,Golf Balls,Unisex,38
+2015-09-08,Golf Clubs,Unisex,53
+2015-09-08,Jerseys,Kids,12
+2015-09-08,Kayaks,Unisex,92
+2015-09-08,Life Vests,Men,417
+2015-09-08,Outdoor Gear,Unisex,116
+2015-09-08,Polos,Men,380
+2015-09-08,Polos,Women,9
+2015-09-08,Running Shoes,Kids,206
+2015-09-08,Running Shoes,Men,272
+2015-09-08,Running Shoes,Women,6
+2015-09-08,Shorts,Women,15
+2015-09-08,Slides,Kids,10
+2015-09-08,Slides,Men,11
+2015-09-08,Slides,Women,21
+2015-09-08,Socks,Unisex,4
+2015-09-08,Swimwear,Kids,5
+2015-09-08,T-Shirts,Men,20
+2015-09-08,T-Shirts,Women,9
+2015-09-15,Accessories,Unisex,4
+2015-09-15,Bags,Unisex,8
+2015-09-15,Bikes,Women,109
+2015-09-15,Cleats,Kids,9
+2015-09-15,Cleats,Men,151
+2015-09-15,Fitness Equipment,Unisex,458
+2015-09-15,Gloves,Men,5
+2015-09-15,Gloves,Unisex,12
+2015-09-15,Gloves,Women,28
+2015-09-15,Golf Balls,Unisex,44
+2015-09-15,Golf Clubs,Unisex,34
+2015-09-15,Jerseys,Kids,11
+2015-09-15,Kayaks,Unisex,106
+2015-09-15,Life Vests,Men,500
+2015-09-15,Outdoor Gear,Unisex,116
+2015-09-15,Polos,Men,478
+2015-09-15,Polos,Women,5
+2015-09-15,Running Shoes,Kids,250
+2015-09-15,Running Shoes,Men,213
+2015-09-15,Running Shoes,Women,13
+2015-09-15,Shorts,Women,1
+2015-09-15,Slides,Kids,1
+2015-09-15,Slides,Men,19
+2015-09-15,Slides,Women,9
+2015-09-15,Swimwear,Kids,15
+2015-09-15,T-Shirts,Men,21
+2015-09-15,T-Shirts,Women,3
+2015-09-22,Accessories,Unisex,5
+2015-09-22,Bags,Unisex,26
+2015-09-22,Bikes,Women,115
+2015-09-22,Cleats,Kids,6
+2015-09-22,Cleats,Men,175
+2015-09-22,Fitness Equipment,Unisex,536
+2015-09-22,Gloves,Men,10
+2015-09-22,Gloves,Unisex,27
+2015-09-22,Gloves,Women,29
+2015-09-22,Golf Balls,Unisex,69
+2015-09-22,Golf Clubs,Unisex,49
+2015-09-22,Jerseys,Kids,9
+2015-09-22,Kayaks,Unisex,111
+2015-09-22,Life Vests,Men,374
+2015-09-22,Outdoor Gear,Unisex,109
+2015-09-22,Polos,Men,500
+2015-09-22,Polos,Women,9
+2015-09-22,Running Shoes,Kids,239
+2015-09-22,Running Shoes,Men,289
+2015-09-22,Slides,Kids,2
+2015-09-22,Slides,Men,24
+2015-09-22,Slides,Women,10
+2015-09-22,Socks,Unisex,4
+2015-09-22,Swimwear,Kids,5
+2015-09-22,T-Shirts,Men,24
+2015-09-22,T-Shirts,Women,10
+2015-09-29,Accessories,Unisex,4
+2015-09-29,Bags,Unisex,38
+2015-09-29,Bikes,Women,102
+2015-09-29,Cleats,Men,178
+2015-09-29,Fitness Equipment,Unisex,513
+2015-09-29,Gloves,Men,7
+2015-09-29,Gloves,Unisex,2
+2015-09-29,Gloves,Women,27
+2015-09-29,Golf Balls,Unisex,41
+2015-09-29,Golf Clubs,Unisex,36
+2015-09-29,Jerseys,Kids,3
+2015-09-29,Kayaks,Unisex,106
+2015-09-29,Life Vests,Men,438
+2015-09-29,Outdoor Gear,Unisex,119
+2015-09-29,Polos,Men,437
+2015-09-29,Running Shoes,Kids,220
+2015-09-29,Running Shoes,Men,275
+2015-09-29,Running Shoes,Women,21
+2015-09-29,Shorts,Women,4
+2015-09-29,Slides,Kids,5
+2015-09-29,Slides,Men,10
+2015-09-29,Slides,Women,9
+2015-09-29,Socks,Unisex,1
+2015-09-29,Swimwear,Kids,5
+2015-09-29,T-Shirts,Men,23
+2015-09-29,T-Shirts,Women,3
+2015-10-06,Bags,Unisex,17
+2015-10-06,Bikes,Women,114
+2015-10-06,Cleats,Kids,1
+2015-10-06,Cleats,Men,161
+2015-10-06,Fitness Equipment,Unisex,542
+2015-10-06,Gloves,Men,8
+2015-10-06,Gloves,Unisex,19
+2015-10-06,Gloves,Women,36
+2015-10-06,Golf Balls,Unisex,48
+2015-10-06,Golf Clubs,Unisex,44
+2015-10-06,Jerseys,Kids,9
+2015-10-06,Kayaks,Unisex,117
+2015-10-06,Life Vests,Men,361
+2015-10-06,Outdoor Gear,Unisex,116
+2015-10-06,Polos,Men,473
+2015-10-06,Polos,Women,13
+2015-10-06,Running Shoes,Kids,237
+2015-10-06,Running Shoes,Men,251
+2015-10-06,Running Shoes,Women,2
+2015-10-06,Shorts,Women,20
+2015-10-06,Slides,Kids,5
+2015-10-06,Slides,Men,14
+2015-10-06,Slides,Women,6
+2015-10-06,Socks,Unisex,8
+2015-10-06,Swimwear,Kids,20
+2015-10-06,T-Shirts,Men,28
+2015-10-06,T-Shirts,Women,4
+2015-10-13,Accessories,Unisex,10
+2015-10-13,Bags,Unisex,28
+2015-10-13,Bikes,Women,103
+2015-10-13,Cleats,Men,167
+2015-10-13,Fitness Equipment,Unisex,458
+2015-10-13,Gloves,Unisex,26
+2015-10-13,Gloves,Women,47
+2015-10-13,Golf Balls,Unisex,41
+2015-10-13,Golf Clubs,Unisex,59
+2015-10-13,Jerseys,Kids,4
+2015-10-13,Kayaks,Unisex,99
+2015-10-13,Life Vests,Men,385
+2015-10-13,Outdoor Gear,Unisex,123
+2015-10-13,Polos,Men,471
+2015-10-13,Polos,Women,15
+2015-10-13,Running Shoes,Kids,214
+2015-10-13,Running Shoes,Men,307
+2015-10-13,Running Shoes,Women,9
+2015-10-13,Shorts,Women,8
+2015-10-13,Slides,Kids,1
+2015-10-13,Slides,Men,2
+2015-10-13,Slides,Women,19
+2015-10-13,Socks,Unisex,18
+2015-10-13,Swimwear,Kids,6
+2015-10-13,T-Shirts,Men,31
+2015-10-13,T-Shirts,Women,14
+2015-10-20,Accessories,Unisex,3
+2015-10-20,Bags,Unisex,6
+2015-10-20,Bikes,Women,99
+2015-10-20,Cleats,Men,122
+2015-10-20,Fitness Equipment,Unisex,442
+2015-10-20,Gloves,Men,19
+2015-10-20,Gloves,Women,49
+2015-10-20,Golf Balls,Unisex,44
+2015-10-20,Golf Clubs,Unisex,34
+2015-10-20,Jerseys,Kids,22
+2015-10-20,Kayaks,Unisex,103
+2015-10-20,Life Vests,Men,439
+2015-10-20,Outdoor Gear,Unisex,110
+2015-10-20,Polos,Men,432
+2015-10-20,Polos,Women,4
+2015-10-20,Running Shoes,Kids,193
+2015-10-20,Running Shoes,Men,254
+2015-10-20,Running Shoes,Women,5
+2015-10-20,Shorts,Women,5
+2015-10-20,Slides,Kids,15
+2015-10-20,Slides,Men,12
+2015-10-20,Slides,Women,11
+2015-10-20,Socks,Unisex,8
+2015-10-20,Swimwear,Kids,3
+2015-10-20,T-Shirts,Men,41
+2015-10-20,T-Shirts,Women,4
+2015-10-27,Accessories,Unisex,7
+2015-10-27,Bags,Unisex,38
+2015-10-27,Bikes,Women,108
+2015-10-27,Cleats,Kids,16
+2015-10-27,Cleats,Men,182
+2015-10-27,Fitness Equipment,Unisex,527
+2015-10-27,Gloves,Men,12
+2015-10-27,Gloves,Unisex,14
+2015-10-27,Gloves,Women,36
+2015-10-27,Golf Balls,Unisex,59
+2015-10-27,Golf Clubs,Unisex,54
+2015-10-27,Jerseys,Kids,10
+2015-10-27,Kayaks,Unisex,112
+2015-10-27,Life Vests,Men,402
+2015-10-27,Outdoor Gear,Unisex,157
+2015-10-27,Polos,Men,384
+2015-10-27,Polos,Women,6
+2015-10-27,Running Shoes,Kids,231
+2015-10-27,Running Shoes,Men,322
+2015-10-27,Running Shoes,Women,3
+2015-10-27,Shorts,Women,2
+2015-10-27,Slides,Kids,10
+2015-10-27,Slides,Men,13
+2015-10-27,Slides,Women,16
+2015-10-27,Socks,Unisex,4
+2015-10-27,Swimwear,Kids,13
+2015-10-27,T-Shirts,Men,28
+2015-10-27,T-Shirts,Women,7
+2015-11-03,Accessories,Unisex,7
+2015-11-03,Bags,Unisex,53
+2015-11-03,Bikes,Women,119
+2015-11-03,Cleats,Kids,5
+2015-11-03,Cleats,Men,176
+2015-11-03,Fitness Equipment,Unisex,489
+2015-11-03,Gloves,Men,6
+2015-11-03,Gloves,Unisex,17
+2015-11-03,Gloves,Women,27
+2015-11-03,Golf Balls,Unisex,60
+2015-11-03,Golf Clubs,Unisex,61
+2015-11-03,Jerseys,Kids,2
+2015-11-03,Kayaks,Unisex,105
+2015-11-03,Life Vests,Men,410
+2015-11-03,Outdoor Gear,Unisex,154
+2015-11-03,Polos,Men,424
+2015-11-03,Polos,Women,10
+2015-11-03,Running Shoes,Kids,225
+2015-11-03,Running Shoes,Men,242
+2015-11-03,Running Shoes,Women,2
+2015-11-03,Shorts,Women,2
+2015-11-03,Slides,Kids,1
+2015-11-03,Slides,Men,14
+2015-11-03,Slides,Women,25
+2015-11-03,Socks,Unisex,11
+2015-11-03,Swimwear,Kids,9
+2015-11-03,T-Shirts,Men,17
+2015-11-03,T-Shirts,Women,8
+2015-11-10,Accessories,Unisex,14
+2015-11-10,Bags,Unisex,25
+2015-11-10,Bikes,Women,96
+2015-11-10,Cleats,Kids,10
+2015-11-10,Cleats,Men,154
+2015-11-10,Fitness Equipment,Unisex,532
+2015-11-10,Gloves,Men,1
+2015-11-10,Gloves,Unisex,6
+2015-11-10,Gloves,Women,30
+2015-11-10,Golf Balls,Unisex,65
+2015-11-10,Golf Clubs,Unisex,50
+2015-11-10,Jerseys,Kids,10
+2015-11-10,Kayaks,Unisex,107
+2015-11-10,Life Vests,Men,453
+2015-11-10,Outdoor Gear,Unisex,125
+2015-11-10,Polos,Men,416
+2015-11-10,Running Shoes,Kids,273
+2015-11-10,Running Shoes,Men,219
+2015-11-10,Running Shoes,Women,6
+2015-11-10,Shorts,Women,6
+2015-11-10,Slides,Kids,5
+2015-11-10,Slides,Men,14
+2015-11-10,Slides,Women,15
+2015-11-10,Socks,Unisex,6
+2015-11-10,Swimwear,Kids,5
+2015-11-10,T-Shirts,Men,37
+2015-11-10,T-Shirts,Women,6
+2015-11-17,Accessories,Unisex,14
+2015-11-17,Bags,Unisex,15
+2015-11-17,Bikes,Women,108
+2015-11-17,Cleats,Kids,16
+2015-11-17,Cleats,Men,154
+2015-11-17,Fitness Equipment,Unisex,478
+2015-11-17,Gloves,Men,9
+2015-11-17,Gloves,Unisex,21
+2015-11-17,Gloves,Women,46
+2015-11-17,Golf Balls,Unisex,61
+2015-11-17,Golf Clubs,Unisex,34
+2015-11-17,Jerseys,Kids,8
+2015-11-17,Kayaks,Unisex,115
+2015-11-17,Life Vests,Men,434
+2015-11-17,Outdoor Gear,Unisex,135
+2015-11-17,Polos,Men,423
+2015-11-17,Polos,Women,9
+2015-11-17,Running Shoes,Kids,214
+2015-11-17,Running Shoes,Men,287
+2015-11-17,Running Shoes,Women,13
+2015-11-17,Shorts,Women,3
+2015-11-17,Slides,Kids,4
+2015-11-17,Slides,Men,13
+2015-11-17,Slides,Women,22
+2015-11-17,Socks,Unisex,8
+2015-11-17,Swimwear,Kids,5
+2015-11-17,T-Shirts,Men,30
+2015-11-17,T-Shirts,Women,7
+2015-11-24,Accessories,Unisex,13
+2015-11-24,Bags,Unisex,31
+2015-11-24,Bikes,Women,103
+2015-11-24,Cleats,Kids,8
+2015-11-24,Cleats,Men,135
+2015-11-24,Fitness Equipment,Unisex,536
+2015-11-24,Gloves,Men,4
+2015-11-24,Gloves,Unisex,24
+2015-11-24,Gloves,Women,68
+2015-11-24,Golf Balls,Unisex,42
+2015-11-24,Golf Clubs,Unisex,58
+2015-11-24,Jerseys,Kids,9
+2015-11-24,Kayaks,Unisex,111
+2015-11-24,Life Vests,Men,366
+2015-11-24,Outdoor Gear,Unisex,130
+2015-11-24,Polos,Men,396
+2015-11-24,Polos,Women,4
+2015-11-24,Running Shoes,Kids,228
+2015-11-24,Running Shoes,Men,246
+2015-11-24,Running Shoes,Women,4
+2015-11-24,Shorts,Women,3
+2015-11-24,Slides,Kids,9
+2015-11-24,Slides,Men,24
+2015-11-24,Slides,Women,38
+2015-11-24,Socks,Unisex,3
+2015-11-24,T-Shirts,Men,23
+2015-11-24,T-Shirts,Women,3
+2015-12-01,Accessories,Unisex,3
+2015-12-01,Bags,Unisex,6
+2015-12-01,Bikes,Women,90
+2015-12-01,Cleats,Kids,8
+2015-12-01,Cleats,Men,166
+2015-12-01,Fitness Equipment,Unisex,468
+2015-12-01,Gloves,Men,4
+2015-12-01,Gloves,Unisex,24
+2015-12-01,Gloves,Women,24
+2015-12-01,Golf Balls,Unisex,74
+2015-12-01,Golf Clubs,Unisex,39
+2015-12-01,Jerseys,Kids,11
+2015-12-01,Kayaks,Unisex,128
+2015-12-01,Life Vests,Men,373
+2015-12-01,Outdoor Gear,Unisex,132
+2015-12-01,Polos,Men,383
+2015-12-01,Polos,Women,16
+2015-12-01,Running Shoes,Kids,214
+2015-12-01,Running Shoes,Men,277
+2015-12-01,Running Shoes,Women,12
+2015-12-01,Shorts,Women,4
+2015-12-01,Slides,Kids,3
+2015-12-01,Slides,Men,10
+2015-12-01,Slides,Women,25
+2015-12-01,Socks,Unisex,14
+2015-12-01,Swimwear,Kids,1
+2015-12-01,T-Shirts,Men,23
+2015-12-01,T-Shirts,Women,6
+2015-12-08,Accessories,Unisex,9
+2015-12-08,Bags,Unisex,36
+2015-12-08,Bikes,Women,100
+2015-12-08,Cleats,Kids,7
+2015-12-08,Cleats,Men,167
+2015-12-08,Fitness Equipment,Unisex,556
+2015-12-08,Gloves,Men,9
+2015-12-08,Gloves,Unisex,20
+2015-12-08,Gloves,Women,44
+2015-12-08,Golf Balls,Unisex,51
+2015-12-08,Golf Clubs,Unisex,17
+2015-12-08,Jerseys,Kids,10
+2015-12-08,Kayaks,Unisex,124
+2015-12-08,Life Vests,Men,360
+2015-12-08,Outdoor Gear,Unisex,127
+2015-12-08,Polos,Men,368
+2015-12-08,Polos,Women,10
+2015-12-08,Running Shoes,Kids,216
+2015-12-08,Running Shoes,Men,264
+2015-12-08,Running Shoes,Women,21
+2015-12-08,Shorts,Women,8
+2015-12-08,Slides,Kids,3
+2015-12-08,Slides,Men,20
+2015-12-08,Slides,Women,9
+2015-12-08,Socks,Unisex,10
+2015-12-08,Swimwear,Kids,9
+2015-12-08,T-Shirts,Men,16
+2015-12-08,T-Shirts,Women,20
+2015-12-15,Accessories,Unisex,15
+2015-12-15,Bags,Unisex,27
+2015-12-15,Bikes,Women,87
+2015-12-15,Cleats,Kids,9
+2015-12-15,Cleats,Men,161
+2015-12-15,Fitness Equipment,Unisex,439
+2015-12-15,Gloves,Men,11
+2015-12-15,Gloves,Unisex,21
+2015-12-15,Gloves,Women,54
+2015-12-15,Golf Balls,Unisex,57
+2015-12-15,Golf Clubs,Unisex,62
+2015-12-15,Jerseys,Kids,10
+2015-12-15,Kayaks,Unisex,97
+2015-12-15,Life Vests,Men,464
+2015-12-15,Outdoor Gear,Unisex,147
+2015-12-15,Polos,Men,385
+2015-12-15,Polos,Women,5
+2015-12-15,Running Shoes,Kids,255
+2015-12-15,Running Shoes,Men,236
+2015-12-15,Running Shoes,Women,2
+2015-12-15,Shorts,Women,6
+2015-12-15,Slides,Kids,5
+2015-12-15,Slides,Men,26
+2015-12-15,Slides,Women,15
+2015-12-15,Socks,Unisex,7
+2015-12-15,Swimwear,Kids,1
+2015-12-15,T-Shirts,Men,33
+2015-12-15,T-Shirts,Women,13
+2015-12-22,Bags,Unisex,16
+2015-12-22,Bikes,Women,94
+2015-12-22,Cleats,Kids,12
+2015-12-22,Cleats,Men,199
+2015-12-22,Fitness Equipment,Unisex,569
+2015-12-22,Gloves,Men,13
+2015-12-22,Gloves,Unisex,14
+2015-12-22,Gloves,Women,29
+2015-12-22,Golf Balls,Unisex,41
+2015-12-22,Golf Clubs,Unisex,44
+2015-12-22,Jerseys,Kids,16
+2015-12-22,Kayaks,Unisex,107
+2015-12-22,Life Vests,Men,482
+2015-12-22,Outdoor Gear,Unisex,127
+2015-12-22,Polos,Men,518
+2015-12-22,Running Shoes,Kids,213
+2015-12-22,Running Shoes,Men,249
+2015-12-22,Running Shoes,Women,1
+2015-12-22,Slides,Kids,13
+2015-12-22,Slides,Men,22
+2015-12-22,Slides,Women,24
+2015-12-22,Socks,Unisex,5
+2015-12-22,Swimwear,Kids,16
+2015-12-22,T-Shirts,Men,17
+2015-12-22,T-Shirts,Women,5
+2015-12-29,Bags,Unisex,9
+2015-12-29,Bikes,Women,108
+2015-12-29,Cleats,Kids,6
+2015-12-29,Cleats,Men,161
+2015-12-29,Fitness Equipment,Unisex,476
+2015-12-29,Gloves,Men,4
+2015-12-29,Gloves,Unisex,11
+2015-12-29,Gloves,Women,33
+2015-12-29,Golf Balls,Unisex,53
+2015-12-29,Golf Clubs,Unisex,45
+2015-12-29,Jerseys,Kids,8
+2015-12-29,Kayaks,Unisex,99
+2015-12-29,Life Vests,Men,379
+2015-12-29,Outdoor Gear,Unisex,120
+2015-12-29,Polos,Men,468
+2015-12-29,Polos,Women,9
+2015-12-29,Running Shoes,Kids,243
+2015-12-29,Running Shoes,Men,267
+2015-12-29,Running Shoes,Women,2
+2015-12-29,Shorts,Women,6
+2015-12-29,Slides,Kids,16
+2015-12-29,Slides,Men,30
+2015-12-29,Slides,Women,11
+2015-12-29,Socks,Unisex,9
+2015-12-29,Swimwear,Kids,5
+2015-12-29,T-Shirts,Men,21
+2015-12-29,T-Shirts,Women,5
+2016-01-05,Accessories,Unisex,9
+2016-01-05,Bags,Unisex,17
+2016-01-05,Bikes,Women,98
+2016-01-05,Cleats,Kids,4
+2016-01-05,Cleats,Men,142
+2016-01-05,Fitness Equipment,Unisex,425
+2016-01-05,Gloves,Men,7
+2016-01-05,Gloves,Unisex,6
+2016-01-05,Gloves,Women,29
+2016-01-05,Golf Balls,Unisex,49
+2016-01-05,Golf Clubs,Unisex,53
+2016-01-05,Jerseys,Kids,4
+2016-01-05,Kayaks,Unisex,97
+2016-01-05,Life Vests,Men,424
+2016-01-05,Outdoor Gear,Unisex,135
+2016-01-05,Polos,Men,473
+2016-01-05,Polos,Women,2
+2016-01-05,Running Shoes,Kids,223
+2016-01-05,Running Shoes,Men,266
+2016-01-05,Shorts,Women,22
+2016-01-05,Slides,Kids,6
+2016-01-05,Slides,Men,5
+2016-01-05,Slides,Women,11
+2016-01-05,Socks,Unisex,1
+2016-01-05,Swimwear,Kids,8
+2016-01-05,T-Shirts,Men,14
+2016-01-05,T-Shirts,Women,14
+2016-01-12,Bags,Unisex,23
+2016-01-12,Bikes,Women,105
+2016-01-12,Cleats,Kids,7
+2016-01-12,Cleats,Men,151
+2016-01-12,Fitness Equipment,Unisex,493
+2016-01-12,Gloves,Men,13
+2016-01-12,Gloves,Unisex,3
+2016-01-12,Gloves,Women,44
+2016-01-12,Golf Balls,Unisex,38
+2016-01-12,Golf Clubs,Unisex,47
+2016-01-12,Kayaks,Unisex,103
+2016-01-12,Life Vests,Men,408
+2016-01-12,Outdoor Gear,Unisex,141
+2016-01-12,Polos,Men,465
+2016-01-12,Polos,Women,5
+2016-01-12,Running Shoes,Kids,172
+2016-01-12,Running Shoes,Men,275
+2016-01-12,Running Shoes,Women,8
+2016-01-12,Slides,Men,9
+2016-01-12,Slides,Women,33
+2016-01-12,Socks,Unisex,23
+2016-01-12,T-Shirts,Men,20
+2016-01-12,T-Shirts,Women,3
+2016-01-19,Accessories,Unisex,11
+2016-01-19,Bags,Unisex,13
+2016-01-19,Bikes,Women,92
+2016-01-19,Cleats,Kids,4
+2016-01-19,Cleats,Men,184
+2016-01-19,Fitness Equipment,Unisex,572
+2016-01-19,Gloves,Men,16
+2016-01-19,Gloves,Unisex,26
+2016-01-19,Gloves,Women,44
+2016-01-19,Golf Balls,Unisex,38
+2016-01-19,Golf Clubs,Unisex,24
+2016-01-19,Jerseys,Kids,9
+2016-01-19,Kayaks,Unisex,87
+2016-01-19,Life Vests,Men,415
+2016-01-19,Outdoor Gear,Unisex,137
+2016-01-19,Polos,Men,467
+2016-01-19,Polos,Women,11
+2016-01-19,Running Shoes,Kids,221
+2016-01-19,Running Shoes,Men,249
+2016-01-19,Running Shoes,Women,15
+2016-01-19,Shorts,Women,3
+2016-01-19,Slides,Kids,7
+2016-01-19,Slides,Men,14
+2016-01-19,Slides,Women,15
+2016-01-19,Socks,Unisex,13
+2016-01-19,Swimwear,Kids,2
+2016-01-19,T-Shirts,Men,20
+2016-01-19,T-Shirts,Women,1
+2016-01-26,Bags,Unisex,22
+2016-01-26,Bikes,Women,99
+2016-01-26,Cleats,Kids,7
+2016-01-26,Cleats,Men,156
+2016-01-26,Fitness Equipment,Unisex,476
+2016-01-26,Gloves,Men,4
+2016-01-26,Gloves,Unisex,26
+2016-01-26,Gloves,Women,34
+2016-01-26,Golf Balls,Unisex,53
+2016-01-26,Golf Clubs,Unisex,50
+2016-01-26,Jerseys,Kids,5
+2016-01-26,Kayaks,Unisex,124
+2016-01-26,Life Vests,Men,414
+2016-01-26,Outdoor Gear,Unisex,126
+2016-01-26,Polos,Men,471
+2016-01-26,Polos,Women,4
+2016-01-26,Running Shoes,Kids,232
+2016-01-26,Running Shoes,Men,253
+2016-01-26,Running Shoes,Women,5
+2016-01-26,Shorts,Women,5
+2016-01-26,Slides,Kids,1
+2016-01-26,Slides,Men,16
+2016-01-26,Slides,Women,3
+2016-01-26,Socks,Unisex,7
+2016-01-26,Swimwear,Kids,7
+2016-01-26,T-Shirts,Men,27
+2016-01-26,T-Shirts,Women,10
+2016-02-02,Accessories,Unisex,3
+2016-02-02,Bags,Unisex,19
+2016-02-02,Bikes,Women,105
+2016-02-02,Cleats,Kids,6
+2016-02-02,Cleats,Men,151
+2016-02-02,Fitness Equipment,Unisex,544
+2016-02-02,Gloves,Unisex,11
+2016-02-02,Gloves,Women,55
+2016-02-02,Golf Balls,Unisex,38
+2016-02-02,Golf Clubs,Unisex,35
+2016-02-02,Jerseys,Kids,7
+2016-02-02,Kayaks,Unisex,103
+2016-02-02,Life Vests,Men,463
+2016-02-02,Outdoor Gear,Unisex,124
+2016-02-02,Polos,Men,362
+2016-02-02,Polos,Women,13
+2016-02-02,Running Shoes,Kids,197
+2016-02-02,Running Shoes,Men,232
+2016-02-02,Running Shoes,Women,2
+2016-02-02,Shorts,Women,11
+2016-02-02,Slides,Kids,3
+2016-02-02,Slides,Men,11
+2016-02-02,Slides,Women,14
+2016-02-02,Socks,Unisex,2
+2016-02-02,Swimwear,Kids,1
+2016-02-02,T-Shirts,Men,29
+2016-02-02,T-Shirts,Women,3
+2016-02-09,Accessories,Unisex,7
+2016-02-09,Bags,Unisex,24
+2016-02-09,Bikes,Women,78
+2016-02-09,Cleats,Kids,3
+2016-02-09,Cleats,Men,165
+2016-02-09,Fitness Equipment,Unisex,403
+2016-02-09,Gloves,Unisex,22
+2016-02-09,Gloves,Women,56
+2016-02-09,Golf Balls,Unisex,36
+2016-02-09,Golf Clubs,Unisex,36
+2016-02-09,Jerseys,Kids,11
+2016-02-09,Kayaks,Unisex,101
+2016-02-09,Life Vests,Men,470
+2016-02-09,Outdoor Gear,Unisex,115
+2016-02-09,Polos,Men,497
+2016-02-09,Polos,Women,5
+2016-02-09,Running Shoes,Kids,183
+2016-02-09,Running Shoes,Men,195
+2016-02-09,Running Shoes,Women,15
+2016-02-09,Shorts,Women,8
+2016-02-09,Slides,Kids,14
+2016-02-09,Slides,Men,10
+2016-02-09,Slides,Women,15
+2016-02-09,Socks,Unisex,10
+2016-02-09,Swimwear,Kids,6
+2016-02-09,T-Shirts,Men,29
+2016-02-09,T-Shirts,Women,4
+2016-02-16,Accessories,Unisex,5
+2016-02-16,Bags,Unisex,10
+2016-02-16,Bikes,Women,115
+2016-02-16,Cleats,Kids,9
+2016-02-16,Cleats,Men,168
+2016-02-16,Fitness Equipment,Unisex,550
+2016-02-16,Gloves,Men,7
+2016-02-16,Gloves,Unisex,10
+2016-02-16,Gloves,Women,27
+2016-02-16,Golf Balls,Unisex,62
+2016-02-16,Golf Clubs,Unisex,40
+2016-02-16,Jerseys,Kids,21
+2016-02-16,Kayaks,Unisex,109
+2016-02-16,Life Vests,Men,428
+2016-02-16,Outdoor Gear,Unisex,161
+2016-02-16,Polos,Men,411
+2016-02-16,Polos,Women,8
+2016-02-16,Running Shoes,Kids,194
+2016-02-16,Running Shoes,Men,278
+2016-02-16,Running Shoes,Women,6
+2016-02-16,Shorts,Women,15
+2016-02-16,Slides,Kids,13
+2016-02-16,Slides,Men,14
+2016-02-16,Slides,Women,21
+2016-02-16,Socks,Unisex,9
+2016-02-16,Swimwear,Kids,5
+2016-02-16,T-Shirts,Men,36
+2016-02-16,T-Shirts,Women,1
+2016-02-23,Accessories,Unisex,5
+2016-02-23,Bags,Unisex,19
+2016-02-23,Bikes,Women,96
+2016-02-23,Cleats,Kids,14
+2016-02-23,Cleats,Men,160
+2016-02-23,Fitness Equipment,Unisex,482
+2016-02-23,Gloves,Men,11
+2016-02-23,Gloves,Unisex,18
+2016-02-23,Gloves,Women,37
+2016-02-23,Golf Balls,Unisex,70
+2016-02-23,Golf Clubs,Unisex,59
+2016-02-23,Jerseys,Kids,17
+2016-02-23,Kayaks,Unisex,101
+2016-02-23,Life Vests,Men,386
+2016-02-23,Outdoor Gear,Unisex,137
+2016-02-23,Polos,Men,389
+2016-02-23,Polos,Women,6
+2016-02-23,Running Shoes,Kids,244
+2016-02-23,Running Shoes,Men,276
+2016-02-23,Running Shoes,Women,7
+2016-02-23,Shorts,Women,3
+2016-02-23,Slides,Kids,9
+2016-02-23,Slides,Men,20
+2016-02-23,Slides,Women,12
+2016-02-23,Socks,Unisex,4
+2016-02-23,Swimwear,Kids,7
+2016-02-23,T-Shirts,Men,38
+2016-02-23,T-Shirts,Women,1
+2016-03-01,Accessories,Unisex,14
+2016-03-01,Bags,Unisex,10
+2016-03-01,Bikes,Women,94
+2016-03-01,Cleats,Kids,1
+2016-03-01,Cleats,Men,159
+2016-03-01,Fitness Equipment,Unisex,568
+2016-03-01,Gloves,Unisex,19
+2016-03-01,Gloves,Women,36
+2016-03-01,Golf Balls,Unisex,50
+2016-03-01,Golf Clubs,Unisex,35
+2016-03-01,Kayaks,Unisex,102
+2016-03-01,Life Vests,Men,398
+2016-03-01,Outdoor Gear,Unisex,124
+2016-03-01,Polos,Men,458
+2016-03-01,Polos,Women,8
+2016-03-01,Running Shoes,Kids,234
+2016-03-01,Running Shoes,Men,240
+2016-03-01,Running Shoes,Women,2
+2016-03-01,Shorts,Women,6
+2016-03-01,Slides,Kids,10
+2016-03-01,Slides,Men,8
+2016-03-01,Slides,Women,4
+2016-03-01,Socks,Unisex,3
+2016-03-01,T-Shirts,Men,55
+2016-03-01,T-Shirts,Women,2
+2016-03-08,Accessories,Unisex,3
+2016-03-08,Bags,Unisex,18
+2016-03-08,Bikes,Women,99
+2016-03-08,Cleats,Kids,3
+2016-03-08,Cleats,Men,167
+2016-03-08,Fitness Equipment,Unisex,513
+2016-03-08,Gloves,Men,8
+2016-03-08,Gloves,Unisex,12
+2016-03-08,Gloves,Women,9
+2016-03-08,Golf Balls,Unisex,38
+2016-03-08,Golf Clubs,Unisex,42
+2016-03-08,Jerseys,Kids,17
+2016-03-08,Kayaks,Unisex,103
+2016-03-08,Life Vests,Men,407
+2016-03-08,Outdoor Gear,Unisex,124
+2016-03-08,Polos,Men,357
+2016-03-08,Polos,Women,8
+2016-03-08,Running Shoes,Kids,178
+2016-03-08,Running Shoes,Men,177
+2016-03-08,Running Shoes,Women,8
+2016-03-08,Shorts,Women,12
+2016-03-08,Slides,Kids,5
+2016-03-08,Slides,Men,22
+2016-03-08,Slides,Women,4
+2016-03-08,Socks,Unisex,4
+2016-03-08,Swimwear,Kids,15
+2016-03-08,T-Shirts,Men,24
+2016-03-08,T-Shirts,Women,20
+2016-03-15,Accessories,Unisex,7
+2016-03-15,Bags,Unisex,29
+2016-03-15,Bikes,Women,115
+2016-03-15,Cleats,Kids,2
+2016-03-15,Cleats,Men,172
+2016-03-15,Fitness Equipment,Unisex,529
+2016-03-15,Gloves,Men,11
+2016-03-15,Gloves,Unisex,12
+2016-03-15,Gloves,Women,27
+2016-03-15,Golf Balls,Unisex,52
+2016-03-15,Golf Clubs,Unisex,33
+2016-03-15,Jerseys,Kids,7
+2016-03-15,Kayaks,Unisex,95
+2016-03-15,Life Vests,Men,347
+2016-03-15,Outdoor Gear,Unisex,144
+2016-03-15,Polos,Men,422
+2016-03-15,Polos,Women,1
+2016-03-15,Running Shoes,Kids,175
+2016-03-15,Running Shoes,Men,282
+2016-03-15,Running Shoes,Women,4
+2016-03-15,Shorts,Women,8
+2016-03-15,Slides,Kids,9
+2016-03-15,Slides,Men,13
+2016-03-15,Slides,Women,29
+2016-03-15,Socks,Unisex,8
+2016-03-15,Swimwear,Kids,2
+2016-03-15,T-Shirts,Men,31
+2016-03-15,T-Shirts,Women,3
+2016-03-22,Accessories,Unisex,5
+2016-03-22,Bags,Unisex,25
+2016-03-22,Bikes,Women,109
+2016-03-22,Cleats,Kids,10
+2016-03-22,Cleats,Men,155
+2016-03-22,Fitness Equipment,Unisex,512
+2016-03-22,Gloves,Men,10
+2016-03-22,Gloves,Unisex,27
+2016-03-22,Gloves,Women,26
+2016-03-22,Golf Balls,Unisex,27
+2016-03-22,Golf Clubs,Unisex,48
+2016-03-22,Jerseys,Kids,14
+2016-03-22,Kayaks,Unisex,103
+2016-03-22,Life Vests,Men,344
+2016-03-22,Outdoor Gear,Unisex,128
+2016-03-22,Polos,Men,429
+2016-03-22,Polos,Women,7
+2016-03-22,Running Shoes,Kids,257
+2016-03-22,Running Shoes,Men,237
+2016-03-22,Running Shoes,Women,2
+2016-03-22,Shorts,Women,5
+2016-03-22,Slides,Kids,11
+2016-03-22,Slides,Men,7
+2016-03-22,Slides,Women,23
+2016-03-22,Socks,Unisex,4
+2016-03-22,Swimwear,Kids,4
+2016-03-22,T-Shirts,Men,32
+2016-03-22,T-Shirts,Women,5
+2016-03-29,Accessories,Unisex,5
+2016-03-29,Bags,Unisex,20
+2016-03-29,Bikes,Women,102
+2016-03-29,Cleats,Kids,12
+2016-03-29,Cleats,Men,169
+2016-03-29,Fitness Equipment,Unisex,518
+2016-03-29,Gloves,Men,14
+2016-03-29,Gloves,Unisex,12
+2016-03-29,Gloves,Women,52
+2016-03-29,Golf Balls,Unisex,50
+2016-03-29,Golf Clubs,Unisex,44
+2016-03-29,Jerseys,Kids,6
+2016-03-29,Kayaks,Unisex,104
+2016-03-29,Life Vests,Men,360
+2016-03-29,Outdoor Gear,Unisex,125
+2016-03-29,Polos,Men,417
+2016-03-29,Polos,Women,9
+2016-03-29,Running Shoes,Kids,229
+2016-03-29,Running Shoes,Men,265
+2016-03-29,Running Shoes,Women,5
+2016-03-29,Shorts,Women,7
+2016-03-29,Slides,Kids,1
+2016-03-29,Slides,Men,13
+2016-03-29,Slides,Women,9
+2016-03-29,Socks,Unisex,2
+2016-03-29,Swimwear,Kids,4
+2016-03-29,T-Shirts,Men,50
+2016-03-29,T-Shirts,Women,7
+2016-04-05,Accessories,Unisex,15
+2016-04-05,Bags,Unisex,33
+2016-04-05,Bikes,Women,108
+2016-04-05,Cleats,Kids,12
+2016-04-05,Cleats,Men,168
+2016-04-05,Fitness Equipment,Unisex,559
+2016-04-05,Gloves,Men,7
+2016-04-05,Gloves,Unisex,29
+2016-04-05,Gloves,Women,38
+2016-04-05,Golf Balls,Unisex,15
+2016-04-05,Golf Clubs,Unisex,45
+2016-04-05,Jerseys,Kids,7
+2016-04-05,Kayaks,Unisex,103
+2016-04-05,Life Vests,Men,381
+2016-04-05,Outdoor Gear,Unisex,146
+2016-04-05,Polos,Men,406
+2016-04-05,Polos,Women,9
+2016-04-05,Running Shoes,Kids,238
+2016-04-05,Running Shoes,Men,302
+2016-04-05,Running Shoes,Women,5
+2016-04-05,Slides,Kids,6
+2016-04-05,Slides,Men,11
+2016-04-05,Slides,Women,10
+2016-04-05,Swimwear,Kids,15
+2016-04-05,T-Shirts,Men,34
+2016-04-05,T-Shirts,Women,6
+2016-04-12,Accessories,Unisex,13
+2016-04-12,Bags,Unisex,4
+2016-04-12,Bikes,Women,97
+2016-04-12,Cleats,Kids,18
+2016-04-12,Cleats,Men,181
+2016-04-12,Fitness Equipment,Unisex,562
+2016-04-12,Gloves,Men,5
+2016-04-12,Gloves,Unisex,21
+2016-04-12,Gloves,Women,30
+2016-04-12,Golf Balls,Unisex,52
+2016-04-12,Golf Clubs,Unisex,56
+2016-04-12,Jerseys,Kids,12
+2016-04-12,Kayaks,Unisex,105
+2016-04-12,Life Vests,Men,404
+2016-04-12,Outdoor Gear,Unisex,142
+2016-04-12,Polos,Men,462
+2016-04-12,Polos,Women,9
+2016-04-12,Running Shoes,Kids,255
+2016-04-12,Running Shoes,Men,242
+2016-04-12,Running Shoes,Women,2
+2016-04-12,Slides,Kids,10
+2016-04-12,Slides,Men,8
+2016-04-12,Slides,Women,8
+2016-04-12,Socks,Unisex,9
+2016-04-12,Swimwear,Kids,12
+2016-04-12,T-Shirts,Men,38
+2016-04-12,T-Shirts,Women,7
+2016-04-19,Accessories,Unisex,5
+2016-04-19,Bags,Unisex,11
+2016-04-19,Bikes,Women,92
+2016-04-19,Cleats,Men,157
+2016-04-19,Fitness Equipment,Unisex,526
+2016-04-19,Gloves,Men,7
+2016-04-19,Gloves,Unisex,16
+2016-04-19,Gloves,Women,29
+2016-04-19,Golf Balls,Unisex,52
+2016-04-19,Golf Clubs,Unisex,74
+2016-04-19,Jerseys,Kids,5
+2016-04-19,Kayaks,Unisex,99
+2016-04-19,Life Vests,Men,435
+2016-04-19,Outdoor Gear,Unisex,134
+2016-04-19,Polos,Men,434
+2016-04-19,Polos,Women,12
+2016-04-19,Running Shoes,Kids,221
+2016-04-19,Running Shoes,Men,275
+2016-04-19,Running Shoes,Women,6
+2016-04-19,Shorts,Women,8
+2016-04-19,Slides,Kids,7
+2016-04-19,Slides,Men,40
+2016-04-19,Slides,Women,3
+2016-04-19,Socks,Unisex,2
+2016-04-19,T-Shirts,Men,36
+2016-04-19,T-Shirts,Women,8
+2016-04-26,Accessories,Unisex,5
+2016-04-26,Bags,Unisex,26
+2016-04-26,Bikes,Women,94
+2016-04-26,Cleats,Kids,4
+2016-04-26,Cleats,Men,143
+2016-04-26,Fitness Equipment,Unisex,490
+2016-04-26,Gloves,Men,6
+2016-04-26,Gloves,Unisex,14
+2016-04-26,Gloves,Women,23
+2016-04-26,Golf Balls,Unisex,29
+2016-04-26,Golf Clubs,Unisex,47
+2016-04-26,Jerseys,Kids,10
+2016-04-26,Kayaks,Unisex,91
+2016-04-26,Life Vests,Men,363
+2016-04-26,Outdoor Gear,Unisex,94
+2016-04-26,Polos,Men,400
+2016-04-26,Polos,Women,11
+2016-04-26,Running Shoes,Kids,206
+2016-04-26,Running Shoes,Men,195
+2016-04-26,Shorts,Women,3
+2016-04-26,Slides,Kids,8
+2016-04-26,Slides,Men,22
+2016-04-26,Slides,Women,17
+2016-04-26,Socks,Unisex,6
+2016-04-26,T-Shirts,Men,18
+2016-04-26,T-Shirts,Women,1
+2016-05-03,Accessories,Unisex,7
+2016-05-03,Bags,Unisex,26
+2016-05-03,Bikes,Women,107
+2016-05-03,Cleats,Kids,1
+2016-05-03,Cleats,Men,138
+2016-05-03,Fitness Equipment,Unisex,569
+2016-05-03,Gloves,Men,6
+2016-05-03,Gloves,Unisex,21
+2016-05-03,Gloves,Women,29
+2016-05-03,Golf Balls,Unisex,40
+2016-05-03,Golf Clubs,Unisex,57
+2016-05-03,Jerseys,Kids,9
+2016-05-03,Kayaks,Unisex,125
+2016-05-03,Life Vests,Men,416
+2016-05-03,Outdoor Gear,Unisex,113
+2016-05-03,Polos,Men,415
+2016-05-03,Polos,Women,24
+2016-05-03,Running Shoes,Kids,164
+2016-05-03,Running Shoes,Men,202
+2016-05-03,Running Shoes,Women,15
+2016-05-03,Shorts,Women,9
+2016-05-03,Slides,Kids,12
+2016-05-03,Slides,Men,16
+2016-05-03,Slides,Women,19
+2016-05-03,Socks,Unisex,11
+2016-05-03,Swimwear,Kids,7
+2016-05-03,T-Shirts,Men,27
+2016-05-03,T-Shirts,Women,9
+2016-05-10,Accessories,Unisex,5
+2016-05-10,Bags,Unisex,38
+2016-05-10,Bikes,Women,110
+2016-05-10,Cleats,Kids,7
+2016-05-10,Cleats,Men,164
+2016-05-10,Fitness Equipment,Unisex,545
+2016-05-10,Gloves,Men,7
+2016-05-10,Gloves,Unisex,14
+2016-05-10,Gloves,Women,48
+2016-05-10,Golf Balls,Unisex,56
+2016-05-10,Golf Clubs,Unisex,31
+2016-05-10,Kayaks,Unisex,134
+2016-05-10,Life Vests,Men,404
+2016-05-10,Outdoor Gear,Unisex,140
+2016-05-10,Polos,Men,438
+2016-05-10,Polos,Women,11
+2016-05-10,Running Shoes,Kids,253
+2016-05-10,Running Shoes,Men,215
+2016-05-10,Running Shoes,Women,5
+2016-05-10,Shorts,Women,9
+2016-05-10,Slides,Kids,13
+2016-05-10,Slides,Men,17
+2016-05-10,Slides,Women,18
+2016-05-10,Socks,Unisex,9
+2016-05-10,Swimwear,Kids,8
+2016-05-10,T-Shirts,Men,37
+2016-05-10,T-Shirts,Women,5
+2016-05-17,Accessories,Unisex,7
+2016-05-17,Bags,Unisex,22
+2016-05-17,Bikes,Women,99
+2016-05-17,Cleats,Kids,10
+2016-05-17,Cleats,Men,172
+2016-05-17,Fitness Equipment,Unisex,521
+2016-05-17,Gloves,Men,7
+2016-05-17,Gloves,Unisex,20
+2016-05-17,Gloves,Women,41
+2016-05-17,Golf Balls,Unisex,67
+2016-05-17,Golf Clubs,Unisex,61
+2016-05-17,Jerseys,Kids,5
+2016-05-17,Kayaks,Unisex,116
+2016-05-17,Life Vests,Men,379
+2016-05-17,Outdoor Gear,Unisex,125
+2016-05-17,Polos,Men,416
+2016-05-17,Polos,Women,1
+2016-05-17,Running Shoes,Kids,192
+2016-05-17,Running Shoes,Men,220
+2016-05-17,Running Shoes,Women,11
+2016-05-17,Shorts,Women,6
+2016-05-17,Slides,Kids,4
+2016-05-17,Slides,Men,10
+2016-05-17,Swimwear,Kids,20
+2016-05-17,T-Shirts,Men,31
+2016-05-17,T-Shirts,Women,5
+2016-05-24,Accessories,Unisex,12
+2016-05-24,Bags,Unisex,18
+2016-05-24,Bikes,Women,112
+2016-05-24,Cleats,Kids,6
+2016-05-24,Cleats,Men,182
+2016-05-24,Fitness Equipment,Unisex,540
+2016-05-24,Gloves,Unisex,13
+2016-05-24,Gloves,Women,16
+2016-05-24,Golf Balls,Unisex,23
+2016-05-24,Golf Clubs,Unisex,39
+2016-05-24,Jerseys,Kids,2
+2016-05-24,Kayaks,Unisex,104
+2016-05-24,Life Vests,Men,403
+2016-05-24,Outdoor Gear,Unisex,96
+2016-05-24,Polos,Men,449
+2016-05-24,Polos,Women,9
+2016-05-24,Running Shoes,Kids,222
+2016-05-24,Running Shoes,Men,240
+2016-05-24,Running Shoes,Women,6
+2016-05-24,Slides,Kids,13
+2016-05-24,Slides,Men,7
+2016-05-24,Slides,Women,10
+2016-05-24,Socks,Unisex,7
+2016-05-24,Swimwear,Kids,6
+2016-05-24,T-Shirts,Men,35
+2016-05-31,Accessories,Unisex,9
+2016-05-31,Bags,Unisex,16
+2016-05-31,Bikes,Women,109
+2016-05-31,Cleats,Kids,1
+2016-05-31,Cleats,Men,171
+2016-05-31,Fitness Equipment,Unisex,532
+2016-05-31,Gloves,Men,3
+2016-05-31,Gloves,Unisex,17
+2016-05-31,Gloves,Women,32
+2016-05-31,Golf Balls,Unisex,44
+2016-05-31,Golf Clubs,Unisex,41
+2016-05-31,Jerseys,Kids,9
+2016-05-31,Kayaks,Unisex,100
+2016-05-31,Life Vests,Men,425
+2016-05-31,Outdoor Gear,Unisex,112
+2016-05-31,Polos,Men,464
+2016-05-31,Running Shoes,Kids,219
+2016-05-31,Running Shoes,Men,201
+2016-05-31,Running Shoes,Women,10
+2016-05-31,Shorts,Women,6
+2016-05-31,Slides,Kids,9
+2016-05-31,Slides,Men,28
+2016-05-31,Slides,Women,9
+2016-05-31,Socks,Unisex,13
+2016-05-31,T-Shirts,Men,40
+2016-05-31,T-Shirts,Women,9
+2016-06-07,Accessories,Unisex,4
+2016-06-07,Bags,Unisex,14
+2016-06-07,Bikes,Women,108
+2016-06-07,Cleats,Kids,5
+2016-06-07,Cleats,Men,158
+2016-06-07,Fitness Equipment,Unisex,513
+2016-06-07,Gloves,Men,18
+2016-06-07,Gloves,Unisex,6
+2016-06-07,Gloves,Women,19
+2016-06-07,Golf Balls,Unisex,48
+2016-06-07,Golf Clubs,Unisex,39
+2016-06-07,Jerseys,Kids,7
+2016-06-07,Kayaks,Unisex,97
+2016-06-07,Life Vests,Men,346
+2016-06-07,Outdoor Gear,Unisex,154
+2016-06-07,Polos,Men,474
+2016-06-07,Polos,Women,6
+2016-06-07,Running Shoes,Kids,175
+2016-06-07,Running Shoes,Men,227
+2016-06-07,Running Shoes,Women,8
+2016-06-07,Shorts,Women,16
+2016-06-07,Slides,Kids,2
+2016-06-07,Slides,Men,5
+2016-06-07,Slides,Women,13
+2016-06-07,Socks,Unisex,13
+2016-06-07,Swimwear,Kids,14
+2016-06-07,T-Shirts,Men,16
+2016-06-07,T-Shirts,Women,13
+2016-06-14,Accessories,Unisex,4
+2016-06-14,Bags,Unisex,26
+2016-06-14,Bikes,Women,94
+2016-06-14,Cleats,Kids,1
+2016-06-14,Cleats,Men,146
+2016-06-14,Fitness Equipment,Unisex,507
+2016-06-14,Gloves,Men,7
+2016-06-14,Gloves,Unisex,1
+2016-06-14,Gloves,Women,41
+2016-06-14,Golf Balls,Unisex,66
+2016-06-14,Golf Clubs,Unisex,44
+2016-06-14,Jerseys,Kids,6
+2016-06-14,Kayaks,Unisex,91
+2016-06-14,Life Vests,Men,338
+2016-06-14,Outdoor Gear,Unisex,135
+2016-06-14,Polos,Men,352
+2016-06-14,Polos,Women,20
+2016-06-14,Running Shoes,Kids,213
+2016-06-14,Running Shoes,Men,276
+2016-06-14,Running Shoes,Women,1
+2016-06-14,Shorts,Women,3
+2016-06-14,Slides,Kids,6
+2016-06-14,Slides,Men,20
+2016-06-14,Slides,Women,26
+2016-06-14,Socks,Unisex,6
+2016-06-14,Swimwear,Kids,5
+2016-06-14,T-Shirts,Men,34
+2016-06-14,T-Shirts,Women,4
+2016-06-21,Accessories,Unisex,4
+2016-06-21,Bags,Unisex,10
+2016-06-21,Bikes,Women,95
+2016-06-21,Cleats,Kids,9
+2016-06-21,Cleats,Men,176
+2016-06-21,Fitness Equipment,Unisex,526
+2016-06-21,Gloves,Men,14
+2016-06-21,Gloves,Unisex,12
+2016-06-21,Gloves,Women,50
+2016-06-21,Golf Balls,Unisex,71
+2016-06-21,Golf Clubs,Unisex,45
+2016-06-21,Jerseys,Kids,7
+2016-06-21,Kayaks,Unisex,102
+2016-06-21,Life Vests,Men,369
+2016-06-21,Outdoor Gear,Unisex,135
+2016-06-21,Polos,Men,485
+2016-06-21,Polos,Women,8
+2016-06-21,Running Shoes,Kids,225
+2016-06-21,Running Shoes,Men,259
+2016-06-21,Running Shoes,Women,8
+2016-06-21,Shorts,Women,8
+2016-06-21,Slides,Men,13
+2016-06-21,Slides,Women,10
+2016-06-21,Socks,Unisex,11
+2016-06-21,Swimwear,Kids,11
+2016-06-21,T-Shirts,Men,56
+2016-06-21,T-Shirts,Women,10
+2016-06-28,Accessories,Unisex,5
+2016-06-28,Bags,Unisex,19
+2016-06-28,Bikes,Women,93
+2016-06-28,Cleats,Kids,10
+2016-06-28,Cleats,Men,159
+2016-06-28,Fitness Equipment,Unisex,479
+2016-06-28,Gloves,Men,4
+2016-06-28,Gloves,Unisex,15
+2016-06-28,Gloves,Women,32
+2016-06-28,Golf Balls,Unisex,50
+2016-06-28,Golf Clubs,Unisex,43
+2016-06-28,Kayaks,Unisex,114
+2016-06-28,Life Vests,Men,391
+2016-06-28,Outdoor Gear,Unisex,132
+2016-06-28,Polos,Men,383
+2016-06-28,Polos,Women,7
+2016-06-28,Running Shoes,Kids,233
+2016-06-28,Running Shoes,Men,281
+2016-06-28,Running Shoes,Women,5
+2016-06-28,Slides,Kids,8
+2016-06-28,Slides,Men,10
+2016-06-28,Slides,Women,23
+2016-06-28,Socks,Unisex,4
+2016-06-28,Swimwear,Kids,11
+2016-06-28,T-Shirts,Men,18
+2016-06-28,T-Shirts,Women,11
+2016-07-05,Accessories,Unisex,5
+2016-07-05,Bags,Unisex,23
+2016-07-05,Bikes,Women,108
+2016-07-05,Cleats,Kids,18
+2016-07-05,Cleats,Men,172
+2016-07-05,Fitness Equipment,Unisex,527
+2016-07-05,Gloves,Men,6
+2016-07-05,Gloves,Unisex,26
+2016-07-05,Gloves,Women,54
+2016-07-05,Golf Balls,Unisex,67
+2016-07-05,Golf Clubs,Unisex,60
+2016-07-05,Jerseys,Kids,9
+2016-07-05,Kayaks,Unisex,117
+2016-07-05,Life Vests,Men,390
+2016-07-05,Outdoor Gear,Unisex,131
+2016-07-05,Polos,Men,441
+2016-07-05,Polos,Women,2
+2016-07-05,Running Shoes,Kids,209
+2016-07-05,Running Shoes,Men,265
+2016-07-05,Running Shoes,Women,12
+2016-07-05,Shorts,Women,7
+2016-07-05,Slides,Men,1
+2016-07-05,Slides,Women,38
+2016-07-05,Socks,Unisex,2
+2016-07-05,Swimwear,Kids,3
+2016-07-05,T-Shirts,Men,28
+2016-07-05,T-Shirts,Women,9
+2016-07-12,Accessories,Unisex,8
+2016-07-12,Bags,Unisex,10
+2016-07-12,Bikes,Women,108
+2016-07-12,Cleats,Kids,11
+2016-07-12,Cleats,Men,174
+2016-07-12,Fitness Equipment,Unisex,565
+2016-07-12,Gloves,Men,4
+2016-07-12,Gloves,Unisex,18
+2016-07-12,Gloves,Women,49
+2016-07-12,Golf Balls,Unisex,32
+2016-07-12,Golf Clubs,Unisex,26
+2016-07-12,Jerseys,Kids,7
+2016-07-12,Kayaks,Unisex,108
+2016-07-12,Life Vests,Men,457
+2016-07-12,Outdoor Gear,Unisex,127
+2016-07-12,Polos,Men,444
+2016-07-12,Polos,Women,6
+2016-07-12,Running Shoes,Kids,228
+2016-07-12,Running Shoes,Men,256
+2016-07-12,Running Shoes,Women,14
+2016-07-12,Shorts,Women,4
+2016-07-12,Slides,Kids,3
+2016-07-12,Slides,Men,25
+2016-07-12,Slides,Women,8
+2016-07-12,Socks,Unisex,9
+2016-07-12,Swimwear,Kids,6
+2016-07-12,T-Shirts,Men,39
+2016-07-12,T-Shirts,Women,1
+2016-07-19,Accessories,Unisex,11
+2016-07-19,Bags,Unisex,37
+2016-07-19,Bikes,Women,111
+2016-07-19,Cleats,Kids,21
+2016-07-19,Cleats,Men,151
+2016-07-19,Fitness Equipment,Unisex,481
+2016-07-19,Gloves,Men,12
+2016-07-19,Gloves,Unisex,12
+2016-07-19,Gloves,Women,25
+2016-07-19,Golf Balls,Unisex,40
+2016-07-19,Golf Clubs,Unisex,39
+2016-07-19,Jerseys,Kids,10
+2016-07-19,Kayaks,Unisex,120
+2016-07-19,Life Vests,Men,384
+2016-07-19,Outdoor Gear,Unisex,122
+2016-07-19,Polos,Men,441
+2016-07-19,Polos,Women,18
+2016-07-19,Running Shoes,Kids,164
+2016-07-19,Running Shoes,Men,210
+2016-07-19,Running Shoes,Women,10
+2016-07-19,Shorts,Women,4
+2016-07-19,Slides,Kids,4
+2016-07-19,Slides,Men,9
+2016-07-19,Slides,Women,10
+2016-07-19,Socks,Unisex,3
+2016-07-19,Swimwear,Kids,8
+2016-07-19,T-Shirts,Men,30
+2016-07-19,T-Shirts,Women,19
+2016-07-26,Accessories,Unisex,4
+2016-07-26,Bags,Unisex,20
+2016-07-26,Bikes,Women,100
+2016-07-26,Cleats,Kids,2
+2016-07-26,Cleats,Men,181
+2016-07-26,Fitness Equipment,Unisex,457
+2016-07-26,Gloves,Men,1
+2016-07-26,Gloves,Unisex,1
+2016-07-26,Gloves,Women,35
+2016-07-26,Golf Balls,Unisex,40
+2016-07-26,Golf Clubs,Unisex,31
+2016-07-26,Jerseys,Kids,13
+2016-07-26,Kayaks,Unisex,100
+2016-07-26,Life Vests,Men,405
+2016-07-26,Outdoor Gear,Unisex,115
+2016-07-26,Polos,Men,510
+2016-07-26,Polos,Women,4
+2016-07-26,Running Shoes,Kids,186
+2016-07-26,Running Shoes,Men,250
+2016-07-26,Shorts,Women,18
+2016-07-26,Slides,Kids,4
+2016-07-26,Slides,Men,14
+2016-07-26,Slides,Women,13
+2016-07-26,Socks,Unisex,16
+2016-07-26,Swimwear,Kids,5
+2016-07-26,T-Shirts,Men,29
+2016-07-26,T-Shirts,Women,4
+2016-08-02,Accessories,Unisex,9
+2016-08-02,Bags,Unisex,14
+2016-08-02,Bikes,Women,110
+2016-08-02,Cleats,Kids,5
+2016-08-02,Cleats,Men,162
+2016-08-02,Fitness Equipment,Unisex,497
+2016-08-02,Gloves,Men,5
+2016-08-02,Gloves,Unisex,11
+2016-08-02,Gloves,Women,16
+2016-08-02,Golf Balls,Unisex,55
+2016-08-02,Golf Clubs,Unisex,40
+2016-08-02,Jerseys,Kids,2
+2016-08-02,Kayaks,Unisex,96
+2016-08-02,Life Vests,Men,383
+2016-08-02,Outdoor Gear,Unisex,131
+2016-08-02,Polos,Men,452
+2016-08-02,Polos,Women,5
+2016-08-02,Running Shoes,Kids,259
+2016-08-02,Running Shoes,Men,265
+2016-08-02,Running Shoes,Women,2
+2016-08-02,Shorts,Women,11
+2016-08-02,Slides,Kids,1
+2016-08-02,Slides,Men,9
+2016-08-02,Slides,Women,27
+2016-08-02,Socks,Unisex,15
+2016-08-02,Swimwear,Kids,3
+2016-08-02,T-Shirts,Men,47
+2016-08-02,T-Shirts,Women,2
+2016-08-09,Accessories,Unisex,6
+2016-08-09,Bags,Unisex,37
+2016-08-09,Bikes,Women,94
+2016-08-09,Cleats,Men,154
+2016-08-09,Fitness Equipment,Unisex,537
+2016-08-09,Gloves,Unisex,20
+2016-08-09,Gloves,Women,20
+2016-08-09,Golf Balls,Unisex,39
+2016-08-09,Golf Clubs,Unisex,41
+2016-08-09,Jerseys,Kids,11
+2016-08-09,Kayaks,Unisex,97
+2016-08-09,Life Vests,Men,327
+2016-08-09,Outdoor Gear,Unisex,119
+2016-08-09,Polos,Men,515
+2016-08-09,Polos,Women,5
+2016-08-09,Running Shoes,Kids,243
+2016-08-09,Running Shoes,Men,234
+2016-08-09,Running Shoes,Women,6
+2016-08-09,Shorts,Women,8
+2016-08-09,Slides,Kids,4
+2016-08-09,Slides,Men,15
+2016-08-09,Slides,Women,12
+2016-08-09,Socks,Unisex,4
+2016-08-09,Swimwear,Kids,1
+2016-08-09,T-Shirts,Men,28
+2016-08-09,T-Shirts,Women,18
+2016-08-16,Accessories,Unisex,5
+2016-08-16,Bags,Unisex,23
+2016-08-16,Bikes,Women,116
+2016-08-16,Cleats,Men,181
+2016-08-16,Fitness Equipment,Unisex,537
+2016-08-16,Gloves,Unisex,15
+2016-08-16,Gloves,Women,49
+2016-08-16,Golf Balls,Unisex,74
+2016-08-16,Golf Clubs,Unisex,20
+2016-08-16,Jerseys,Kids,6
+2016-08-16,Kayaks,Unisex,112
+2016-08-16,Life Vests,Men,416
+2016-08-16,Outdoor Gear,Unisex,139
+2016-08-16,Polos,Men,458
+2016-08-16,Polos,Women,9
+2016-08-16,Running Shoes,Kids,258
+2016-08-16,Running Shoes,Men,239
+2016-08-16,Running Shoes,Women,8
+2016-08-16,Shorts,Women,7
+2016-08-16,Slides,Men,5
+2016-08-16,Slides,Women,26
+2016-08-16,Socks,Unisex,4
+2016-08-16,Swimwear,Kids,14
+2016-08-16,T-Shirts,Men,17
+2016-08-16,T-Shirts,Women,11
+2016-08-23,Accessories,Unisex,10
+2016-08-23,Bags,Unisex,19
+2016-08-23,Bikes,Women,101
+2016-08-23,Cleats,Kids,9
+2016-08-23,Cleats,Men,175
+2016-08-23,Fitness Equipment,Unisex,511
+2016-08-23,Gloves,Men,8
+2016-08-23,Gloves,Unisex,28
+2016-08-23,Gloves,Women,27
+2016-08-23,Golf Balls,Unisex,82
+2016-08-23,Golf Clubs,Unisex,28
+2016-08-23,Jerseys,Kids,7
+2016-08-23,Kayaks,Unisex,115
+2016-08-23,Life Vests,Men,311
+2016-08-23,Outdoor Gear,Unisex,125
+2016-08-23,Polos,Men,439
+2016-08-23,Polos,Women,7
+2016-08-23,Running Shoes,Kids,194
+2016-08-23,Running Shoes,Men,238
+2016-08-23,Running Shoes,Women,18
+2016-08-23,Shorts,Women,1
+2016-08-23,Slides,Kids,6
+2016-08-23,Slides,Men,8
+2016-08-23,Slides,Women,12
+2016-08-23,Socks,Unisex,4
+2016-08-23,Swimwear,Kids,6
+2016-08-23,T-Shirts,Men,29
+2016-08-23,T-Shirts,Women,4
+2016-08-30,Accessories,Unisex,6
+2016-08-30,Bags,Unisex,16
+2016-08-30,Bikes,Women,93
+2016-08-30,Cleats,Kids,7
+2016-08-30,Cleats,Men,189
+2016-08-30,Fitness Equipment,Unisex,547
+2016-08-30,Gloves,Men,10
+2016-08-30,Gloves,Unisex,21
+2016-08-30,Gloves,Women,39
+2016-08-30,Golf Balls,Unisex,45
+2016-08-30,Golf Clubs,Unisex,60
+2016-08-30,Jerseys,Kids,3
+2016-08-30,Kayaks,Unisex,109
+2016-08-30,Life Vests,Men,384
+2016-08-30,Outdoor Gear,Unisex,132
+2016-08-30,Polos,Men,383
+2016-08-30,Polos,Women,2
+2016-08-30,Running Shoes,Kids,209
+2016-08-30,Running Shoes,Men,277
+2016-08-30,Running Shoes,Women,23
+2016-08-30,Shorts,Women,3
+2016-08-30,Slides,Kids,3
+2016-08-30,Slides,Men,24
+2016-08-30,Slides,Women,17
+2016-08-30,Socks,Unisex,5
+2016-08-30,Swimwear,Kids,12
+2016-08-30,T-Shirts,Men,21
+2016-08-30,T-Shirts,Women,10
+2016-09-06,Accessories,Unisex,11
+2016-09-06,Bags,Unisex,20
+2016-09-06,Bikes,Women,103
+2016-09-06,Cleats,Kids,3
+2016-09-06,Cleats,Men,164
+2016-09-06,Fitness Equipment,Unisex,521
+2016-09-06,Gloves,Men,4
+2016-09-06,Gloves,Unisex,16
+2016-09-06,Gloves,Women,48
+2016-09-06,Golf Balls,Unisex,42
+2016-09-06,Golf Clubs,Unisex,41
+2016-09-06,Jerseys,Kids,11
+2016-09-06,Kayaks,Unisex,108
+2016-09-06,Life Vests,Men,363
+2016-09-06,Outdoor Gear,Unisex,115
+2016-09-06,Polos,Men,484
+2016-09-06,Polos,Women,4
+2016-09-06,Running Shoes,Kids,209
+2016-09-06,Running Shoes,Men,237
+2016-09-06,Running Shoes,Women,2
+2016-09-06,Shorts,Women,7
+2016-09-06,Slides,Kids,5
+2016-09-06,Slides,Men,9
+2016-09-06,Slides,Women,20
+2016-09-06,Socks,Unisex,5
+2016-09-06,Swimwear,Kids,3
+2016-09-06,T-Shirts,Men,31
+2016-09-06,T-Shirts,Women,16
+2016-09-13,Accessories,Unisex,1
+2016-09-13,Bags,Unisex,16
+2016-09-13,Bikes,Women,91
+2016-09-13,Cleats,Kids,1
+2016-09-13,Cleats,Men,187
+2016-09-13,Fitness Equipment,Unisex,511
+2016-09-13,Gloves,Unisex,16
+2016-09-13,Gloves,Women,54
+2016-09-13,Golf Balls,Unisex,61
+2016-09-13,Golf Clubs,Unisex,36
+2016-09-13,Jerseys,Kids,11
+2016-09-13,Kayaks,Unisex,115
+2016-09-13,Life Vests,Men,473
+2016-09-13,Outdoor Gear,Unisex,158
+2016-09-13,Polos,Men,430
+2016-09-13,Polos,Women,18
+2016-09-13,Running Shoes,Kids,264
+2016-09-13,Running Shoes,Men,251
+2016-09-13,Running Shoes,Women,10
+2016-09-13,Shorts,Women,10
+2016-09-13,Slides,Kids,14
+2016-09-13,Slides,Men,18
+2016-09-13,Slides,Women,19
+2016-09-13,Socks,Unisex,8
+2016-09-13,Swimwear,Kids,4
+2016-09-13,T-Shirts,Men,24
+2016-09-13,T-Shirts,Women,4
+2016-09-20,Accessories,Unisex,1
+2016-09-20,Bags,Unisex,7
+2016-09-20,Bikes,Women,115
+2016-09-20,Cleats,Kids,6
+2016-09-20,Cleats,Men,155
+2016-09-20,Fitness Equipment,Unisex,524
+2016-09-20,Gloves,Men,9
+2016-09-20,Gloves,Unisex,17
+2016-09-20,Gloves,Women,61
+2016-09-20,Golf Balls,Unisex,49
+2016-09-20,Golf Clubs,Unisex,41
+2016-09-20,Jerseys,Kids,5
+2016-09-20,Kayaks,Unisex,105
+2016-09-20,Life Vests,Men,363
+2016-09-20,Outdoor Gear,Unisex,115
+2016-09-20,Polos,Men,452
+2016-09-20,Polos,Women,5
+2016-09-20,Running Shoes,Kids,228
+2016-09-20,Running Shoes,Men,274
+2016-09-20,Running Shoes,Women,1
+2016-09-20,Slides,Kids,5
+2016-09-20,Slides,Men,16
+2016-09-20,Slides,Women,17
+2016-09-20,Swimwear,Kids,4
+2016-09-20,T-Shirts,Men,18
+2016-09-20,T-Shirts,Women,8
+2016-09-27,Accessories,Unisex,8
+2016-09-27,Bags,Unisex,30
+2016-09-27,Bikes,Women,99
+2016-09-27,Cleats,Kids,9
+2016-09-27,Cleats,Men,150
+2016-09-27,Fitness Equipment,Unisex,496
+2016-09-27,Gloves,Men,8
+2016-09-27,Gloves,Unisex,13
+2016-09-27,Gloves,Women,41
+2016-09-27,Golf Balls,Unisex,62
+2016-09-27,Golf Clubs,Unisex,50
+2016-09-27,Jerseys,Kids,13
+2016-09-27,Kayaks,Unisex,120
+2016-09-27,Life Vests,Men,452
+2016-09-27,Outdoor Gear,Unisex,127
+2016-09-27,Polos,Men,492
+2016-09-27,Polos,Women,6
+2016-09-27,Running Shoes,Kids,158
+2016-09-27,Running Shoes,Men,266
+2016-09-27,Running Shoes,Women,11
+2016-09-27,Shorts,Women,11
+2016-09-27,Slides,Kids,4
+2016-09-27,Slides,Men,21
+2016-09-27,Slides,Women,16
+2016-09-27,Swimwear,Kids,12
+2016-09-27,T-Shirts,Men,7
+2016-09-27,T-Shirts,Women,4
+2016-10-04,Accessories,Unisex,7
+2016-10-04,Bags,Unisex,24
+2016-10-04,Bikes,Women,118
+2016-10-04,Cleats,Kids,8
+2016-10-04,Cleats,Men,177
+2016-10-04,Fitness Equipment,Unisex,467
+2016-10-04,Gloves,Men,12
+2016-10-04,Gloves,Unisex,19
+2016-10-04,Gloves,Women,25
+2016-10-04,Golf Balls,Unisex,44
+2016-10-04,Golf Clubs,Unisex,86
+2016-10-04,Jerseys,Kids,13
+2016-10-04,Kayaks,Unisex,88
+2016-10-04,Life Vests,Men,431
+2016-10-04,Outdoor Gear,Unisex,125
+2016-10-04,Polos,Men,384
+2016-10-04,Polos,Women,12
+2016-10-04,Running Shoes,Kids,206
+2016-10-04,Running Shoes,Men,182
+2016-10-04,Running Shoes,Women,7
+2016-10-04,Shorts,Women,1
+2016-10-04,Slides,Kids,5
+2016-10-04,Slides,Men,16
+2016-10-04,Slides,Women,9
+2016-10-04,Socks,Unisex,10
+2016-10-04,Swimwear,Kids,8
+2016-10-04,T-Shirts,Men,28
+2016-10-04,T-Shirts,Women,9
+2016-10-11,Accessories,Unisex,5
+2016-10-11,Bags,Unisex,17
+2016-10-11,Bikes,Women,90
+2016-10-11,Cleats,Kids,7
+2016-10-11,Cleats,Men,172
+2016-10-11,Fitness Equipment,Unisex,502
+2016-10-11,Gloves,Men,9
+2016-10-11,Gloves,Unisex,17
+2016-10-11,Gloves,Women,33
+2016-10-11,Golf Balls,Unisex,91
+2016-10-11,Golf Clubs,Unisex,47
+2016-10-11,Jerseys,Kids,2
+2016-10-11,Kayaks,Unisex,112
+2016-10-11,Life Vests,Men,500
+2016-10-11,Outdoor Gear,Unisex,121
+2016-10-11,Polos,Men,500
+2016-10-11,Polos,Women,6
+2016-10-11,Running Shoes,Kids,193
+2016-10-11,Running Shoes,Men,225
+2016-10-11,Running Shoes,Women,6
+2016-10-11,Shorts,Women,18
+2016-10-11,Slides,Kids,5
+2016-10-11,Slides,Men,11
+2016-10-11,Slides,Women,19
+2016-10-11,Socks,Unisex,10
+2016-10-11,Swimwear,Kids,5
+2016-10-11,T-Shirts,Men,26
+2016-10-11,T-Shirts,Women,3
+2016-10-18,Accessories,Unisex,4
+2016-10-18,Bags,Unisex,25
+2016-10-18,Bikes,Women,102
+2016-10-18,Cleats,Kids,5
+2016-10-18,Cleats,Men,173
+2016-10-18,Fitness Equipment,Unisex,545
+2016-10-18,Gloves,Men,10
+2016-10-18,Gloves,Unisex,16
+2016-10-18,Gloves,Women,21
+2016-10-18,Golf Balls,Unisex,62
+2016-10-18,Golf Clubs,Unisex,39
+2016-10-18,Jerseys,Kids,4
+2016-10-18,Kayaks,Unisex,109
+2016-10-18,Life Vests,Men,457
+2016-10-18,Outdoor Gear,Unisex,133
+2016-10-18,Polos,Men,480
+2016-10-18,Polos,Women,6
+2016-10-18,Running Shoes,Kids,274
+2016-10-18,Running Shoes,Men,212
+2016-10-18,Shorts,Women,13
+2016-10-18,Slides,Kids,9
+2016-10-18,Slides,Men,5
+2016-10-18,Slides,Women,25
+2016-10-18,Socks,Unisex,7
+2016-10-18,Swimwear,Kids,4
+2016-10-18,T-Shirts,Men,33
+2016-10-18,T-Shirts,Women,1
+2016-10-25,Accessories,Unisex,15
+2016-10-25,Bags,Unisex,9
+2016-10-25,Bikes,Women,99
+2016-10-25,Cleats,Kids,2
+2016-10-25,Cleats,Men,170
+2016-10-25,Fitness Equipment,Unisex,546
+2016-10-25,Gloves,Men,2
+2016-10-25,Gloves,Unisex,28
+2016-10-25,Gloves,Women,22
+2016-10-25,Golf Balls,Unisex,45
+2016-10-25,Golf Clubs,Unisex,54
+2016-10-25,Jerseys,Kids,19
+2016-10-25,Kayaks,Unisex,127
+2016-10-25,Life Vests,Men,412
+2016-10-25,Outdoor Gear,Unisex,117
+2016-10-25,Polos,Men,403
+2016-10-25,Polos,Women,2
+2016-10-25,Running Shoes,Kids,224
+2016-10-25,Running Shoes,Men,238
+2016-10-25,Running Shoes,Women,15
+2016-10-25,Shorts,Women,22
+2016-10-25,Slides,Kids,1
+2016-10-25,Slides,Men,17
+2016-10-25,Slides,Women,21
+2016-10-25,Socks,Unisex,6
+2016-10-25,Swimwear,Kids,3
+2016-10-25,T-Shirts,Men,32
+2016-10-25,T-Shirts,Women,3
+2016-11-01,Accessories,Unisex,13
+2016-11-01,Bags,Unisex,23
+2016-11-01,Bikes,Women,124
+2016-11-01,Cleats,Kids,4
+2016-11-01,Cleats,Men,156
+2016-11-01,Fitness Equipment,Unisex,546
+2016-11-01,Gloves,Men,8
+2016-11-01,Gloves,Unisex,18
+2016-11-01,Gloves,Women,32
+2016-11-01,Golf Balls,Unisex,60
+2016-11-01,Golf Clubs,Unisex,46
+2016-11-01,Kayaks,Unisex,113
+2016-11-01,Life Vests,Men,403
+2016-11-01,Outdoor Gear,Unisex,151
+2016-11-01,Polos,Men,442
+2016-11-01,Polos,Women,2
+2016-11-01,Running Shoes,Kids,195
+2016-11-01,Running Shoes,Men,258
+2016-11-01,Running Shoes,Women,8
+2016-11-01,Shorts,Women,5
+2016-11-01,Slides,Men,22
+2016-11-01,Slides,Women,13
+2016-11-01,Socks,Unisex,6
+2016-11-01,Swimwear,Kids,3
+2016-11-01,T-Shirts,Men,38
+2016-11-01,T-Shirts,Women,7
+2016-11-08,Bags,Unisex,28
+2016-11-08,Bikes,Women,103
+2016-11-08,Cleats,Kids,16
+2016-11-08,Cleats,Men,177
+2016-11-08,Fitness Equipment,Unisex,454
+2016-11-08,Gloves,Men,4
+2016-11-08,Gloves,Unisex,8
+2016-11-08,Gloves,Women,44
+2016-11-08,Golf Balls,Unisex,36
+2016-11-08,Golf Clubs,Unisex,34
+2016-11-08,Jerseys,Kids,4
+2016-11-08,Kayaks,Unisex,101
+2016-11-08,Life Vests,Men,384
+2016-11-08,Outdoor Gear,Unisex,114
+2016-11-08,Polos,Men,393
+2016-11-08,Running Shoes,Kids,225
+2016-11-08,Running Shoes,Men,282
+2016-11-08,Running Shoes,Women,19
+2016-11-08,Shorts,Women,2
+2016-11-08,Slides,Kids,21
+2016-11-08,Slides,Men,14
+2016-11-08,Slides,Women,16
+2016-11-08,Socks,Unisex,15
+2016-11-08,Swimwear,Kids,3
+2016-11-08,T-Shirts,Men,16
+2016-11-08,T-Shirts,Women,12
+2016-11-15,Accessories,Unisex,13
+2016-11-15,Bags,Unisex,37
+2016-11-15,Bikes,Women,93
+2016-11-15,Cleats,Kids,13
+2016-11-15,Cleats,Men,149
+2016-11-15,Fitness Equipment,Unisex,562
+2016-11-15,Gloves,Men,12
+2016-11-15,Gloves,Unisex,21
+2016-11-15,Gloves,Women,23
+2016-11-15,Golf Balls,Unisex,80
+2016-11-15,Golf Clubs,Unisex,60
+2016-11-15,Jerseys,Kids,6
+2016-11-15,Kayaks,Unisex,114
+2016-11-15,Life Vests,Men,447
+2016-11-15,Outdoor Gear,Unisex,156
+2016-11-15,Polos,Men,377
+2016-11-15,Polos,Women,1
+2016-11-15,Running Shoes,Kids,192
+2016-11-15,Running Shoes,Men,261
+2016-11-15,Running Shoes,Women,21
+2016-11-15,Shorts,Women,10
+2016-11-15,Slides,Kids,7
+2016-11-15,Slides,Men,12
+2016-11-15,Slides,Women,6
+2016-11-15,Socks,Unisex,6
+2016-11-15,Swimwear,Kids,8
+2016-11-15,T-Shirts,Men,39
+2016-11-15,T-Shirts,Women,4
+2016-11-22,Accessories,Unisex,14
+2016-11-22,Bags,Unisex,10
+2016-11-22,Bikes,Women,110
+2016-11-22,Cleats,Kids,8
+2016-11-22,Cleats,Men,151
+2016-11-22,Fitness Equipment,Unisex,523
+2016-11-22,Gloves,Men,16
+2016-11-22,Gloves,Women,25
+2016-11-22,Golf Balls,Unisex,43
+2016-11-22,Golf Clubs,Unisex,69
+2016-11-22,Jerseys,Kids,12
+2016-11-22,Kayaks,Unisex,113
+2016-11-22,Life Vests,Men,409
+2016-11-22,Outdoor Gear,Unisex,147
+2016-11-22,Polos,Men,476
+2016-11-22,Polos,Women,5
+2016-11-22,Running Shoes,Kids,211
+2016-11-22,Running Shoes,Men,298
+2016-11-22,Running Shoes,Women,10
+2016-11-22,Shorts,Women,7
+2016-11-22,Slides,Kids,5
+2016-11-22,Slides,Men,9
+2016-11-22,Slides,Women,9
+2016-11-22,Swimwear,Kids,5
+2016-11-22,T-Shirts,Men,24
+2016-11-22,T-Shirts,Women,9
+2016-11-29,Accessories,Unisex,7
+2016-11-29,Bags,Unisex,14
+2016-11-29,Bikes,Women,94
+2016-11-29,Cleats,Kids,4
+2016-11-29,Cleats,Men,180
+2016-11-29,Fitness Equipment,Unisex,573
+2016-11-29,Gloves,Men,6
+2016-11-29,Gloves,Unisex,11
+2016-11-29,Gloves,Women,36
+2016-11-29,Golf Balls,Unisex,30
+2016-11-29,Golf Clubs,Unisex,39
+2016-11-29,Jerseys,Kids,14
+2016-11-29,Kayaks,Unisex,104
+2016-11-29,Life Vests,Men,391
+2016-11-29,Outdoor Gear,Unisex,119
+2016-11-29,Polos,Men,393
+2016-11-29,Polos,Women,16
+2016-11-29,Running Shoes,Kids,261
+2016-11-29,Running Shoes,Men,282
+2016-11-29,Running Shoes,Women,3
+2016-11-29,Slides,Kids,5
+2016-11-29,Slides,Men,19
+2016-11-29,Slides,Women,18
+2016-11-29,Socks,Unisex,9
+2016-11-29,Swimwear,Kids,9
+2016-11-29,T-Shirts,Men,58
+2016-12-06,Accessories,Unisex,18
+2016-12-06,Bags,Unisex,36
+2016-12-06,Bikes,Women,109
+2016-12-06,Cleats,Kids,4
+2016-12-06,Cleats,Men,152
+2016-12-06,Fitness Equipment,Unisex,554
+2016-12-06,Gloves,Unisex,26
+2016-12-06,Gloves,Women,43
+2016-12-06,Golf Balls,Unisex,43
+2016-12-06,Golf Clubs,Unisex,48
+2016-12-06,Jerseys,Kids,12
+2016-12-06,Kayaks,Unisex,87
+2016-12-06,Life Vests,Men,435
+2016-12-06,Outdoor Gear,Unisex,114
+2016-12-06,Polos,Men,462
+2016-12-06,Polos,Women,2
+2016-12-06,Running Shoes,Kids,215
+2016-12-06,Running Shoes,Men,274
+2016-12-06,Running Shoes,Women,4
+2016-12-06,Shorts,Women,8
+2016-12-06,Slides,Kids,3
+2016-12-06,Slides,Men,19
+2016-12-06,Slides,Women,13
+2016-12-06,Swimwear,Kids,1
+2016-12-06,T-Shirts,Men,35
+2016-12-06,T-Shirts,Women,6
+2016-12-13,Accessories,Unisex,5
+2016-12-13,Bags,Unisex,31
+2016-12-13,Bikes,Women,81
+2016-12-13,Cleats,Kids,12
+2016-12-13,Cleats,Men,153
+2016-12-13,Fitness Equipment,Unisex,579
+2016-12-13,Gloves,Men,2
+2016-12-13,Gloves,Unisex,2
+2016-12-13,Gloves,Women,33
+2016-12-13,Golf Balls,Unisex,55
+2016-12-13,Golf Clubs,Unisex,70
+2016-12-13,Jerseys,Kids,4
+2016-12-13,Kayaks,Unisex,97
+2016-12-13,Life Vests,Men,369
+2016-12-13,Outdoor Gear,Unisex,114
+2016-12-13,Polos,Men,423
+2016-12-13,Polos,Women,2
+2016-12-13,Running Shoes,Kids,179
+2016-12-13,Running Shoes,Men,285
+2016-12-13,Running Shoes,Women,14
+2016-12-13,Shorts,Women,10
+2016-12-13,Slides,Kids,7
+2016-12-13,Slides,Men,19
+2016-12-13,Slides,Women,19
+2016-12-13,Socks,Unisex,11
+2016-12-13,Swimwear,Kids,17
+2016-12-13,T-Shirts,Men,20
+2016-12-13,T-Shirts,Women,6
+2016-12-20,Accessories,Unisex,2
+2016-12-20,Bags,Unisex,23
+2016-12-20,Bikes,Women,94
+2016-12-20,Cleats,Men,151
+2016-12-20,Fitness Equipment,Unisex,445
+2016-12-20,Gloves,Men,17
+2016-12-20,Gloves,Unisex,11
+2016-12-20,Gloves,Women,48
+2016-12-20,Golf Balls,Unisex,35
+2016-12-20,Golf Clubs,Unisex,44
+2016-12-20,Jerseys,Kids,7
+2016-12-20,Kayaks,Unisex,101
+2016-12-20,Life Vests,Men,449
+2016-12-20,Outdoor Gear,Unisex,127
+2016-12-20,Polos,Men,399
+2016-12-20,Polos,Women,20
+2016-12-20,Running Shoes,Kids,264
+2016-12-20,Running Shoes,Men,249
+2016-12-20,Running Shoes,Women,6
+2016-12-20,Shorts,Women,8
+2016-12-20,Slides,Kids,13
+2016-12-20,Slides,Men,19
+2016-12-20,Slides,Women,8
+2016-12-20,Socks,Unisex,20
+2016-12-20,Swimwear,Kids,7
+2016-12-20,T-Shirts,Men,45
+2016-12-20,T-Shirts,Women,4
+2016-12-27,Accessories,Unisex,3
+2016-12-27,Bags,Unisex,16
+2016-12-27,Bikes,Women,103
+2016-12-27,Cleats,Kids,9
+2016-12-27,Cleats,Men,176
+2016-12-27,Fitness Equipment,Unisex,534
+2016-12-27,Gloves,Men,8
+2016-12-27,Gloves,Unisex,13
+2016-12-27,Gloves,Women,36
+2016-12-27,Golf Balls,Unisex,77
+2016-12-27,Golf Clubs,Unisex,54
+2016-12-27,Jerseys,Kids,11
+2016-12-27,Kayaks,Unisex,113
+2016-12-27,Life Vests,Men,405
+2016-12-27,Outdoor Gear,Unisex,144
+2016-12-27,Polos,Men,492
+2016-12-27,Polos,Women,13
+2016-12-27,Running Shoes,Kids,142
+2016-12-27,Running Shoes,Men,248
+2016-12-27,Running Shoes,Women,4
+2016-12-27,Shorts,Women,7
+2016-12-27,Slides,Kids,12
+2016-12-27,Slides,Men,4
+2016-12-27,Slides,Women,3
+2016-12-27,Socks,Unisex,5
+2016-12-27,Swimwear,Kids,7
+2016-12-27,T-Shirts,Men,19
+2016-12-27,T-Shirts,Women,1
+2017-01-03,Accessories,Unisex,9
+2017-01-03,Bags,Unisex,27
+2017-01-03,Bikes,Women,97
+2017-01-03,Cleats,Kids,6
+2017-01-03,Cleats,Men,182
+2017-01-03,Fitness Equipment,Unisex,461
+2017-01-03,Gloves,Men,10
+2017-01-03,Gloves,Unisex,6
+2017-01-03,Gloves,Women,15
+2017-01-03,Golf Balls,Unisex,32
+2017-01-03,Golf Clubs,Unisex,43
+2017-01-03,Jerseys,Kids,2
+2017-01-03,Kayaks,Unisex,113
+2017-01-03,Life Vests,Men,386
+2017-01-03,Outdoor Gear,Unisex,116
+2017-01-03,Polos,Men,412
+2017-01-03,Polos,Women,10
+2017-01-03,Running Shoes,Kids,217
+2017-01-03,Running Shoes,Men,287
+2017-01-03,Running Shoes,Women,3
+2017-01-03,Shorts,Women,14
+2017-01-03,Slides,Kids,5
+2017-01-03,Slides,Men,22
+2017-01-03,Slides,Women,10
+2017-01-03,Socks,Unisex,5
+2017-01-03,Swimwear,Kids,3
+2017-01-03,T-Shirts,Men,17
+2017-01-03,T-Shirts,Women,7
+2017-01-10,Accessories,Unisex,5
+2017-01-10,Bags,Unisex,19
+2017-01-10,Bikes,Women,110
+2017-01-10,Cleats,Kids,5
+2017-01-10,Cleats,Men,141
+2017-01-10,Fitness Equipment,Unisex,545
+2017-01-10,Gloves,Men,18
+2017-01-10,Gloves,Unisex,18
+2017-01-10,Gloves,Women,43
+2017-01-10,Golf Balls,Unisex,78
+2017-01-10,Golf Clubs,Unisex,33
+2017-01-10,Jerseys,Kids,7
+2017-01-10,Kayaks,Unisex,95
+2017-01-10,Life Vests,Men,393
+2017-01-10,Outdoor Gear,Unisex,132
+2017-01-10,Polos,Men,461
+2017-01-10,Polos,Women,4
+2017-01-10,Running Shoes,Kids,231
+2017-01-10,Running Shoes,Men,258
+2017-01-10,Running Shoes,Women,27
+2017-01-10,Shorts,Women,8
+2017-01-10,Slides,Kids,5
+2017-01-10,Slides,Men,5
+2017-01-10,Slides,Women,7
+2017-01-10,Socks,Unisex,2
+2017-01-10,Swimwear,Kids,1
+2017-01-10,T-Shirts,Men,18
+2017-01-10,T-Shirts,Women,5
+2017-01-17,Accessories,Unisex,10
+2017-01-17,Bags,Unisex,11
+2017-01-17,Bikes,Women,106
+2017-01-17,Cleats,Kids,3
+2017-01-17,Cleats,Men,139
+2017-01-17,Fitness Equipment,Unisex,575
+2017-01-17,Gloves,Men,2
+2017-01-17,Gloves,Unisex,6
+2017-01-17,Gloves,Women,62
+2017-01-17,Golf Balls,Unisex,26
+2017-01-17,Golf Clubs,Unisex,39
+2017-01-17,Jerseys,Kids,2
+2017-01-17,Kayaks,Unisex,94
+2017-01-17,Life Vests,Men,408
+2017-01-17,Outdoor Gear,Unisex,115
+2017-01-17,Polos,Men,483
+2017-01-17,Polos,Women,5
+2017-01-17,Running Shoes,Kids,221
+2017-01-17,Running Shoes,Men,284
+2017-01-17,Running Shoes,Women,6
+2017-01-17,Shorts,Women,8
+2017-01-17,Slides,Kids,3
+2017-01-17,Slides,Men,32
+2017-01-17,Slides,Women,3
+2017-01-17,Socks,Unisex,4
+2017-01-17,Swimwear,Kids,4
+2017-01-17,T-Shirts,Men,55
+2017-01-24,Accessories,Unisex,2
+2017-01-24,Bags,Unisex,12
+2017-01-24,Bikes,Women,93
+2017-01-24,Cleats,Kids,15
+2017-01-24,Cleats,Men,176
+2017-01-24,Fitness Equipment,Unisex,463
+2017-01-24,Gloves,Men,10
+2017-01-24,Gloves,Unisex,12
+2017-01-24,Gloves,Women,50
+2017-01-24,Golf Balls,Unisex,55
+2017-01-24,Golf Clubs,Unisex,40
+2017-01-24,Jerseys,Kids,1
+2017-01-24,Kayaks,Unisex,98
+2017-01-24,Life Vests,Men,443
+2017-01-24,Outdoor Gear,Unisex,123
+2017-01-24,Polos,Men,405
+2017-01-24,Running Shoes,Kids,297
+2017-01-24,Running Shoes,Men,263
+2017-01-24,Shorts,Women,5
+2017-01-24,Slides,Kids,6
+2017-01-24,Slides,Men,7
+2017-01-24,Slides,Women,9
+2017-01-24,Socks,Unisex,9
+2017-01-24,Swimwear,Kids,5
+2017-01-24,T-Shirts,Men,17
+2017-01-24,T-Shirts,Women,4
+2017-01-31,Accessories,Unisex,10
+2017-01-31,Bags,Unisex,14
+2017-01-31,Bikes,Women,121
+2017-01-31,Cleats,Kids,8
+2017-01-31,Cleats,Men,153
+2017-01-31,Fitness Equipment,Unisex,536
+2017-01-31,Gloves,Men,12
+2017-01-31,Gloves,Unisex,23
+2017-01-31,Gloves,Women,14
+2017-01-31,Golf Balls,Unisex,56
+2017-01-31,Golf Clubs,Unisex,60
+2017-01-31,Jerseys,Kids,2
+2017-01-31,Kayaks,Unisex,111
+2017-01-31,Life Vests,Men,481
+2017-01-31,Outdoor Gear,Unisex,151
+2017-01-31,Polos,Men,468
+2017-01-31,Polos,Women,19
+2017-01-31,Running Shoes,Kids,200
+2017-01-31,Running Shoes,Men,342
+2017-01-31,Running Shoes,Women,5
+2017-01-31,Slides,Kids,4
+2017-01-31,Slides,Men,26
+2017-01-31,Slides,Women,7
+2017-01-31,Socks,Unisex,5
+2017-01-31,Swimwear,Kids,6
+2017-01-31,T-Shirts,Men,21
+2017-01-31,T-Shirts,Women,11
+2017-02-07,Accessories,Unisex,2
+2017-02-07,Bags,Unisex,8
+2017-02-07,Bikes,Women,107
+2017-02-07,Cleats,Kids,4
+2017-02-07,Cleats,Men,135
+2017-02-07,Fitness Equipment,Unisex,468
+2017-02-07,Gloves,Men,8
+2017-02-07,Gloves,Unisex,13
+2017-02-07,Gloves,Women,43
+2017-02-07,Golf Balls,Unisex,59
+2017-02-07,Golf Clubs,Unisex,50
+2017-02-07,Jerseys,Kids,9
+2017-02-07,Kayaks,Unisex,123
+2017-02-07,Life Vests,Men,434
+2017-02-07,Outdoor Gear,Unisex,129
+2017-02-07,Polos,Men,477
+2017-02-07,Polos,Women,12
+2017-02-07,Running Shoes,Kids,197
+2017-02-07,Running Shoes,Men,263
+2017-02-07,Running Shoes,Women,5
+2017-02-07,Shorts,Women,5
+2017-02-07,Slides,Kids,2
+2017-02-07,Slides,Men,16
+2017-02-07,Slides,Women,14
+2017-02-07,Socks,Unisex,14
+2017-02-07,Swimwear,Kids,10
+2017-02-07,T-Shirts,Men,28
+2017-02-07,T-Shirts,Women,9
+2017-02-14,Accessories,Unisex,10
+2017-02-14,Bags,Unisex,16
+2017-02-14,Bikes,Women,120
+2017-02-14,Cleats,Kids,13
+2017-02-14,Cleats,Men,130
+2017-02-14,Fitness Equipment,Unisex,566
+2017-02-14,Gloves,Men,6
+2017-02-14,Gloves,Unisex,4
+2017-02-14,Gloves,Women,36
+2017-02-14,Golf Balls,Unisex,59
+2017-02-14,Golf Clubs,Unisex,49
+2017-02-14,Jerseys,Kids,9
+2017-02-14,Kayaks,Unisex,103
+2017-02-14,Life Vests,Men,408
+2017-02-14,Outdoor Gear,Unisex,129
+2017-02-14,Polos,Men,442
+2017-02-14,Polos,Women,7
+2017-02-14,Running Shoes,Kids,168
+2017-02-14,Running Shoes,Men,319
+2017-02-14,Running Shoes,Women,11
+2017-02-14,Shorts,Women,1
+2017-02-14,Slides,Kids,6
+2017-02-14,Slides,Men,1
+2017-02-14,Slides,Women,20
+2017-02-14,Socks,Unisex,10
+2017-02-14,Swimwear,Kids,4
+2017-02-14,T-Shirts,Men,44
+2017-02-21,Accessories,Unisex,8
+2017-02-21,Bags,Unisex,23
+2017-02-21,Bikes,Women,112
+2017-02-21,Cleats,Kids,8
+2017-02-21,Cleats,Men,173
+2017-02-21,Fitness Equipment,Unisex,557
+2017-02-21,Gloves,Men,12
+2017-02-21,Gloves,Unisex,9
+2017-02-21,Gloves,Women,39
+2017-02-21,Golf Balls,Unisex,29
+2017-02-21,Golf Clubs,Unisex,26
+2017-02-21,Jerseys,Kids,12
+2017-02-21,Kayaks,Unisex,95
+2017-02-21,Life Vests,Men,452
+2017-02-21,Outdoor Gear,Unisex,102
+2017-02-21,Polos,Men,545
+2017-02-21,Polos,Women,6
+2017-02-21,Running Shoes,Kids,216
+2017-02-21,Running Shoes,Men,303
+2017-02-21,Running Shoes,Women,7
+2017-02-21,Shorts,Women,5
+2017-02-21,Slides,Kids,7
+2017-02-21,Slides,Men,22
+2017-02-21,Slides,Women,13
+2017-02-21,Socks,Unisex,2
+2017-02-21,Swimwear,Kids,16
+2017-02-21,T-Shirts,Men,40
+2017-02-21,T-Shirts,Women,11
+2017-02-28,Accessories,Unisex,11
+2017-02-28,Bags,Unisex,30
+2017-02-28,Bikes,Women,121
+2017-02-28,Cleats,Kids,17
+2017-02-28,Cleats,Men,152
+2017-02-28,Fitness Equipment,Unisex,517
+2017-02-28,Gloves,Men,8
+2017-02-28,Gloves,Unisex,14
+2017-02-28,Gloves,Women,35
+2017-02-28,Golf Balls,Unisex,68
+2017-02-28,Golf Clubs,Unisex,39
+2017-02-28,Jerseys,Kids,1
+2017-02-28,Kayaks,Unisex,118
+2017-02-28,Life Vests,Men,339
+2017-02-28,Outdoor Gear,Unisex,128
+2017-02-28,Polos,Men,512
+2017-02-28,Running Shoes,Kids,232
+2017-02-28,Running Shoes,Men,232
+2017-02-28,Running Shoes,Women,6
+2017-02-28,Shorts,Women,5
+2017-02-28,Slides,Kids,11
+2017-02-28,Slides,Men,15
+2017-02-28,Slides,Women,5
+2017-02-28,Socks,Unisex,11
+2017-02-28,Swimwear,Kids,6
+2017-02-28,T-Shirts,Men,30
+2017-02-28,T-Shirts,Women,9
+2017-03-07,Accessories,Unisex,4
+2017-03-07,Bags,Unisex,22
+2017-03-07,Bikes,Women,106
+2017-03-07,Cleats,Kids,7
+2017-03-07,Cleats,Men,164
+2017-03-07,Fitness Equipment,Unisex,560
+2017-03-07,Gloves,Unisex,12
+2017-03-07,Gloves,Women,33
+2017-03-07,Golf Balls,Unisex,51
+2017-03-07,Golf Clubs,Unisex,59
+2017-03-07,Jerseys,Kids,11
+2017-03-07,Kayaks,Unisex,101
+2017-03-07,Life Vests,Men,380
+2017-03-07,Outdoor Gear,Unisex,127
+2017-03-07,Polos,Men,509
+2017-03-07,Polos,Women,8
+2017-03-07,Running Shoes,Kids,184
+2017-03-07,Running Shoes,Men,229
+2017-03-07,Running Shoes,Women,12
+2017-03-07,Shorts,Women,11
+2017-03-07,Slides,Kids,2
+2017-03-07,Slides,Men,16
+2017-03-07,Slides,Women,14
+2017-03-07,Socks,Unisex,11
+2017-03-07,Swimwear,Kids,6
+2017-03-07,T-Shirts,Men,31
+2017-03-07,T-Shirts,Women,3
+2017-03-14,Accessories,Unisex,8
+2017-03-14,Bags,Unisex,37
+2017-03-14,Bikes,Women,104
+2017-03-14,Cleats,Kids,10
+2017-03-14,Cleats,Men,162
+2017-03-14,Fitness Equipment,Unisex,562
+2017-03-14,Gloves,Men,7
+2017-03-14,Gloves,Unisex,20
+2017-03-14,Gloves,Women,30
+2017-03-14,Golf Balls,Unisex,54
+2017-03-14,Golf Clubs,Unisex,50
+2017-03-14,Jerseys,Kids,10
+2017-03-14,Kayaks,Unisex,115
+2017-03-14,Life Vests,Men,441
+2017-03-14,Outdoor Gear,Unisex,121
+2017-03-14,Polos,Men,409
+2017-03-14,Polos,Women,1
+2017-03-14,Running Shoes,Kids,234
+2017-03-14,Running Shoes,Men,241
+2017-03-14,Shorts,Women,16
+2017-03-14,Slides,Men,14
+2017-03-14,Slides,Women,14
+2017-03-14,Socks,Unisex,8
+2017-03-14,Swimwear,Kids,4
+2017-03-14,T-Shirts,Men,16
+2017-03-21,Bags,Unisex,27
+2017-03-21,Bikes,Women,102
+2017-03-21,Cleats,Kids,12
+2017-03-21,Cleats,Men,201
+2017-03-21,Fitness Equipment,Unisex,396
+2017-03-21,Gloves,Men,13
+2017-03-21,Gloves,Unisex,10
+2017-03-21,Gloves,Women,23
+2017-03-21,Golf Balls,Unisex,52
+2017-03-21,Golf Clubs,Unisex,30
+2017-03-21,Jerseys,Kids,14
+2017-03-21,Kayaks,Unisex,104
+2017-03-21,Life Vests,Men,341
+2017-03-21,Outdoor Gear,Unisex,103
+2017-03-21,Polos,Men,438
+2017-03-21,Polos,Women,6
+2017-03-21,Running Shoes,Kids,230
+2017-03-21,Running Shoes,Men,272
+2017-03-21,Running Shoes,Women,12
+2017-03-21,Shorts,Women,20
+2017-03-21,Slides,Kids,7
+2017-03-21,Slides,Men,4
+2017-03-21,Slides,Women,8
+2017-03-21,Socks,Unisex,2
+2017-03-21,Swimwear,Kids,2
+2017-03-21,T-Shirts,Men,43
+2017-03-28,Accessories,Unisex,16
+2017-03-28,Bags,Unisex,25
+2017-03-28,Bikes,Women,95
+2017-03-28,Cleats,Kids,2
+2017-03-28,Cleats,Men,169
+2017-03-28,Fitness Equipment,Unisex,519
+2017-03-28,Gloves,Unisex,15
+2017-03-28,Gloves,Women,51
+2017-03-28,Golf Balls,Unisex,64
+2017-03-28,Golf Clubs,Unisex,56
+2017-03-28,Kayaks,Unisex,127
+2017-03-28,Life Vests,Men,478
+2017-03-28,Outdoor Gear,Unisex,159
+2017-03-28,Polos,Men,419
+2017-03-28,Polos,Women,12
+2017-03-28,Running Shoes,Kids,218
+2017-03-28,Running Shoes,Men,227
+2017-03-28,Running Shoes,Women,3
+2017-03-28,Shorts,Women,9
+2017-03-28,Slides,Kids,5
+2017-03-28,Slides,Men,16
+2017-03-28,Slides,Women,13
+2017-03-28,Socks,Unisex,7
+2017-03-28,Swimwear,Kids,12
+2017-03-28,T-Shirts,Men,21
+2017-03-28,T-Shirts,Women,4
+2017-04-04,Accessories,Unisex,13
+2017-04-04,Bags,Unisex,26
+2017-04-04,Bikes,Women,111
+2017-04-04,Cleats,Kids,8
+2017-04-04,Cleats,Men,181
+2017-04-04,Fitness Equipment,Unisex,465
+2017-04-04,Gloves,Men,12
+2017-04-04,Gloves,Unisex,16
+2017-04-04,Gloves,Women,23
+2017-04-04,Golf Balls,Unisex,33
+2017-04-04,Golf Clubs,Unisex,60
+2017-04-04,Jerseys,Kids,7
+2017-04-04,Kayaks,Unisex,99
+2017-04-04,Life Vests,Men,386
+2017-04-04,Outdoor Gear,Unisex,133
+2017-04-04,Polos,Men,374
+2017-04-04,Polos,Women,10
+2017-04-04,Running Shoes,Kids,235
+2017-04-04,Running Shoes,Men,205
+2017-04-04,Running Shoes,Women,9
+2017-04-04,Shorts,Women,10
+2017-04-04,Slides,Kids,8
+2017-04-04,Slides,Men,16
+2017-04-04,Slides,Women,17
+2017-04-04,Socks,Unisex,3
+2017-04-04,Swimwear,Kids,11
+2017-04-04,T-Shirts,Men,19
+2017-04-04,T-Shirts,Women,6
+2017-04-11,Accessories,Unisex,6
+2017-04-11,Bags,Unisex,5
+2017-04-11,Bikes,Women,112
+2017-04-11,Cleats,Men,168
+2017-04-11,Fitness Equipment,Unisex,496
+2017-04-11,Gloves,Unisex,4
+2017-04-11,Gloves,Women,20
+2017-04-11,Golf Balls,Unisex,26
+2017-04-11,Golf Clubs,Unisex,47
+2017-04-11,Jerseys,Kids,19
+2017-04-11,Kayaks,Unisex,125
+2017-04-11,Life Vests,Men,438
+2017-04-11,Outdoor Gear,Unisex,137
+2017-04-11,Polos,Men,424
+2017-04-11,Polos,Women,5
+2017-04-11,Running Shoes,Kids,207
+2017-04-11,Running Shoes,Men,298
+2017-04-11,Running Shoes,Women,9
+2017-04-11,Shorts,Women,3
+2017-04-11,Slides,Kids,6
+2017-04-11,Slides,Men,12
+2017-04-11,Slides,Women,12
+2017-04-11,Socks,Unisex,5
+2017-04-11,Swimwear,Kids,7
+2017-04-11,T-Shirts,Men,39
+2017-04-11,T-Shirts,Women,9
+2017-04-18,Accessories,Unisex,4
+2017-04-18,Bags,Unisex,13
+2017-04-18,Bags,Women,13
+2017-04-18,Balls,Unisex,2
+2017-04-18,Basketball Shoes,Men,1
+2017-04-18,Bikes,Unisex,1
+2017-04-18,Bikes,Women,120
+2017-04-18,Cleats,Kids,6
+2017-04-18,Cleats,Men,164
+2017-04-18,Dresses,Women,2
+2017-04-18,Fitness Equipment,Unisex,564
+2017-04-18,Gloves,Men,5
+2017-04-18,Gloves,Unisex,17
+2017-04-18,Gloves,Women,35
+2017-04-18,Golf Balls,Unisex,28
+2017-04-18,Golf Balls,Women,3
+2017-04-18,Golf Clubs,Unisex,34
+2017-04-18,Golf Clubs,Women,2
+2017-04-18,Golf Shoes,Unisex,1
+2017-04-18,Hiking Shoes,Women,3
+2017-04-18,Jerseys,Kids,12
+2017-04-18,Kayaks,Unisex,107
+2017-04-18,Life Vests,Men,400
+2017-04-18,Outdoor Gear,Unisex,128
+2017-04-18,Polos,Men,373
+2017-04-18,Polos,Women,8
+2017-04-18,Running Shoes,Kids,269
+2017-04-18,Running Shoes,Men,254
+2017-04-18,Running Shoes,Women,8
+2017-04-18,Shorts,Women,9
+2017-04-18,Slides,Kids,10
+2017-04-18,Slides,Men,7
+2017-04-18,Slides,Women,12
+2017-04-18,Socks,Unisex,2
+2017-04-18,Swimwear,Kids,4
+2017-04-18,T-Shirts,Men,22
+2017-04-18,T-Shirts,Women,2
+2017-04-18,Training Shoes,Men,1
+2017-04-18,Wearables,Unisex,5
+2017-04-25,Bags,Unisex,9
+2017-04-25,Bags,Women,11
+2017-04-25,Balls,Unisex,5
+2017-04-25,Basketball Shoes,Kids,10
+2017-04-25,Basketball Shoes,Men,3
+2017-04-25,Bikes,Unisex,4
+2017-04-25,Bikes,Women,99
+2017-04-25,Cleats,Men,146
+2017-04-25,Dresses,Women,6
+2017-04-25,Fitness Equipment,Unisex,531
+2017-04-25,Golf Balls,Women,5
+2017-04-25,Golf Clubs,Unisex,18
+2017-04-25,Golf Clubs,Women,2
+2017-04-25,Golf Shoes,Unisex,3
+2017-04-25,Hiking Shoes,Women,8
+2017-04-25,Kayaks,Unisex,122
+2017-04-25,Life Vests,Men,454
+2017-04-25,Outdoor Gear,Unisex,127
+2017-04-25,Polos,Men,435
+2017-04-25,Polos,Women,6
+2017-04-25,Running Shoes,Kids,254
+2017-04-25,Running Shoes,Men,257
+2017-04-25,Running Shoes,Women,13
+2017-04-25,Shorts,Women,6
+2017-04-25,Training Shoes,Men,10
+2017-04-25,Training Shoes,Women,10
+2017-04-25,Wearables,Unisex,30
+2017-05-02,Bags,Unisex,18
+2017-05-02,Bags,Women,8
+2017-05-02,Balls,Unisex,2
+2017-05-02,Basketball Shoes,Kids,11
+2017-05-02,Basketball Shoes,Men,4
+2017-05-02,Bikes,Unisex,1
+2017-05-02,Bikes,Women,107
+2017-05-02,Cleats,Men,172
+2017-05-02,Dresses,Women,2
+2017-05-02,Fitness Equipment,Unisex,512
+2017-05-02,Golf Balls,Women,3
+2017-05-02,Golf Clubs,Unisex,10
+2017-05-02,Golf Clubs,Women,4
+2017-05-02,Golf Shoes,Unisex,5
+2017-05-02,Hiking Shoes,Women,23
+2017-05-02,Kayaks,Unisex,113
+2017-05-02,Life Vests,Men,448
+2017-05-02,Outdoor Gear,Unisex,130
+2017-05-02,Polos,Men,394
+2017-05-02,Polos,Women,11
+2017-05-02,Running Shoes,Kids,215
+2017-05-02,Running Shoes,Men,240
+2017-05-02,Running Shoes,Women,12
+2017-05-02,Shorts,Women,8
+2017-05-02,Training Shoes,Men,20
+2017-05-02,Training Shoes,Women,9
+2017-05-02,Wearables,Unisex,30
+2017-05-09,Bags,Unisex,24
+2017-05-09,Bags,Women,2
+2017-05-09,Balls,Unisex,2
+2017-05-09,Basketball Shoes,Kids,7
+2017-05-09,Basketball Shoes,Men,4
+2017-05-09,Bikes,Unisex,1
+2017-05-09,Bikes,Women,113
+2017-05-09,Cleats,Men,189
+2017-05-09,Dresses,Women,6
+2017-05-09,Fitness Equipment,Unisex,487
+2017-05-09,Golf Balls,Women,1
+2017-05-09,Golf Clubs,Unisex,27
+2017-05-09,Golf Clubs,Women,2
+2017-05-09,Golf Shoes,Unisex,1
+2017-05-09,Hiking Shoes,Women,21
+2017-05-09,Kayaks,Unisex,106
+2017-05-09,Life Vests,Men,367
+2017-05-09,Outdoor Gear,Unisex,126
+2017-05-09,Polos,Men,407
+2017-05-09,Polos,Women,9
+2017-05-09,Running Shoes,Kids,252
+2017-05-09,Running Shoes,Men,261
+2017-05-09,Running Shoes,Women,7
+2017-05-09,Shorts,Women,17
+2017-05-09,Training Shoes,Men,5
+2017-05-09,Training Shoes,Women,9
+2017-05-09,Wearables,Unisex,35
+2017-05-16,Bags,Unisex,18
+2017-05-16,Bags,Women,5
+2017-05-16,Balls,Unisex,2
+2017-05-16,Basketball Shoes,Kids,18
+2017-05-16,Basketball Shoes,Men,2
+2017-05-16,Bikes,Unisex,3
+2017-05-16,Bikes,Women,94
+2017-05-16,Cleats,Men,146
+2017-05-16,Dresses,Women,2
+2017-05-16,Fitness Equipment,Unisex,519
+2017-05-16,Golf Balls,Women,1
+2017-05-16,Golf Clubs,Unisex,29
+2017-05-16,Golf Clubs,Women,2
+2017-05-16,Golf Shoes,Unisex,4
+2017-05-16,Hiking Shoes,Women,23
+2017-05-16,Kayaks,Unisex,114
+2017-05-16,Life Vests,Men,423
+2017-05-16,Outdoor Gear,Unisex,108
+2017-05-16,Polos,Men,464
+2017-05-16,Polos,Women,13
+2017-05-16,Running Shoes,Kids,234
+2017-05-16,Running Shoes,Men,246
+2017-05-16,Running Shoes,Women,11
+2017-05-16,Shorts,Women,3
+2017-05-16,Training Shoes,Men,18
+2017-05-16,Wearables,Unisex,16
+2017-05-23,Bags,Unisex,32
+2017-05-23,Bags,Women,1
+2017-05-23,Balls,Unisex,5
+2017-05-23,Basketball Shoes,Kids,7
+2017-05-23,Basketball Shoes,Men,7
+2017-05-23,Bikes,Women,85
+2017-05-23,Cleats,Men,157
+2017-05-23,Dresses,Women,1
+2017-05-23,Fitness Equipment,Unisex,552
+2017-05-23,Golf Balls,Women,4
+2017-05-23,Golf Clubs,Unisex,9
+2017-05-23,Golf Clubs,Women,1
+2017-05-23,Golf Shoes,Unisex,5
+2017-05-23,Hiking Shoes,Women,20
+2017-05-23,Kayaks,Unisex,97
+2017-05-23,Life Vests,Men,359
+2017-05-23,Outdoor Gear,Unisex,131
+2017-05-23,Polos,Men,368
+2017-05-23,Polos,Women,9
+2017-05-23,Running Shoes,Kids,224
+2017-05-23,Running Shoes,Men,237
+2017-05-23,Running Shoes,Women,9
+2017-05-23,Shorts,Women,3
+2017-05-23,Training Shoes,Men,18
+2017-05-23,Training Shoes,Women,8
+2017-05-23,Wearables,Unisex,48
+2017-05-30,Bags,Unisex,12
+2017-05-30,Bags,Women,14
+2017-05-30,Balls,Unisex,3
+2017-05-30,Basketball Shoes,Kids,16
+2017-05-30,Basketball Shoes,Men,2
+2017-05-30,Bikes,Unisex,3
+2017-05-30,Bikes,Women,107
+2017-05-30,Cleats,Men,192
+2017-05-30,Dresses,Women,5
+2017-05-30,Fitness Equipment,Unisex,489
+2017-05-30,Golf Balls,Women,3
+2017-05-30,Golf Clubs,Unisex,18
+2017-05-30,Golf Clubs,Women,8
+2017-05-30,Golf Shoes,Unisex,3
+2017-05-30,Hiking Shoes,Women,8
+2017-05-30,Kayaks,Unisex,125
+2017-05-30,Life Vests,Men,419
+2017-05-30,Outdoor Gear,Unisex,110
+2017-05-30,Polos,Men,447
+2017-05-30,Polos,Women,15
+2017-05-30,Running Shoes,Kids,174
+2017-05-30,Running Shoes,Men,253
+2017-05-30,Running Shoes,Women,15
+2017-05-30,Shorts,Women,11
+2017-05-30,Training Shoes,Men,9
+2017-05-30,Training Shoes,Women,6
+2017-05-30,Wearables,Unisex,35
+2017-06-06,Bags,Unisex,16
+2017-06-06,Bags,Women,10
+2017-06-06,Balls,Unisex,3
+2017-06-06,Basketball Shoes,Kids,5
+2017-06-06,Basketball Shoes,Men,5
+2017-06-06,Bikes,Unisex,2
+2017-06-06,Bikes,Women,89
+2017-06-06,Cleats,Men,155
+2017-06-06,Dresses,Women,5
+2017-06-06,Fitness Equipment,Unisex,458
+2017-06-06,Golf Balls,Women,3
+2017-06-06,Golf Clubs,Unisex,15
+2017-06-06,Golf Clubs,Women,1
+2017-06-06,Golf Shoes,Unisex,2
+2017-06-06,Hiking Shoes,Women,25
+2017-06-06,Kayaks,Unisex,107
+2017-06-06,Life Vests,Men,401
+2017-06-06,Outdoor Gear,Unisex,122
+2017-06-06,Polos,Men,406
+2017-06-06,Polos,Women,12
+2017-06-06,Running Shoes,Kids,225
+2017-06-06,Running Shoes,Men,200
+2017-06-06,Running Shoes,Women,8
+2017-06-06,Shorts,Women,5
+2017-06-06,Training Shoes,Men,14
+2017-06-06,Training Shoes,Women,14
+2017-06-06,Wearables,Unisex,24
+2017-06-13,Bags,Unisex,6
+2017-06-13,Bags,Women,3
+2017-06-13,Balls,Unisex,3
+2017-06-13,Basketball Shoes,Kids,9
+2017-06-13,Basketball Shoes,Men,5
+2017-06-13,Bikes,Unisex,4
+2017-06-13,Bikes,Women,107
+2017-06-13,Cleats,Men,149
+2017-06-13,Dresses,Women,5
+2017-06-13,Fitness Equipment,Unisex,409
+2017-06-13,Golf Balls,Women,5
+2017-06-13,Golf Clubs,Unisex,14
+2017-06-13,Golf Clubs,Women,3
+2017-06-13,Golf Shoes,Unisex,2
+2017-06-13,Hiking Shoes,Women,7
+2017-06-13,Kayaks,Unisex,88
+2017-06-13,Life Vests,Men,316
+2017-06-13,Outdoor Gear,Unisex,126
+2017-06-13,Polos,Men,447
+2017-06-13,Polos,Women,16
+2017-06-13,Running Shoes,Kids,218
+2017-06-13,Running Shoes,Men,225
+2017-06-13,Running Shoes,Women,22
+2017-06-13,Shorts,Women,23
+2017-06-13,Training Shoes,Men,3
+2017-06-13,Training Shoes,Women,13
+2017-06-13,Wearables,Unisex,29
+2017-06-20,Bags,Unisex,24
+2017-06-20,Bags,Women,4
+2017-06-20,Balls,Unisex,4
+2017-06-20,Basketball Shoes,Kids,8
+2017-06-20,Basketball Shoes,Men,4
+2017-06-20,Bikes,Unisex,4
+2017-06-20,Bikes,Women,89
+2017-06-20,Cleats,Men,172
+2017-06-20,Dresses,Women,4
+2017-06-20,Fitness Equipment,Unisex,514
+2017-06-20,Golf Balls,Women,1
+2017-06-20,Golf Clubs,Unisex,17
+2017-06-20,Golf Clubs,Women,2
+2017-06-20,Golf Shoes,Unisex,5
+2017-06-20,Hiking Shoes,Women,16
+2017-06-20,Kayaks,Unisex,109
+2017-06-20,Life Vests,Men,361
+2017-06-20,Outdoor Gear,Unisex,147
+2017-06-20,Polos,Men,472
+2017-06-20,Polos,Women,6
+2017-06-20,Running Shoes,Kids,216
+2017-06-20,Running Shoes,Men,286
+2017-06-20,Running Shoes,Women,5
+2017-06-20,Shorts,Women,21
+2017-06-20,Training Shoes,Men,10
+2017-06-20,Training Shoes,Women,6
+2017-06-20,Wearables,Unisex,36
+2017-06-27,Bags,Unisex,14
+2017-06-27,Bags,Women,14
+2017-06-27,Balls,Unisex,2
+2017-06-27,Basketball Shoes,Kids,10
+2017-06-27,Basketball Shoes,Men,2
+2017-06-27,Bikes,Unisex,2
+2017-06-27,Bikes,Women,97
+2017-06-27,Cleats,Men,141
+2017-06-27,Dresses,Women,5
+2017-06-27,Fitness Equipment,Unisex,545
+2017-06-27,Golf Balls,Women,6
+2017-06-27,Golf Clubs,Unisex,22
+2017-06-27,Golf Clubs,Women,5
+2017-06-27,Golf Shoes,Unisex,3
+2017-06-27,Hiking Shoes,Women,13
+2017-06-27,Kayaks,Unisex,117
+2017-06-27,Life Vests,Men,347
+2017-06-27,Outdoor Gear,Unisex,122
+2017-06-27,Polos,Men,449
+2017-06-27,Polos,Women,4
+2017-06-27,Running Shoes,Kids,261
+2017-06-27,Running Shoes,Men,251
+2017-06-27,Running Shoes,Women,10
+2017-06-27,Shorts,Women,12
+2017-06-27,Training Shoes,Men,23
+2017-06-27,Training Shoes,Women,8
+2017-06-27,Wearables,Unisex,21
+2017-07-04,Bags,Unisex,8
+2017-07-04,Bags,Women,3
+2017-07-04,Balls,Unisex,2
+2017-07-04,Basketball Shoes,Kids,21
+2017-07-04,Basketball Shoes,Men,1
+2017-07-04,Bikes,Unisex,2
+2017-07-04,Bikes,Women,89
+2017-07-04,Cleats,Men,156
+2017-07-04,Dresses,Women,5
+2017-07-04,Fitness Equipment,Unisex,508
+2017-07-04,Golf Balls,Women,4
+2017-07-04,Golf Clubs,Unisex,16
+2017-07-04,Golf Clubs,Women,1
+2017-07-04,Golf Shoes,Unisex,4
+2017-07-04,Hiking Shoes,Women,3
+2017-07-04,Kayaks,Unisex,133
+2017-07-04,Life Vests,Men,415
+2017-07-04,Outdoor Gear,Unisex,123
+2017-07-04,Polos,Men,416
+2017-07-04,Polos,Women,9
+2017-07-04,Running Shoes,Kids,203
+2017-07-04,Running Shoes,Men,236
+2017-07-04,Running Shoes,Women,6
+2017-07-04,Shorts,Women,22
+2017-07-04,Training Shoes,Men,11
+2017-07-04,Training Shoes,Women,7
+2017-07-04,Wearables,Unisex,25
+2017-07-11,Bags,Unisex,15
+2017-07-11,Bags,Women,11
+2017-07-11,Balls,Unisex,4
+2017-07-11,Basketball Shoes,Kids,6
+2017-07-11,Basketball Shoes,Men,2
+2017-07-11,Bikes,Unisex,3
+2017-07-11,Bikes,Women,93
+2017-07-11,Cleats,Men,157
+2017-07-11,Dresses,Women,5
+2017-07-11,Fitness Equipment,Unisex,571
+2017-07-11,Golf Balls,Women,5
+2017-07-11,Golf Clubs,Unisex,16
+2017-07-11,Golf Clubs,Women,3
+2017-07-11,Golf Shoes,Unisex,4
+2017-07-11,Hiking Shoes,Women,24
+2017-07-11,Kayaks,Unisex,99
+2017-07-11,Life Vests,Men,425
+2017-07-11,Outdoor Gear,Unisex,115
+2017-07-11,Polos,Men,395
+2017-07-11,Polos,Women,11
+2017-07-11,Running Shoes,Kids,205
+2017-07-11,Running Shoes,Men,249
+2017-07-11,Running Shoes,Women,4
+2017-07-11,Shorts,Women,13
+2017-07-11,Training Shoes,Men,23
+2017-07-11,Training Shoes,Women,7
+2017-07-11,Wearables,Unisex,32
+2017-07-18,Bags,Unisex,11
+2017-07-18,Bags,Women,24
+2017-07-18,Balls,Unisex,3
+2017-07-18,Basketball Shoes,Kids,9
+2017-07-18,Basketball Shoes,Men,1
+2017-07-18,Bikes,Unisex,4
+2017-07-18,Bikes,Women,114
+2017-07-18,Cleats,Men,159
+2017-07-18,Dresses,Women,2
+2017-07-18,Fitness Equipment,Unisex,495
+2017-07-18,Golf Balls,Women,2
+2017-07-18,Golf Clubs,Unisex,24
+2017-07-18,Golf Clubs,Women,2
+2017-07-18,Golf Shoes,Unisex,2
+2017-07-18,Hiking Shoes,Women,20
+2017-07-18,Kayaks,Unisex,119
+2017-07-18,Life Vests,Men,373
+2017-07-18,Outdoor Gear,Unisex,122
+2017-07-18,Polos,Men,469
+2017-07-18,Polos,Women,5
+2017-07-18,Running Shoes,Kids,261
+2017-07-18,Running Shoes,Men,280
+2017-07-18,Running Shoes,Women,16
+2017-07-18,Shorts,Women,4
+2017-07-18,Training Shoes,Men,8
+2017-07-18,Training Shoes,Women,11
+2017-07-18,Wearables,Unisex,34
+2017-07-25,Bags,Unisex,8
+2017-07-25,Bags,Women,6
+2017-07-25,Balls,Unisex,4
+2017-07-25,Basketball Shoes,Men,1
+2017-07-25,Bikes,Unisex,4
+2017-07-25,Bikes,Women,88
+2017-07-25,Cleats,Men,152
+2017-07-25,Dresses,Women,5
+2017-07-25,Fitness Equipment,Unisex,493
+2017-07-25,Golf Balls,Women,5
+2017-07-25,Golf Clubs,Unisex,13
+2017-07-25,Golf Clubs,Women,1
+2017-07-25,Golf Shoes,Unisex,1
+2017-07-25,Hiking Shoes,Women,28
+2017-07-25,Kayaks,Unisex,69
+2017-07-25,Life Vests,Men,365
+2017-07-25,Outdoor Gear,Unisex,136
+2017-07-25,Polos,Men,413
+2017-07-25,Polos,Women,10
+2017-07-25,Running Shoes,Kids,255
+2017-07-25,Running Shoes,Men,282
+2017-07-25,Running Shoes,Women,11
+2017-07-25,Shorts,Women,4
+2017-07-25,Training Shoes,Men,18
+2017-07-25,Training Shoes,Women,12
+2017-07-25,Wearables,Unisex,20
+2017-08-01,Bags,Unisex,25
+2017-08-01,Bags,Women,13
+2017-08-01,Balls,Unisex,2
+2017-08-01,Basketball Shoes,Kids,8
+2017-08-01,Basketball Shoes,Men,1
+2017-08-01,Bikes,Unisex,3
+2017-08-01,Bikes,Women,89
+2017-08-01,Cleats,Men,155
+2017-08-01,Dresses,Women,2
+2017-08-01,Fitness Equipment,Unisex,510
+2017-08-01,Golf Balls,Women,2
+2017-08-01,Golf Clubs,Unisex,31
+2017-08-01,Golf Clubs,Women,8
+2017-08-01,Golf Shoes,Unisex,4
+2017-08-01,Hiking Shoes,Women,12
+2017-08-01,Kayaks,Unisex,118
+2017-08-01,Life Vests,Men,376
+2017-08-01,Outdoor Gear,Unisex,111
+2017-08-01,Polos,Men,450
+2017-08-01,Running Shoes,Kids,216
+2017-08-01,Running Shoes,Men,238
+2017-08-01,Running Shoes,Women,7
+2017-08-01,Shorts,Women,25
+2017-08-01,Training Shoes,Men,19
+2017-08-01,Training Shoes,Women,15
+2017-08-01,Wearables,Unisex,27
+2017-08-08,Bags,Unisex,16
+2017-08-08,Bags,Women,5
+2017-08-08,Balls,Unisex,3
+2017-08-08,Basketball Shoes,Kids,10
+2017-08-08,Basketball Shoes,Men,3
+2017-08-08,Bikes,Unisex,6
+2017-08-08,Bikes,Women,96
+2017-08-08,Cleats,Men,165
+2017-08-08,Dresses,Women,4
+2017-08-08,Fitness Equipment,Unisex,513
+2017-08-08,Golf Balls,Women,3
+2017-08-08,Golf Clubs,Unisex,38
+2017-08-08,Golf Clubs,Women,7
+2017-08-08,Golf Shoes,Unisex,4
+2017-08-08,Hiking Shoes,Women,8
+2017-08-08,Kayaks,Unisex,127
+2017-08-08,Life Vests,Men,391
+2017-08-08,Outdoor Gear,Unisex,135
+2017-08-08,Polos,Men,440
+2017-08-08,Polos,Women,6
+2017-08-08,Running Shoes,Kids,203
+2017-08-08,Running Shoes,Men,273
+2017-08-08,Running Shoes,Women,4
+2017-08-08,Shorts,Women,8
+2017-08-08,Training Shoes,Men,3
+2017-08-08,Training Shoes,Women,14
+2017-08-08,Wearables,Unisex,26
+2017-08-15,Bags,Unisex,10
+2017-08-15,Bags,Women,8
+2017-08-15,Balls,Unisex,3
+2017-08-15,Basketball Shoes,Kids,9
+2017-08-15,Basketball Shoes,Men,6
+2017-08-15,Bikes,Unisex,7
+2017-08-15,Bikes,Women,93
+2017-08-15,Cleats,Men,157
+2017-08-15,Dresses,Women,5
+2017-08-15,Fitness Equipment,Unisex,511
+2017-08-15,Golf Balls,Women,2
+2017-08-15,Golf Clubs,Unisex,20
+2017-08-15,Golf Clubs,Women,4
+2017-08-15,Golf Shoes,Unisex,5
+2017-08-15,Hiking Shoes,Women,10
+2017-08-15,Kayaks,Unisex,117
+2017-08-15,Life Vests,Men,350
+2017-08-15,Outdoor Gear,Unisex,131
+2017-08-15,Polos,Men,415
+2017-08-15,Polos,Women,15
+2017-08-15,Running Shoes,Kids,241
+2017-08-15,Running Shoes,Men,252
+2017-08-15,Running Shoes,Women,20
+2017-08-15,Shorts,Women,11
+2017-08-15,Training Shoes,Men,14
+2017-08-15,Training Shoes,Women,12
+2017-08-15,Wearables,Unisex,48
+2017-08-22,Bags,Unisex,15
+2017-08-22,Bags,Women,8
+2017-08-22,Balls,Unisex,6
+2017-08-22,Basketball Shoes,Kids,6
+2017-08-22,Basketball Shoes,Men,5
+2017-08-22,Bikes,Unisex,2
+2017-08-22,Bikes,Women,79
+2017-08-22,Cleats,Men,147
+2017-08-22,Dresses,Women,2
+2017-08-22,Fitness Equipment,Unisex,553
+2017-08-22,Golf Balls,Women,8
+2017-08-22,Golf Clubs,Unisex,23
+2017-08-22,Golf Clubs,Women,5
+2017-08-22,Golf Shoes,Unisex,2
+2017-08-22,Hiking Shoes,Women,16
+2017-08-22,Kayaks,Unisex,113
+2017-08-22,Life Vests,Men,402
+2017-08-22,Outdoor Gear,Unisex,148
+2017-08-22,Polos,Men,452
+2017-08-22,Polos,Women,9
+2017-08-22,Running Shoes,Kids,168
+2017-08-22,Running Shoes,Men,252
+2017-08-22,Running Shoes,Women,6
+2017-08-22,Shorts,Women,1
+2017-08-22,Training Shoes,Men,19
+2017-08-22,Training Shoes,Women,13
+2017-08-22,Wearables,Unisex,44
+2017-08-29,Bags,Unisex,19
+2017-08-29,Bags,Women,5
+2017-08-29,Balls,Unisex,2
+2017-08-29,Basketball Shoes,Kids,1
+2017-08-29,Basketball Shoes,Men,2
+2017-08-29,Bikes,Unisex,6
+2017-08-29,Bikes,Women,106
+2017-08-29,Cleats,Men,141
+2017-08-29,Dresses,Women,2
+2017-08-29,Fitness Equipment,Unisex,588
+2017-08-29,Golf Balls,Women,3
+2017-08-29,Golf Clubs,Unisex,19
+2017-08-29,Golf Clubs,Women,2
+2017-08-29,Golf Shoes,Unisex,1
+2017-08-29,Hiking Shoes,Women,32
+2017-08-29,Kayaks,Unisex,98
+2017-08-29,Life Vests,Men,445
+2017-08-29,Outdoor Gear,Unisex,103
+2017-08-29,Polos,Men,446
+2017-08-29,Polos,Women,14
+2017-08-29,Running Shoes,Kids,239
+2017-08-29,Running Shoes,Men,265
+2017-08-29,Running Shoes,Women,19
+2017-08-29,Shorts,Women,21
+2017-08-29,Training Shoes,Men,18
+2017-08-29,Training Shoes,Women,18
+2017-08-29,Wearables,Unisex,32
+2017-09-05,Bags,Unisex,27
+2017-09-05,Bags,Women,13
+2017-09-05,Balls,Unisex,3
+2017-09-05,Basketball Shoes,Kids,15
+2017-09-05,Basketball Shoes,Men,2
+2017-09-05,Bikes,Kids,3
+2017-09-05,Bikes,Unisex,2
+2017-09-05,Bikes,Women,94
+2017-09-05,Cleats,Men,149
+2017-09-05,Dresses,Women,1
+2017-09-05,Electronics,Unisex,4
+2017-09-05,Fitness Equipment,Unisex,504
+2017-09-05,Games,Unisex,1
+2017-09-05,Golf Balls,Women,1
+2017-09-05,Golf Clubs,Unisex,14
+2017-09-05,Golf Clubs,Women,3
+2017-09-05,Hiking Shoes,Women,15
+2017-09-05,Kayaks,Unisex,131
+2017-09-05,Life Vests,Men,296
+2017-09-05,Outdoor Gear,Unisex,124
+2017-09-05,Polos,Men,464
+2017-09-05,Polos,Women,12
+2017-09-05,Running Shoes,Kids,261
+2017-09-05,Running Shoes,Men,302
+2017-09-05,Running Shoes,Women,7
+2017-09-05,Shorts,Women,6
+2017-09-05,Training Shoes,Men,6
+2017-09-05,Training Shoes,Women,14
+2017-09-05,Wearables,Unisex,46
+2017-09-12,Bags,Unisex,13
+2017-09-12,Bikes,Kids,23
+2017-09-12,Bikes,Women,105
+2017-09-12,Cleats,Men,177
+2017-09-12,Electronics,Unisex,8
+2017-09-12,Fitness Equipment,Unisex,487
+2017-09-12,Games,Unisex,13
+2017-09-12,Kayaks,Unisex,104
+2017-09-12,Life Vests,Men,373
+2017-09-12,Outdoor Gear,Unisex,142
+2017-09-12,Polos,Men,407
+2017-09-12,Running Shoes,Kids,210
+2017-09-12,Running Shoes,Men,206
+2017-09-12,Wearables,Unisex,26
+2017-09-19,Bags,Unisex,10
+2017-09-19,Bikes,Kids,21
+2017-09-19,Bikes,Women,103
+2017-09-19,Cleats,Men,140
+2017-09-19,Electronics,Unisex,12
+2017-09-19,Fitness Equipment,Unisex,473
+2017-09-19,Games,Unisex,6
+2017-09-19,Kayaks,Unisex,132
+2017-09-19,Life Vests,Men,405
+2017-09-19,Outdoor Gear,Unisex,139
+2017-09-19,Polos,Men,451
+2017-09-19,Running Shoes,Kids,223
+2017-09-19,Running Shoes,Men,298
+2017-09-19,Wearables,Unisex,33
+2017-09-26,Bags,Unisex,11
+2017-09-26,Bikes,Kids,10
+2017-09-26,Bikes,Women,77
+2017-09-26,Cleats,Men,141
+2017-09-26,Electronics,Unisex,8
+2017-09-26,Fitness Equipment,Unisex,488
+2017-09-26,Games,Unisex,7
+2017-09-26,Kayaks,Unisex,113
+2017-09-26,Life Vests,Men,338
+2017-09-26,Other,Unisex,44
+2017-09-26,Outdoor Gear,Unisex,117
+2017-09-26,Polos,Men,448
+2017-09-26,Running Shoes,Kids,173
+2017-09-26,Running Shoes,Men,252
+2017-09-26,Wearables,Unisex,9

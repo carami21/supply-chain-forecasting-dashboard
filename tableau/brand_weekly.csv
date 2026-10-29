@@ -1,0 +1,1002 @@
+week,brand,units
+2015-01-06,Field & Stream,135
+2015-01-06,Other,337
+2015-01-06,Nike,872
+2015-01-06,Pelican,106
+2015-01-06,O'Brien,418
+2015-01-06,Perfect Fitness,557
+2015-01-06,Under Armour,228
+2015-01-13,Field & Stream,112
+2015-01-13,Other,324
+2015-01-13,Nike,876
+2015-01-13,Pelican,98
+2015-01-13,O'Brien,441
+2015-01-13,Perfect Fitness,504
+2015-01-13,Under Armour,278
+2015-01-20,Field & Stream,140
+2015-01-20,Other,346
+2015-01-20,Nike,803
+2015-01-20,Pelican,104
+2015-01-20,O'Brien,477
+2015-01-20,Perfect Fitness,579
+2015-01-20,Under Armour,343
+2015-01-27,Field & Stream,108
+2015-01-27,Other,353
+2015-01-27,Nike,935
+2015-01-27,Pelican,134
+2015-01-27,O'Brien,356
+2015-01-27,Perfect Fitness,475
+2015-01-27,Under Armour,241
+2015-02-03,Field & Stream,95
+2015-02-03,Other,345
+2015-02-03,Nike,831
+2015-02-03,Pelican,112
+2015-02-03,O'Brien,451
+2015-02-03,Perfect Fitness,513
+2015-02-03,Under Armour,269
+2015-02-10,Field & Stream,130
+2015-02-10,Other,317
+2015-02-10,Nike,859
+2015-02-10,Pelican,99
+2015-02-10,O'Brien,387
+2015-02-10,Perfect Fitness,486
+2015-02-10,Under Armour,257
+2015-02-17,Field & Stream,107
+2015-02-17,Other,331
+2015-02-17,Nike,978
+2015-02-17,Pelican,106
+2015-02-17,O'Brien,401
+2015-02-17,Perfect Fitness,510
+2015-02-17,Under Armour,277
+2015-02-24,Field & Stream,124
+2015-02-24,Other,370
+2015-02-24,Nike,872
+2015-02-24,Pelican,102
+2015-02-24,O'Brien,393
+2015-02-24,Perfect Fitness,565
+2015-02-24,Under Armour,323
+2015-03-03,Field & Stream,126
+2015-03-03,Other,362
+2015-03-03,Nike,845
+2015-03-03,Pelican,122
+2015-03-03,O'Brien,422
+2015-03-03,Perfect Fitness,571
+2015-03-03,Under Armour,337
+2015-03-10,Field & Stream,106
+2015-03-10,Other,300
+2015-03-10,Nike,875
+2015-03-10,Pelican,109
+2015-03-10,O'Brien,391
+2015-03-10,Perfect Fitness,520
+2015-03-10,Under Armour,257
+2015-03-17,Field & Stream,117
+2015-03-17,Other,399
+2015-03-17,Nike,831
+2015-03-17,Pelican,87
+2015-03-17,O'Brien,456
+2015-03-17,Perfect Fitness,485
+2015-03-17,Under Armour,261
+2015-03-24,Field & Stream,112
+2015-03-24,Other,338
+2015-03-24,Nike,919
+2015-03-24,Pelican,123
+2015-03-24,O'Brien,470
+2015-03-24,Perfect Fitness,513
+2015-03-24,Under Armour,312
+2015-03-31,Field & Stream,124
+2015-03-31,Other,336
+2015-03-31,Nike,879
+2015-03-31,Pelican,104
+2015-03-31,O'Brien,405
+2015-03-31,Perfect Fitness,504
+2015-03-31,Under Armour,269
+2015-04-07,Field & Stream,127
+2015-04-07,Other,356
+2015-04-07,Nike,953
+2015-04-07,Pelican,116
+2015-04-07,O'Brien,416
+2015-04-07,Perfect Fitness,476
+2015-04-07,Under Armour,268
+2015-04-14,Field & Stream,113
+2015-04-14,Other,352
+2015-04-14,Nike,907
+2015-04-14,Pelican,123
+2015-04-14,O'Brien,434
+2015-04-14,Perfect Fitness,566
+2015-04-14,Under Armour,243
+2015-04-21,Field & Stream,113
+2015-04-21,Other,325
+2015-04-21,Nike,818
+2015-04-21,Pelican,109
+2015-04-21,O'Brien,397
+2015-04-21,Perfect Fitness,490
+2015-04-21,Under Armour,255
+2015-04-28,Field & Stream,131
+2015-04-28,Other,307
+2015-04-28,Nike,911
+2015-04-28,Pelican,113
+2015-04-28,O'Brien,351
+2015-04-28,Perfect Fitness,526
+2015-04-28,Under Armour,301
+2015-05-05,Field & Stream,114
+2015-05-05,Other,343
+2015-05-05,Nike,878
+2015-05-05,Pelican,111
+2015-05-05,O'Brien,450
+2015-05-05,Perfect Fitness,460
+2015-05-05,Under Armour,280
+2015-05-12,Field & Stream,109
+2015-05-12,Other,342
+2015-05-12,Nike,928
+2015-05-12,Pelican,112
+2015-05-12,O'Brien,387
+2015-05-12,Perfect Fitness,559
+2015-05-12,Under Armour,302
+2015-05-19,Field & Stream,118
+2015-05-19,Other,391
+2015-05-19,Nike,924
+2015-05-19,Pelican,109
+2015-05-19,O'Brien,364
+2015-05-19,Perfect Fitness,470
+2015-05-19,Under Armour,281
+2015-05-26,Field & Stream,128
+2015-05-26,Other,360
+2015-05-26,Nike,996
+2015-05-26,Pelican,115
+2015-05-26,O'Brien,403
+2015-05-26,Perfect Fitness,518
+2015-05-26,Under Armour,245
+2015-06-02,Field & Stream,116
+2015-06-02,Other,364
+2015-06-02,Nike,926
+2015-06-02,Pelican,94
+2015-06-02,O'Brien,416
+2015-06-02,Perfect Fitness,509
+2015-06-02,Under Armour,258
+2015-06-09,Field & Stream,130
+2015-06-09,Other,288
+2015-06-09,Nike,894
+2015-06-09,Pelican,97
+2015-06-09,O'Brien,360
+2015-06-09,Perfect Fitness,408
+2015-06-09,Under Armour,240
+2015-06-16,Field & Stream,117
+2015-06-16,Other,338
+2015-06-16,Nike,837
+2015-06-16,Pelican,119
+2015-06-16,O'Brien,417
+2015-06-16,Perfect Fitness,538
+2015-06-16,Under Armour,300
+2015-06-23,Field & Stream,129
+2015-06-23,Other,303
+2015-06-23,Nike,850
+2015-06-23,Pelican,121
+2015-06-23,O'Brien,373
+2015-06-23,Perfect Fitness,540
+2015-06-23,Under Armour,269
+2015-06-30,Field & Stream,141
+2015-06-30,Other,331
+2015-06-30,Nike,889
+2015-06-30,Pelican,93
+2015-06-30,O'Brien,463
+2015-06-30,Perfect Fitness,539
+2015-06-30,Under Armour,266
+2015-07-07,Field & Stream,120
+2015-07-07,Other,328
+2015-07-07,Nike,950
+2015-07-07,Pelican,113
+2015-07-07,O'Brien,400
+2015-07-07,Perfect Fitness,474
+2015-07-07,Under Armour,270
+2015-07-14,Field & Stream,120
+2015-07-14,Other,318
+2015-07-14,Nike,1020
+2015-07-14,Pelican,107
+2015-07-14,O'Brien,385
+2015-07-14,Perfect Fitness,558
+2015-07-14,Under Armour,249
+2015-07-21,Field & Stream,94
+2015-07-21,Other,328
+2015-07-21,Nike,857
+2015-07-21,Pelican,108
+2015-07-21,O'Brien,453
+2015-07-21,Perfect Fitness,442
+2015-07-21,Under Armour,324
+2015-07-28,Field & Stream,122
+2015-07-28,Other,360
+2015-07-28,Nike,849
+2015-07-28,Pelican,118
+2015-07-28,O'Brien,377
+2015-07-28,Perfect Fitness,542
+2015-07-28,Under Armour,237
+2015-08-04,Field & Stream,108
+2015-08-04,Other,337
+2015-08-04,Nike,879
+2015-08-04,Pelican,94
+2015-08-04,O'Brien,379
+2015-08-04,Perfect Fitness,536
+2015-08-04,Under Armour,276
+2015-08-11,Field & Stream,114
+2015-08-11,Other,339
+2015-08-11,Nike,889
+2015-08-11,Pelican,110
+2015-08-11,O'Brien,346
+2015-08-11,Perfect Fitness,563
+2015-08-11,Under Armour,288
+2015-08-18,Field & Stream,128
+2015-08-18,Other,306
+2015-08-18,Nike,839
+2015-08-18,Pelican,108
+2015-08-18,O'Brien,263
+2015-08-18,Perfect Fitness,491
+2015-08-18,Under Armour,280
+2015-08-25,Field & Stream,105
+2015-08-25,Other,419
+2015-08-25,Nike,951
+2015-08-25,Pelican,120
+2015-08-25,O'Brien,403
+2015-08-25,Perfect Fitness,601
+2015-08-25,Under Armour,235
+2015-09-01,Field & Stream,158
+2015-09-01,Other,346
+2015-09-01,Nike,859
+2015-09-01,Pelican,100
+2015-09-01,O'Brien,406
+2015-09-01,Perfect Fitness,486
+2015-09-01,Under Armour,292
+2015-09-08,Field & Stream,106
+2015-09-08,Other,326
+2015-09-08,Nike,855
+2015-09-08,Pelican,92
+2015-09-08,O'Brien,417
+2015-09-08,Perfect Fitness,556
+2015-09-08,Under Armour,254
+2015-09-15,Field & Stream,102
+2015-09-15,Other,316
+2015-09-15,Nike,857
+2015-09-15,Pelican,106
+2015-09-15,O'Brien,500
+2015-09-15,Perfect Fitness,458
+2015-09-15,Under Armour,284
+2015-09-22,Field & Stream,106
+2015-09-22,Other,375
+2015-09-22,Nike,985
+2015-09-22,Pelican,111
+2015-09-22,O'Brien,374
+2015-09-22,Perfect Fitness,536
+2015-09-22,Under Armour,279
+2015-09-29,Field & Stream,115
+2015-09-29,Other,260
+2015-09-29,Nike,900
+2015-09-29,Pelican,106
+2015-09-29,O'Brien,438
+2015-09-29,Perfect Fitness,513
+2015-09-29,Under Armour,295
+2015-10-06,Field & Stream,116
+2015-10-06,Other,345
+2015-10-06,Nike,933
+2015-10-06,Pelican,117
+2015-10-06,O'Brien,361
+2015-10-06,Perfect Fitness,542
+2015-10-06,Under Armour,260
+2015-10-13,Field & Stream,120
+2015-10-13,Other,356
+2015-10-13,Nike,980
+2015-10-13,Pelican,99
+2015-10-13,O'Brien,385
+2015-10-13,Perfect Fitness,458
+2015-10-13,Under Armour,267
+2015-10-20,Field & Stream,98
+2015-10-20,Other,325
+2015-10-20,Nike,833
+2015-10-20,Pelican,103
+2015-10-20,O'Brien,439
+2015-10-20,Perfect Fitness,442
+2015-10-20,Under Armour,239
+2015-10-27,Field & Stream,149
+2015-10-27,Other,393
+2015-10-27,Nike,905
+2015-10-27,Pelican,112
+2015-10-27,O'Brien,402
+2015-10-27,Perfect Fitness,527
+2015-10-27,Under Armour,285
+2015-11-03,Field & Stream,142
+2015-11-03,Other,392
+2015-11-03,Nike,866
+2015-11-03,Pelican,105
+2015-11-03,O'Brien,410
+2015-11-03,Perfect Fitness,489
+2015-11-03,Under Armour,277
+2015-11-10,Field & Stream,108
+2015-11-10,Other,342
+2015-11-10,Nike,835
+2015-11-10,Pelican,107
+2015-11-10,O'Brien,453
+2015-11-10,Perfect Fitness,532
+2015-11-10,Under Armour,309
+2015-11-17,Field & Stream,127
+2015-11-17,Other,368
+2015-11-17,Nike,898
+2015-11-17,Pelican,115
+2015-11-17,O'Brien,434
+2015-11-17,Perfect Fitness,478
+2015-11-17,Under Armour,266
+2015-11-24,Field & Stream,124
+2015-11-24,Other,363
+2015-11-24,Nike,809
+2015-11-24,Pelican,111
+2015-11-24,O'Brien,366
+2015-11-24,Perfect Fitness,536
+2015-11-24,Under Armour,310
+2015-12-01,Field & Stream,124
+2015-12-01,Other,320
+2015-12-01,Nike,855
+2015-12-01,Pelican,128
+2015-12-01,O'Brien,373
+2015-12-01,Perfect Fitness,468
+2015-12-01,Under Armour,270
+2015-12-08,Field & Stream,123
+2015-12-08,Other,344
+2015-12-08,Nike,835
+2015-12-08,Pelican,124
+2015-12-08,O'Brien,360
+2015-12-08,Perfect Fitness,556
+2015-12-08,Under Armour,269
+2015-12-15,Field & Stream,139
+2015-12-15,Other,382
+2015-12-15,Nike,821
+2015-12-15,Pelican,97
+2015-12-15,O'Brien,464
+2015-12-15,Perfect Fitness,439
+2015-12-15,Under Armour,308
+2015-12-22,Field & Stream,125
+2015-12-22,Other,301
+2015-12-22,Nike,975
+2015-12-22,Pelican,107
+2015-12-22,O'Brien,482
+2015-12-22,Perfect Fitness,569
+2015-12-22,Under Armour,287
+2015-12-29,Field & Stream,113
+2015-12-29,Other,317
+2015-12-29,Nike,931
+2015-12-29,Pelican,99
+2015-12-29,O'Brien,379
+2015-12-29,Perfect Fitness,476
+2015-12-29,Under Armour,289
+2016-01-05,Field & Stream,127
+2016-01-05,Other,295
+2016-01-05,Nike,929
+2016-01-05,Pelican,97
+2016-01-05,O'Brien,424
+2016-01-05,Perfect Fitness,425
+2016-01-05,Under Armour,247
+2016-01-12,Field & Stream,132
+2016-01-12,Other,294
+2016-01-12,Nike,929
+2016-01-12,Pelican,103
+2016-01-12,O'Brien,408
+2016-01-12,Perfect Fitness,493
+2016-01-12,Under Armour,230
+2016-01-19,Field & Stream,130
+2016-01-19,Other,320
+2016-01-19,Nike,912
+2016-01-19,Pelican,87
+2016-01-19,O'Brien,415
+2016-01-19,Perfect Fitness,572
+2016-01-19,Under Armour,274
+2016-01-26,Field & Stream,121
+2016-01-26,Other,320
+2016-01-26,Nike,908
+2016-01-26,Pelican,124
+2016-01-26,O'Brien,414
+2016-01-26,Perfect Fitness,476
+2016-01-26,Under Armour,274
+2016-02-02,Field & Stream,116
+2016-02-02,Other,312
+2016-02-02,Nike,769
+2016-02-02,Pelican,103
+2016-02-02,O'Brien,463
+2016-02-02,Perfect Fitness,544
+2016-02-02,Under Armour,237
+2016-02-09,Field & Stream,109
+2016-02-09,Other,319
+2016-02-09,Nike,874
+2016-02-09,Pelican,101
+2016-02-09,O'Brien,470
+2016-02-09,Perfect Fitness,403
+2016-02-09,Under Armour,242
+2016-02-16,Field & Stream,147
+2016-02-16,Other,369
+2016-02-16,Nike,890
+2016-02-16,Pelican,109
+2016-02-16,O'Brien,428
+2016-02-16,Perfect Fitness,550
+2016-02-16,Under Armour,240
+2016-02-23,Field & Stream,125
+2016-02-23,Other,384
+2016-02-23,Nike,848
+2016-02-23,Pelican,101
+2016-02-23,O'Brien,386
+2016-02-23,Perfect Fitness,482
+2016-02-23,Under Armour,302
+2016-03-01,Field & Stream,116
+2016-03-01,Other,306
+2016-03-01,Nike,890
+2016-03-01,Pelican,102
+2016-03-01,O'Brien,398
+2016-03-01,Perfect Fitness,568
+2016-03-01,Under Armour,260
+2016-03-08,Field & Stream,123
+2016-03-08,Other,295
+2016-03-08,Nike,747
+2016-03-08,Pelican,103
+2016-03-08,O'Brien,407
+2016-03-08,Perfect Fitness,513
+2016-03-08,Under Armour,209
+2016-03-15,Field & Stream,131
+2016-03-15,Other,325
+2016-03-15,Nike,916
+2016-03-15,Pelican,95
+2016-03-15,O'Brien,347
+2016-03-15,Perfect Fitness,529
+2016-03-15,Under Armour,226
+2016-03-22,Field & Stream,118
+2016-03-22,Other,330
+2016-03-22,Nike,846
+2016-03-22,Pelican,103
+2016-03-22,O'Brien,344
+2016-03-22,Perfect Fitness,512
+2016-03-22,Under Armour,313
+2016-03-29,Field & Stream,120
+2016-03-29,Other,355
+2016-03-29,Nike,868
+2016-03-29,Pelican,104
+2016-03-29,O'Brien,360
+2016-03-29,Perfect Fitness,518
+2016-03-29,Under Armour,286
+2016-04-05,Field & Stream,139
+2016-04-05,Other,340
+2016-04-05,Nike,900
+2016-04-05,Pelican,103
+2016-04-05,O'Brien,381
+2016-04-05,Perfect Fitness,559
+2016-04-05,Under Armour,286
+2016-04-12,Field & Stream,128
+2016-04-12,Other,366
+2016-04-12,Nike,914
+2016-04-12,Pelican,105
+2016-04-12,O'Brien,404
+2016-04-12,Perfect Fitness,562
+2016-04-12,Under Armour,285
+2016-04-19,Field & Stream,122
+2016-04-19,Other,350
+2016-04-19,Nike,907
+2016-04-19,Pelican,99
+2016-04-19,O'Brien,435
+2016-04-19,Perfect Fitness,526
+2016-04-19,Under Armour,255
+2016-04-26,Field & Stream,88
+2016-04-26,Other,292
+2016-04-26,Nike,756
+2016-04-26,Pelican,91
+2016-04-26,O'Brien,363
+2016-04-26,Perfect Fitness,490
+2016-04-26,Under Armour,246
+2016-05-03,Field & Stream,108
+2016-05-03,Other,363
+2016-05-03,Nike,790
+2016-05-03,Pelican,125
+2016-05-03,O'Brien,416
+2016-05-03,Perfect Fitness,569
+2016-05-03,Under Armour,223
+2016-05-10,Field & Stream,134
+2016-05-10,Other,351
+2016-05-10,Nike,853
+2016-05-10,Pelican,134
+2016-05-10,O'Brien,404
+2016-05-10,Perfect Fitness,545
+2016-05-10,Under Armour,320
+2016-05-17,Field & Stream,122
+2016-05-17,Other,376
+2016-05-17,Nike,828
+2016-05-17,Pelican,116
+2016-05-17,O'Brien,379
+2016-05-17,Perfect Fitness,521
+2016-05-17,Under Armour,226
+2016-05-24,Field & Stream,94
+2016-05-24,Other,293
+2016-05-24,Nike,868
+2016-05-24,Pelican,104
+2016-05-24,O'Brien,403
+2016-05-24,Perfect Fitness,540
+2016-05-24,Under Armour,268
+2016-05-31,Field & Stream,107
+2016-05-31,Other,311
+2016-05-31,Nike,871
+2016-05-31,Pelican,100
+2016-05-31,O'Brien,425
+2016-05-31,Perfect Fitness,532
+2016-05-31,Under Armour,283
+2016-06-07,Field & Stream,138
+2016-06-07,Other,312
+2016-06-07,Nike,898
+2016-06-07,Pelican,97
+2016-06-07,O'Brien,346
+2016-06-07,Perfect Fitness,513
+2016-06-07,Under Armour,214
+2016-06-14,Field & Stream,134
+2016-06-14,Other,329
+2016-06-14,Nike,811
+2016-06-14,Pelican,91
+2016-06-14,O'Brien,338
+2016-06-14,Perfect Fitness,507
+2016-06-14,Under Armour,263
+2016-06-21,Field & Stream,131
+2016-06-21,Other,364
+2016-06-21,Nike,974
+2016-06-21,Pelican,102
+2016-06-21,O'Brien,369
+2016-06-21,Perfect Fitness,526
+2016-06-21,Under Armour,263
+2016-06-28,Field & Stream,120
+2016-06-28,Other,315
+2016-06-28,Nike,852
+2016-06-28,Pelican,114
+2016-06-28,O'Brien,391
+2016-06-28,Perfect Fitness,479
+2016-06-28,Under Armour,269
+2016-07-05,Field & Stream,123
+2016-07-05,Other,410
+2016-07-05,Nike,883
+2016-07-05,Pelican,117
+2016-07-05,O'Brien,390
+2016-07-05,Perfect Fitness,527
+2016-07-05,Under Armour,280
+2016-07-12,Field & Stream,118
+2016-07-12,Other,337
+2016-07-12,Nike,899
+2016-07-12,Pelican,108
+2016-07-12,O'Brien,457
+2016-07-12,Perfect Fitness,565
+2016-07-12,Under Armour,263
+2016-07-19,Field & Stream,114
+2016-07-19,Other,369
+2016-07-19,Nike,839
+2016-07-19,Pelican,120
+2016-07-19,O'Brien,384
+2016-07-19,Perfect Fitness,481
+2016-07-19,Under Armour,199
+2016-07-26,Field & Stream,111
+2016-07-26,Other,271
+2016-07-26,Nike,984
+2016-07-26,Pelican,100
+2016-07-26,O'Brien,405
+2016-07-26,Perfect Fitness,457
+2016-07-26,Under Armour,230
+2016-08-02,Field & Stream,126
+2016-08-02,Other,308
+2016-08-02,Nike,922
+2016-08-02,Pelican,96
+2016-08-02,O'Brien,383
+2016-08-02,Perfect Fitness,497
+2016-08-02,Under Armour,302
+2016-08-09,Field & Stream,108
+2016-08-09,Other,282
+2016-08-09,Nike,954
+2016-08-09,Pelican,97
+2016-08-09,O'Brien,327
+2016-08-09,Perfect Fitness,537
+2016-08-09,Under Armour,290
+2016-08-16,Field & Stream,126
+2016-08-16,Other,340
+2016-08-16,Nike,905
+2016-08-16,Pelican,112
+2016-08-16,O'Brien,416
+2016-08-16,Perfect Fitness,537
+2016-08-16,Under Armour,313
+2016-08-23,Field & Stream,124
+2016-08-23,Other,351
+2016-08-23,Nike,871
+2016-08-23,Pelican,115
+2016-08-23,O'Brien,311
+2016-08-23,Perfect Fitness,511
+2016-08-23,Under Armour,239
+2016-08-30,Field & Stream,116
+2016-08-30,Other,336
+2016-08-30,Nike,887
+2016-08-30,Pelican,109
+2016-08-30,O'Brien,384
+2016-08-30,Perfect Fitness,547
+2016-08-30,Under Armour,271
+2016-09-06,Field & Stream,109
+2016-09-06,Other,328
+2016-09-06,Nike,912
+2016-09-06,Pelican,108
+2016-09-06,O'Brien,363
+2016-09-06,Perfect Fitness,521
+2016-09-06,Under Armour,261
+2016-09-13,Field & Stream,142
+2016-09-13,Other,340
+2016-09-13,Nike,904
+2016-09-13,Pelican,115
+2016-09-13,O'Brien,473
+2016-09-13,Perfect Fitness,511
+2016-09-13,Under Armour,320
+2016-09-20,Field & Stream,102
+2016-09-20,Other,347
+2016-09-20,Nike,896
+2016-09-20,Pelican,105
+2016-09-20,O'Brien,363
+2016-09-20,Perfect Fitness,524
+2016-09-20,Under Armour,264
+2016-09-27,Field & Stream,115
+2016-09-27,Other,355
+2016-09-27,Nike,921
+2016-09-27,Pelican,120
+2016-09-27,O'Brien,452
+2016-09-27,Perfect Fitness,496
+2016-09-27,Under Armour,227
+2016-10-04,Field & Stream,122
+2016-10-04,Other,403
+2016-10-04,Nike,766
+2016-10-04,Pelican,88
+2016-10-04,O'Brien,431
+2016-10-04,Perfect Fitness,467
+2016-10-04,Under Armour,244
+2016-10-11,Field & Stream,111
+2016-10-11,Other,357
+2016-10-11,Nike,935
+2016-10-11,Pelican,112
+2016-10-11,O'Brien,500
+2016-10-11,Perfect Fitness,502
+2016-10-11,Under Armour,235
+2016-10-18,Field & Stream,120
+2016-10-18,Other,330
+2016-10-18,Nike,895
+2016-10-18,Pelican,109
+2016-10-18,O'Brien,457
+2016-10-18,Perfect Fitness,545
+2016-10-18,Under Armour,318
+2016-10-25,Field & Stream,117
+2016-10-25,Other,311
+2016-10-25,Nike,854
+2016-10-25,Pelican,127
+2016-10-25,O'Brien,412
+2016-10-25,Perfect Fitness,546
+2016-10-25,Under Armour,287
+2016-11-01,Field & Stream,143
+2016-11-01,Other,355
+2016-11-01,Nike,892
+2016-11-01,Pelican,113
+2016-11-01,O'Brien,403
+2016-11-01,Perfect Fitness,546
+2016-11-01,Under Armour,244
+2016-11-08,Field & Stream,114
+2016-11-08,Other,285
+2016-11-08,Nike,885
+2016-11-08,Pelican,101
+2016-11-08,O'Brien,384
+2016-11-08,Perfect Fitness,454
+2016-11-08,Under Armour,302
+2016-11-15,Field & Stream,139
+2016-11-15,Other,410
+2016-11-15,Nike,804
+2016-11-15,Pelican,114
+2016-11-15,O'Brien,447
+2016-11-15,Perfect Fitness,562
+2016-11-15,Under Armour,254
+2016-11-22,Field & Stream,133
+2016-11-22,Other,344
+2016-11-22,Nike,951
+2016-11-22,Pelican,113
+2016-11-22,O'Brien,409
+2016-11-22,Perfect Fitness,523
+2016-11-22,Under Armour,245
+2016-11-29,Field & Stream,118
+2016-11-29,Other,309
+2016-11-29,Nike,876
+2016-11-29,Pelican,104
+2016-11-29,O'Brien,391
+2016-11-29,Perfect Fitness,573
+2016-11-29,Under Armour,324
+2016-12-06,Field & Stream,106
+2016-12-06,Other,361
+2016-12-06,Nike,918
+2016-12-06,Pelican,87
+2016-12-06,O'Brien,435
+2016-12-06,Perfect Fitness,554
+2016-12-06,Under Armour,262
+2016-12-13,Field & Stream,108
+2016-12-13,Other,328
+2016-12-13,Nike,896
+2016-12-13,Pelican,97
+2016-12-13,O'Brien,369
+2016-12-13,Perfect Fitness,579
+2016-12-13,Under Armour,242
+2016-12-20,Field & Stream,118
+2016-12-20,Other,338
+2016-12-20,Nike,842
+2016-12-20,Pelican,101
+2016-12-20,O'Brien,449
+2016-12-20,Perfect Fitness,445
+2016-12-20,Under Armour,323
+2016-12-27,Field & Stream,135
+2016-12-27,Other,378
+2016-12-27,Nike,923
+2016-12-27,Pelican,113
+2016-12-27,O'Brien,405
+2016-12-27,Perfect Fitness,534
+2016-12-27,Under Armour,171
+2017-01-03,Field & Stream,108
+2017-01-03,Other,276
+2017-01-03,Nike,916
+2017-01-03,Pelican,113
+2017-01-03,O'Brien,386
+2017-01-03,Perfect Fitness,461
+2017-01-03,Under Armour,257
+2017-01-10,Field & Stream,125
+2017-01-10,Other,348
+2017-01-10,Nike,880
+2017-01-10,Pelican,95
+2017-01-10,O'Brien,393
+2017-01-10,Perfect Fitness,545
+2017-01-10,Under Armour,288
+2017-01-17,Field & Stream,114
+2017-01-17,Other,296
+2017-01-17,Nike,944
+2017-01-17,Pelican,94
+2017-01-17,O'Brien,408
+2017-01-17,Perfect Fitness,575
+2017-01-17,Under Armour,275
+2017-01-24,Field & Stream,108
+2017-01-24,Other,329
+2017-01-24,Nike,854
+2017-01-24,Pelican,98
+2017-01-24,O'Brien,443
+2017-01-24,Perfect Fitness,463
+2017-01-24,Under Armour,325
+2017-01-31,Field & Stream,144
+2017-01-31,Other,372
+2017-01-31,Nike,1001
+2017-01-31,Pelican,111
+2017-01-31,O'Brien,481
+2017-01-31,Perfect Fitness,536
+2017-01-31,Under Armour,221
+2017-02-07,Field & Stream,124
+2017-02-07,Other,346
+2017-02-07,Nike,921
+2017-02-07,Pelican,123
+2017-02-07,O'Brien,434
+2017-02-07,Perfect Fitness,468
+2017-02-07,Under Armour,228
+2017-02-14,Field & Stream,117
+2017-02-14,Other,363
+2017-02-14,Nike,906
+2017-02-14,Pelican,103
+2017-02-14,O'Brien,408
+2017-02-14,Perfect Fitness,566
+2017-02-14,Under Armour,228
+2017-02-21,Field & Stream,102
+2017-02-21,Other,311
+2017-02-21,Nike,1050
+2017-02-21,Pelican,95
+2017-02-21,O'Brien,452
+2017-02-21,Perfect Fitness,557
+2017-02-21,Under Armour,283
+2017-02-28,Field & Stream,114
+2017-02-28,Other,364
+2017-02-28,Nike,937
+2017-02-28,Pelican,118
+2017-02-28,O'Brien,339
+2017-02-28,Perfect Fitness,517
+2017-02-28,Under Armour,283
+2017-03-07,Field & Stream,123
+2017-03-07,Other,334
+2017-03-07,Nike,934
+2017-03-07,Pelican,101
+2017-03-07,O'Brien,380
+2017-03-07,Perfect Fitness,560
+2017-03-07,Under Armour,241
+2017-03-14,Field & Stream,116
+2017-03-14,Other,348
+2017-03-14,Nike,841
+2017-03-14,Pelican,115
+2017-03-14,O'Brien,441
+2017-03-14,Perfect Fitness,562
+2017-03-14,Under Armour,265
+2017-03-21,Field & Stream,96
+2017-03-21,Other,329
+2017-03-21,Nike,922
+2017-03-21,Pelican,104
+2017-03-21,O'Brien,341
+2017-03-21,Perfect Fitness,396
+2017-03-21,Under Armour,284
+2017-03-28,Field & Stream,132
+2017-03-28,Other,398
+2017-03-28,Nike,836
+2017-03-28,Pelican,127
+2017-03-28,O'Brien,478
+2017-03-28,Perfect Fitness,519
+2017-03-28,Under Armour,252
+2017-04-04,Field & Stream,127
+2017-04-04,Other,358
+2017-04-04,Nike,772
+2017-04-04,Pelican,99
+2017-04-04,O'Brien,386
+2017-04-04,Perfect Fitness,465
+2017-04-04,Under Armour,289
+2017-04-11,Field & Stream,112
+2017-04-11,Other,316
+2017-04-11,Nike,909
+2017-04-11,Pelican,125
+2017-04-11,O'Brien,438
+2017-04-11,Perfect Fitness,496
+2017-04-11,Under Armour,243
+2017-04-18,Field & Stream,122
+2017-04-18,Other,338
+2017-04-18,Nike,816
+2017-04-18,Pelican,107
+2017-04-18,O'Brien,400
+2017-04-18,Perfect Fitness,560
+2017-04-18,Under Armour,308
+2017-04-25,Field & Stream,124
+2017-04-25,Other,246
+2017-04-25,Nike,866
+2017-04-25,Pelican,122
+2017-04-25,O'Brien,454
+2017-04-25,Perfect Fitness,518
+2017-04-25,Under Armour,254
+2017-05-02,Field & Stream,126
+2017-05-02,Other,270
+2017-05-02,Nike,849
+2017-05-02,Pelican,113
+2017-05-02,O'Brien,448
+2017-05-02,Perfect Fitness,491
+2017-05-02,Under Armour,215
+2017-05-09,Field & Stream,121
+2017-05-09,Other,283
+2017-05-09,Nike,878
+2017-05-09,Pelican,106
+2017-05-09,O'Brien,367
+2017-05-09,Perfect Fitness,481
+2017-05-09,Under Armour,252
+2017-05-16,Field & Stream,105
+2017-05-16,Other,244
+2017-05-16,Nike,891
+2017-05-16,Pelican,114
+2017-05-16,O'Brien,423
+2017-05-16,Perfect Fitness,507
+2017-05-16,Under Armour,234
+2017-05-23,Field & Stream,127
+2017-05-23,Other,264
+2017-05-23,Nike,800
+2017-05-23,Pelican,97
+2017-05-23,O'Brien,359
+2017-05-23,Perfect Fitness,526
+2017-05-23,Under Armour,224
+2017-05-30,Field & Stream,109
+2017-05-30,Other,271
+2017-05-30,Nike,920
+2017-05-30,Pelican,125
+2017-05-30,O'Brien,419
+2017-05-30,Perfect Fitness,484
+2017-05-30,Under Armour,174
+2017-06-06,Field & Stream,119
+2017-06-06,Other,247
+2017-06-06,Nike,793
+2017-06-06,Pelican,107
+2017-06-06,O'Brien,401
+2017-06-06,Perfect Fitness,440
+2017-06-06,Under Armour,225
+2017-06-13,Field & Stream,124
+2017-06-13,Other,269
+2017-06-13,Nike,845
+2017-06-13,Pelican,88
+2017-06-13,O'Brien,316
+2017-06-13,Perfect Fitness,397
+2017-06-13,Under Armour,218
+2017-06-20,Field & Stream,145
+2017-06-20,Other,260
+2017-06-20,Nike,953
+2017-06-20,Pelican,109
+2017-06-20,O'Brien,361
+2017-06-20,Perfect Fitness,499
+2017-06-20,Under Armour,216
+2017-06-27,Field & Stream,122
+2017-06-27,Other,246
+2017-06-27,Nike,881
+2017-06-27,Pelican,117
+2017-06-27,O'Brien,347
+2017-06-27,Perfect Fitness,532
+2017-06-27,Under Armour,261
+2017-07-04,Field & Stream,121
+2017-07-04,Other,216
+2017-07-04,Nike,842
+2017-07-04,Pelican,133
+2017-07-04,O'Brien,415
+2017-07-04,Perfect Fitness,499
+2017-07-04,Under Armour,203
+2017-07-11,Field & Stream,111
+2017-07-11,Other,256
+2017-07-11,Nike,837
+2017-07-11,Pelican,99
+2017-07-11,O'Brien,425
+2017-07-11,Perfect Fitness,564
+2017-07-11,Under Armour,205
+2017-07-18,Field & Stream,119
+2017-07-18,Other,283
+2017-07-18,Nike,930
+2017-07-18,Pelican,119
+2017-07-18,O'Brien,373
+2017-07-18,Perfect Fitness,489
+2017-07-18,Under Armour,261
+2017-07-25,Field & Stream,134
+2017-07-25,Other,227
+2017-07-25,Nike,874
+2017-07-25,Pelican,69
+2017-07-25,O'Brien,365
+2017-07-25,Perfect Fitness,480
+2017-07-25,Under Armour,255
+2017-08-01,Field & Stream,106
+2017-08-01,Other,266
+2017-08-01,Nike,882
+2017-08-01,Pelican,118
+2017-08-01,O'Brien,376
+2017-08-01,Perfect Fitness,503
+2017-08-01,Under Armour,216
+2017-08-08,Field & Stream,133
+2017-08-08,Other,254
+2017-08-08,Nike,904
+2017-08-08,Pelican,127
+2017-08-08,O'Brien,391
+2017-08-08,Perfect Fitness,499
+2017-08-08,Under Armour,203
+2017-08-15,Field & Stream,128
+2017-08-15,Other,277
+2017-08-15,Nike,859
+2017-08-15,Pelican,117
+2017-08-15,O'Brien,350
+2017-08-15,Perfect Fitness,504
+2017-08-15,Under Armour,241
+2017-08-22,Field & Stream,141
+2017-08-22,Other,246
+2017-08-22,Nike,889
+2017-08-22,Pelican,113
+2017-08-22,O'Brien,402
+2017-08-22,Perfect Fitness,545
+2017-08-22,Under Armour,168
+2017-08-29,Field & Stream,102
+2017-08-29,Other,291
+2017-08-29,Nike,890
+2017-08-29,Pelican,98
+2017-08-29,O'Brien,445
+2017-08-29,Perfect Fitness,582
+2017-08-29,Under Armour,239
+2017-09-05,Field & Stream,123
+2017-09-05,Other,270
+2017-09-05,Nike,949
+2017-09-05,Pelican,131
+2017-09-05,O'Brien,296
+2017-09-05,Perfect Fitness,490
+2017-09-05,Under Armour,261
+2017-09-12,Field & Stream,142
+2017-09-12,Other,203
+2017-09-12,Nike,790
+2017-09-12,Pelican,104
+2017-09-12,O'Brien,373
+2017-09-12,Perfect Fitness,472
+2017-09-12,Under Armour,210
+2017-09-19,Field & Stream,139
+2017-09-19,Other,197
+2017-09-19,Nike,889
+2017-09-19,Pelican,132
+2017-09-19,O'Brien,405
+2017-09-19,Perfect Fitness,461
+2017-09-19,Under Armour,223
+2017-09-26,Field & Stream,117
+2017-09-26,Other,205
+2017-09-26,Nike,841
+2017-09-26,Pelican,113
+2017-09-26,O'Brien,338
+2017-09-26,Perfect Fitness,449
+2017-09-26,Under Armour,173

@@ -28,11 +28,15 @@ st.set_page_config(page_title="Supply Chain Dashboard", page_icon="📦", layout
 
 
 @st.cache_data
+def _read(path: Path, mtime: float) -> pd.DataFrame:
+    return pd.read_csv(path)  # mtime in the cache key: reruns of the pipeline show up
+
+
 def load(name: str, dates: tuple[str, ...] = ("week",)) -> pd.DataFrame | None:
     path = OUT / name
     if not path.exists():
         return None
-    df = pd.read_csv(path)
+    df = _read(path, path.stat().st_mtime).copy()
     for c in dates:
         if c in df.columns:
             df[c] = pd.to_datetime(df[c])
@@ -198,7 +202,7 @@ with tabs[2]:
                     line=dict(color=INK_2, width=1.5))
     fig.add_scatter(x=list(p["week"]) + list(p["week"][::-1]),
                     y=list(p["yhat_upper"]) + list(p["yhat_lower"][::-1]),
-                    fill="toself", fillcolor="rgba(42,120,214,0.15)", line=dict(width=0),
+                    mode="lines", fill="toself", fillcolor="rgba(42,120,214,0.15)", line=dict(width=0),
                     name="Prophet 95% band", hoverinfo="skip")
     fig.add_scatter(x=p["week"], y=p["yhat"], mode="lines", name="Prophet (holdout)",
                     line=dict(color=SERIES[0], width=2))
@@ -207,7 +211,7 @@ with tabs[2]:
     if fut is not None and len(fut):
         fig.add_scatter(x=list(fut["week"]) + list(fut["week"][::-1]),
                         y=list(fut["yhat_upper"]) + list(fut["yhat_lower"][::-1]),
-                        fill="toself", fillcolor="rgba(27,175,122,0.15)", line=dict(width=0),
+                        mode="lines", fill="toself", fillcolor="rgba(27,175,122,0.15)", line=dict(width=0),
                         name="Outlook band", hoverinfo="skip")
         fig.add_scatter(x=fut["week"], y=fut["yhat"], mode="lines", name="12-wk outlook",
                         line=dict(color=SERIES[2], width=2))
@@ -328,7 +332,7 @@ if hm_top is not None:
         left.plotly_chart(style(fig, "Most purchased styles", 460), use_container_width=True)
         if hm_trend is not None:
             tr = pd.concat([hm_trend.nlargest(8, "growth"), hm_trend.nsmallest(8, "growth")])
-            tr = tr.sort_values("growth")
+            tr = tr.drop_duplicates("product_type_name").sort_values("growth")
             fig = go.Figure(go.Bar(
                 x=tr["growth"], y=tr["product_type_name"], orientation="h",
                 marker=dict(color=[SERIES[2] if g > 0 else SERIES[1] for g in tr["growth"]],
@@ -348,7 +352,7 @@ if hm_top is not None:
                             line=dict(color=INK_2, width=1.5))
             fig.add_scatter(x=list(fp["week"]) + list(fp["week"][::-1]),
                             y=list(fp["yhat_upper"]) + list(fp["yhat_lower"][::-1]),
-                            fill="toself", fillcolor="rgba(42,120,214,0.15)",
+                            mode="lines", fill="toself", fillcolor="rgba(42,120,214,0.15)",
                             line=dict(width=0), name="Prophet 95% band", hoverinfo="skip")
             fig.add_scatter(x=fp["week"], y=fp["yhat"], mode="lines", name="Prophet",
                             line=dict(color=SERIES[0], width=2))
@@ -368,7 +372,7 @@ if hm_top is not None:
                                    values="share", aggfunc="sum").fillna(0)
             fig = go.Figure(go.Heatmap(z=share.values, x=share.columns.astype(str),
                                        y=share.index, colorscale=SEQ, xgap=2, ygap=2,
-                                       colorbar=dict(tickformat=".0%"),
+                                       colorbar=dict(tickformat=".1%"),
                                        hovertemplate="%{y} · %{x}: %{z:.1%}<extra></extra>"))
             st.plotly_chart(style(fig, "Colour share of purchases by month", 380),
                             use_container_width=True)

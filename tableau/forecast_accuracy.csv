@@ -1,0 +1,35 @@
+item,model,error_pct,rmse,n_test,level,metric
+Cardio Equipment,seasonal_naive,10.9,33.9,12,Category,MAPE
+Cardio Equipment,prophet,9.09,30.3,12,Category,MAPE
+Cleats,seasonal_naive,5.39,30.6,12,Category,MAPE
+Cleats,prophet,5.44,33.6,12,Category,MAPE
+Fishing,seasonal_naive,11.03,17.5,12,Category,MAPE
+Fishing,prophet,11.11,16.7,12,Category,MAPE
+Indoor/Outdoor Games,seasonal_naive,15.7,66.1,12,Category,MAPE
+Indoor/Outdoor Games,prophet,12.47,54.2,12,Category,MAPE
+Men's Footwear,seasonal_naive,8.65,16.6,12,Category,MAPE
+Men's Footwear,prophet,9.0,16.4,12,Category,MAPE
+Shop By Sport,seasonal_naive,17.77,46.3,12,Category,MAPE
+Shop By Sport,prophet,13.75,34.8,12,Category,MAPE
+Water Sports,seasonal_naive,14.1,18.3,12,Category,MAPE
+Water Sports,prophet,14.37,17.7,12,Category,MAPE
+Women's Apparel,seasonal_naive,8.89,47.5,12,Category,MAPE
+Women's Apparel,prophet,6.45,33.4,12,Category,MAPE
+Diamondback Women's Serene Classic Comfort Bi,seasonal_naive,10.38,11.6,12,Product,WAPE
+Diamondback Women's Serene Classic Comfort Bi,prophet,9.28,11.2,12,Product,WAPE
+Field & Stream Sportsman 16 Gun Fire Safe,seasonal_naive,11.1,17.5,12,Product,WAPE
+Field & Stream Sportsman 16 Gun Fire Safe,prophet,11.37,16.7,12,Product,WAPE
+Nike Men's CJ Elite 2 TD Football Cleat,seasonal_naive,8.48,16.6,12,Product,WAPE
+Nike Men's CJ Elite 2 TD Football Cleat,prophet,8.68,16.4,12,Product,WAPE
+Nike Men's Dri-FIT Victory Golf Polo,seasonal_naive,8.72,47.5,12,Product,WAPE
+Nike Men's Dri-FIT Victory Golf Polo,prophet,6.24,33.4,12,Product,WAPE
+Nike Men's Free 5.0+ Running Shoe,seasonal_naive,10.92,34.1,12,Product,WAPE
+Nike Men's Free 5.0+ Running Shoe,prophet,10.45,34.0,12,Product,WAPE
+O'Brien Men's Neoprene Life Vest,seasonal_naive,15.31,66.1,12,Product,WAPE
+O'Brien Men's Neoprene Life Vest,prophet,11.85,54.2,12,Product,WAPE
+Pelican Sunstream 100 Kayak,seasonal_naive,14.08,18.2,12,Product,WAPE
+Pelican Sunstream 100 Kayak,prophet,13.17,16.6,12,Product,WAPE
+Perfect Fitness Perfect Rip Deck,seasonal_naive,5.93,34.4,12,Product,WAPE
+Perfect Fitness Perfect Rip Deck,prophet,6.11,36.8,12,Product,WAPE
+Under Armour Girls' Toddler Spine Surge Runni,seasonal_naive,17.74,46.4,12,Product,WAPE
+Under Armour Girls' Toddler Spine Surge Runni,prophet,13.26,34.6,12,Product,WAPE

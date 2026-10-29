@@ -1,0 +1,409 @@
+week,item,actual,yhat,yhat_lower,yhat_upper,model,level
+2017-07-11,Cardio Equipment,247,260.0,,,seasonal_naive,Category
+2017-07-18,Cardio Equipment,273,214.0,,,seasonal_naive,Category
+2017-07-25,Cardio Equipment,278,268.0,,,seasonal_naive,Category
+2017-08-01,Cardio Equipment,234,276.0,,,seasonal_naive,Category
+2017-08-08,Cardio Equipment,269,242.0,,,seasonal_naive,Category
+2017-08-15,Cardio Equipment,246,246.0,,,seasonal_naive,Category
+2017-08-22,Cardio Equipment,247,239.0,,,seasonal_naive,Category
+2017-08-29,Cardio Equipment,264,280.0,,,seasonal_naive,Category
+2017-09-05,Cardio Equipment,299,244.0,,,seasonal_naive,Category
+2017-09-12,Cardio Equipment,206,261.0,,,seasonal_naive,Category
+2017-09-19,Cardio Equipment,298,274.0,,,seasonal_naive,Category
+2017-09-26,Cardio Equipment,252,277.0,,,seasonal_naive,Category
+2017-07-11,Cardio Equipment,247,243.56609391454936,183.33455233733056,300.6595948916131,prophet,Category
+2017-07-18,Cardio Equipment,273,232.92925848275337,176.83659892461486,290.4550693546924,prophet,Category
+2017-07-25,Cardio Equipment,278,234.0382829630133,174.72216117918364,296.1795666718695,prophet,Category
+2017-08-01,Cardio Equipment,234,244.13607951952864,183.6680056513856,305.3290280615958,prophet,Category
+2017-08-08,Cardio Equipment,269,251.78657774531175,190.62194182064204,311.74784347412873,prophet,Category
+2017-08-15,Cardio Equipment,246,250.1286562446081,191.38774699235248,307.114020642987,prophet,Category
+2017-08-22,Cardio Equipment,247,244.3216221598856,182.49363438139267,301.71399148237964,prophet,Category
+2017-08-29,Cardio Equipment,264,244.37596054137913,187.89769892521352,301.80476645535884,prophet,Category
+2017-09-05,Cardio Equipment,299,252.34420028531036,194.63679595966565,310.65605873542466,prophet,Category
+2017-09-12,Cardio Equipment,206,259.6699235488086,199.98438990862013,316.0928816740942,prophet,Category
+2017-09-19,Cardio Equipment,298,257.8724959326536,199.34290024716643,317.7222762434973,prophet,Category
+2017-09-26,Cardio Equipment,252,249.23315869696825,190.9345776219331,310.5056178863798,prophet,Category
+2017-07-11,Cleats,564,565.0,,,seasonal_naive,Category
+2017-07-18,Cleats,489,481.0,,,seasonal_naive,Category
+2017-07-25,Cleats,480,457.0,,,seasonal_naive,Category
+2017-08-01,Cleats,503,497.0,,,seasonal_naive,Category
+2017-08-08,Cleats,499,537.0,,,seasonal_naive,Category
+2017-08-15,Cleats,504,537.0,,,seasonal_naive,Category
+2017-08-22,Cleats,545,511.0,,,seasonal_naive,Category
+2017-08-29,Cleats,582,547.0,,,seasonal_naive,Category
+2017-09-05,Cleats,495,521.0,,,seasonal_naive,Category
+2017-09-12,Cleats,487,511.0,,,seasonal_naive,Category
+2017-09-19,Cleats,473,524.0,,,seasonal_naive,Category
+2017-09-26,Cleats,453,496.0,,,seasonal_naive,Category
+2017-07-11,Cleats,564,510.20149624424664,436.3303146460923,580.2241470133915,prophet,Category
+2017-07-18,Cleats,489,491.81740326156097,423.02224017408497,562.3701107899462,prophet,Category
+2017-07-25,Cleats,480,488.5606310263804,415.81203425846184,564.7740255302618,prophet,Category
+2017-08-01,Cleats,503,504.751155928394,430.5894108922455,579.8010627148277,prophet,Category
+2017-08-08,Cleats,499,527.4932956280171,452.4771836572782,601.0331644371078,prophet,Category
+2017-08-15,Cleats,504,539.9553673525254,467.91170267448143,609.843243351371,prophet,Category
+2017-08-22,Cleats,545,536.3819847395245,460.55411882374744,606.7703162690628,prophet,Category
+2017-08-29,Cleats,582,524.6704444436444,455.4040193738825,595.1029854411298,prophet,Category
+2017-09-05,Cleats,495,515.9359957939424,445.16271426740866,587.4520192551144,prophet,Category
+2017-09-12,Cleats,487,513.2260420730837,440.02235523830046,582.4259212089879,prophet,Category
+2017-09-19,Cleats,473,510.8700334117931,439.0871147379635,584.2722028327125,prophet,Category
+2017-09-26,Cleats,453,503.628026183669,432.1296699003102,578.7928013181031,prophet,Category
+2017-07-11,Fishing,111,118.0,,,seasonal_naive,Category
+2017-07-18,Fishing,119,114.0,,,seasonal_naive,Category
+2017-07-25,Fishing,134,111.0,,,seasonal_naive,Category
+2017-08-01,Fishing,106,126.0,,,seasonal_naive,Category
+2017-08-08,Fishing,133,108.0,,,seasonal_naive,Category
+2017-08-15,Fishing,128,126.0,,,seasonal_naive,Category
+2017-08-22,Fishing,141,124.0,,,seasonal_naive,Category
+2017-08-29,Fishing,102,116.0,,,seasonal_naive,Category
+2017-09-05,Fishing,123,109.0,,,seasonal_naive,Category
+2017-09-12,Fishing,142,142.0,,,seasonal_naive,Category
+2017-09-19,Fishing,139,102.0,,,seasonal_naive,Category
+2017-09-26,Fishing,117,115.0,,,seasonal_naive,Category
+2017-07-11,Fishing,111,115.59408703809603,93.28270645157824,136.74305136413832,prophet,Category
+2017-07-18,Fishing,119,112.21228493352504,91.4340591171667,133.5213904881653,prophet,Category
+2017-07-25,Fishing,134,111.66494889647544,89.69266620059811,134.68374921526694,prophet,Category
+2017-08-01,Fishing,106,112.73106302950372,90.33207081838005,135.39857989684123,prophet,Category
+2017-08-08,Fishing,133,115.25880518745588,92.6017885712297,137.47006608246204,prophet,Category
+2017-08-15,Fishing,128,119.2104867054936,97.45128543189452,140.31942325611803,prophet,Category
+2017-08-22,Fishing,141,122.90543808062408,100.00267369785033,144.1651229325389,prophet,Category
+2017-08-29,Fishing,102,123.6172189986842,102.69613348699596,144.89040737509023,prophet,Category
+2017-09-05,Fishing,123,120.3078686738238,98.9314672221692,141.9081572436837,prophet,Category
+2017-09-12,Fishing,142,115.09834915401872,92.98925359958405,135.99893153735502,prophet,Category
+2017-09-19,Fishing,139,111.4195853916846,89.73863909351702,133.58956210777046,prophet,Category
+2017-09-26,Fishing,117,110.91795016113386,89.32256128749339,133.6146865518822,prophet,Category
+2017-07-11,Indoor/Outdoor Games,425,457.0,,,seasonal_naive,Category
+2017-07-18,Indoor/Outdoor Games,373,384.0,,,seasonal_naive,Category
+2017-07-25,Indoor/Outdoor Games,365,405.0,,,seasonal_naive,Category
+2017-08-01,Indoor/Outdoor Games,376,383.0,,,seasonal_naive,Category
+2017-08-08,Indoor/Outdoor Games,391,327.0,,,seasonal_naive,Category
+2017-08-15,Indoor/Outdoor Games,350,416.0,,,seasonal_naive,Category
+2017-08-22,Indoor/Outdoor Games,402,311.0,,,seasonal_naive,Category
+2017-08-29,Indoor/Outdoor Games,445,384.0,,,seasonal_naive,Category
+2017-09-05,Indoor/Outdoor Games,296,363.0,,,seasonal_naive,Category
+2017-09-12,Indoor/Outdoor Games,373,473.0,,,seasonal_naive,Category
+2017-09-19,Indoor/Outdoor Games,405,363.0,,,seasonal_naive,Category
+2017-09-26,Indoor/Outdoor Games,338,452.0,,,seasonal_naive,Category
+2017-07-11,Indoor/Outdoor Games,425,416.8393167146916,346.8744281828031,483.15905380564726,prophet,Category
+2017-07-18,Indoor/Outdoor Games,373,418.41106624067663,353.2539052509751,485.2329823090265,prophet,Category
+2017-07-25,Indoor/Outdoor Games,365,402.8280464630189,333.92651590984724,475.011289060496,prophet,Category
+2017-08-01,Indoor/Outdoor Games,376,373.75282059542263,303.51320212014605,444.8345000776464,prophet,Category
+2017-08-08,Indoor/Outdoor Games,391,344.52088762991,273.4721471073992,414.1718148234476,prophet,Category
+2017-08-15,Indoor/Outdoor Games,350,332.4933303944249,264.2599956776387,398.6875743009765,prophet,Category
+2017-08-22,Indoor/Outdoor Games,402,346.5340821174364,274.7146930690467,413.2010319835457,prophet,Category
+2017-08-29,Indoor/Outdoor Games,445,378.4841106748534,312.8789435270755,445.1934115223655,prophet,Category
+2017-09-05,Indoor/Outdoor Games,296,408.82235900436774,341.78938651229646,476.55738739605664,prophet,Category
+2017-09-12,Indoor/Outdoor Games,373,422.8269957162084,353.4964679611898,488.3678520015577,prophet,Category
+2017-09-19,Indoor/Outdoor Games,405,421.5799891382157,353.59202922103,491.10146816737625,prophet,Category
+2017-09-26,Indoor/Outdoor Games,338,417.1056520194723,349.38597062237545,488.278737625219,prophet,Category
+2017-07-11,Men's Footwear,157,155.0,,,seasonal_naive,Category
+2017-07-18,Men's Footwear,159,144.0,,,seasonal_naive,Category
+2017-07-25,Men's Footwear,152,169.0,,,seasonal_naive,Category
+2017-08-01,Men's Footwear,155,148.0,,,seasonal_naive,Category
+2017-08-08,Men's Footwear,165,152.0,,,seasonal_naive,Category
+2017-08-15,Men's Footwear,157,180.0,,,seasonal_naive,Category
+2017-08-22,Men's Footwear,147,175.0,,,seasonal_naive,Category
+2017-08-29,Men's Footwear,141,175.0,,,seasonal_naive,Category
+2017-09-05,Men's Footwear,149,151.0,,,seasonal_naive,Category
+2017-09-12,Men's Footwear,177,175.0,,,seasonal_naive,Category
+2017-09-19,Men's Footwear,140,149.0,,,seasonal_naive,Category
+2017-09-26,Men's Footwear,141,145.0,,,seasonal_naive,Category
+2017-07-11,Men's Footwear,157,160.34867636857183,135.68449948874496,183.72785614760963,prophet,Category
+2017-07-18,Men's Footwear,159,159.9337324383194,136.96438654690323,183.4899417751259,prophet,Category
+2017-07-25,Men's Footwear,152,158.58444917410503,134.29512987773606,184.03064511736395,prophet,Category
+2017-08-01,Men's Footwear,155,158.4078488671522,133.64682456067104,183.4657201855488,prophet,Category
+2017-08-08,Men's Footwear,165,161.41882510746998,136.3725674498148,185.97232329185033,prophet,Category
+2017-08-15,Men's Footwear,157,167.07691225515006,143.02314795869287,190.4118574027484,prophet,Category
+2017-08-22,Men's Footwear,147,171.79400834151755,146.47607616185505,195.29559015044157,prophet,Category
+2017-08-29,Men's Footwear,141,171.92252421707067,148.79524272810315,195.43903668902144,prophet,Category
+2017-09-05,Men's Footwear,149,167.55323848782578,143.92262258955216,191.43134173436476,prophet,Category
+2017-09-12,Men's Footwear,177,162.71528854686363,138.27474244790895,185.8198963457605,prophet,Category
+2017-09-19,Men's Footwear,140,161.27559577340173,137.3083282346243,185.78346263169647,prophet,Category
+2017-09-26,Men's Footwear,141,163.03340557896016,139.16070959254293,188.12346324920293,prophet,Category
+2017-07-11,Shop By Sport,207,238.0,,,seasonal_naive,Category
+2017-07-18,Shop By Sport,262,174.0,,,seasonal_naive,Category
+2017-07-25,Shop By Sport,256,192.0,,,seasonal_naive,Category
+2017-08-01,Shop By Sport,217,266.0,,,seasonal_naive,Category
+2017-08-08,Shop By Sport,206,243.0,,,seasonal_naive,Category
+2017-08-15,Shop By Sport,247,262.0,,,seasonal_naive,Category
+2017-08-22,Shop By Sport,173,212.0,,,seasonal_naive,Category
+2017-08-29,Shop By Sport,241,212.0,,,seasonal_naive,Category
+2017-09-05,Shop By Sport,263,209.0,,,seasonal_naive,Category
+2017-09-12,Shop By Sport,210,269.0,,,seasonal_naive,Category
+2017-09-19,Shop By Sport,223,232.0,,,seasonal_naive,Category
+2017-09-26,Shop By Sport,173,163.0,,,seasonal_naive,Category
+2017-07-11,Shop By Sport,207,206.517009377222,153.80830282451868,256.47962011293794,prophet,Category
+2017-07-18,Shop By Sport,262,203.56090266886287,154.4741298020146,253.9018191846985,prophet,Category
+2017-07-25,Shop By Sport,256,216.0030921512067,164.0954625205003,270.38301691152657,prophet,Category
+2017-08-01,Shop By Sport,217,232.83398302167305,179.9182582297648,286.3839940411465,prophet,Category
+2017-08-08,Shop By Sport,206,240.3903486111585,186.8650573634185,292.8625466264356,prophet,Category
+2017-08-15,Shop By Sport,247,234.55549420800497,183.15120100095308,284.4233434136646,prophet,Category
+2017-08-22,Shop By Sport,173,223.0734092952487,168.96772860641457,273.2975072751557,prophet,Category
+2017-08-29,Shop By Sport,241,217.18124636125273,167.75713382817642,267.4372009006165,prophet,Category
+2017-09-05,Shop By Sport,263,221.1805547558432,170.6808561018703,272.2092978233236,prophet,Category
+2017-09-12,Shop By Sport,210,229.27418566115136,177.04315985854117,278.64998012114955,prophet,Category
+2017-09-19,Shop By Sport,223,231.81616126285405,180.5968851391033,284.1907392511608,prophet,Category
+2017-09-26,Shop By Sport,173,224.88699059534704,173.86995087585734,278.50763909742204,prophet,Category
+2017-07-11,Water Sports,99,108.0,,,seasonal_naive,Category
+2017-07-18,Water Sports,119,120.0,,,seasonal_naive,Category
+2017-07-25,Water Sports,69,100.0,,,seasonal_naive,Category
+2017-08-01,Water Sports,118,96.0,,,seasonal_naive,Category
+2017-08-08,Water Sports,127,97.0,,,seasonal_naive,Category
+2017-08-15,Water Sports,117,112.0,,,seasonal_naive,Category
+2017-08-22,Water Sports,113,115.0,,,seasonal_naive,Category
+2017-08-29,Water Sports,98,109.0,,,seasonal_naive,Category
+2017-09-05,Water Sports,131,108.0,,,seasonal_naive,Category
+2017-09-12,Water Sports,104,115.0,,,seasonal_naive,Category
+2017-09-19,Water Sports,132,105.0,,,seasonal_naive,Category
+2017-09-26,Water Sports,113,120.0,,,seasonal_naive,Category
+2017-07-11,Water Sports,99,115.18670557762373,96.1403894073545,133.24137163021425,prophet,Category
+2017-07-18,Water Sports,119,109.8452416677875,92.10707149092822,128.03584855928713,prophet,Category
+2017-07-25,Water Sports,69,105.0468589382572,86.28933396580787,124.69708614405518,prophet,Category
+2017-08-01,Water Sports,118,103.48924343198703,84.36577036256857,122.83757607933356,prophet,Category
+2017-08-08,Water Sports,127,105.13421160954724,85.79013959965233,124.09590967932644,prophet,Category
+2017-08-15,Water Sports,117,107.9806514399131,89.40229607680544,125.99026512504072,prophet,Category
+2017-08-22,Water Sports,113,109.86678407583904,90.32211882373625,128.01157819949475,prophet,Category
+2017-08-29,Water Sports,98,109.83069715607016,91.97897949049302,127.98459800972384,prophet,Category
+2017-09-05,Water Sports,131,108.40012398833734,90.1629092482434,126.83558310854846,prophet,Category
+2017-09-12,Water Sports,104,106.95804538469844,88.0734876090444,124.82086148784865,prophet,Category
+2017-09-19,Water Sports,132,106.66533125833382,88.16177385904963,125.58688926100814,prophet,Category
+2017-09-26,Water Sports,113,107.60470137983272,89.18042456076944,127.06550242986232,prophet,Category
+2017-07-11,Women's Apparel,395,444.0,,,seasonal_naive,Category
+2017-07-18,Women's Apparel,469,441.0,,,seasonal_naive,Category
+2017-07-25,Women's Apparel,413,510.0,,,seasonal_naive,Category
+2017-08-01,Women's Apparel,450,452.0,,,seasonal_naive,Category
+2017-08-08,Women's Apparel,440,515.0,,,seasonal_naive,Category
+2017-08-15,Women's Apparel,415,458.0,,,seasonal_naive,Category
+2017-08-22,Women's Apparel,452,439.0,,,seasonal_naive,Category
+2017-08-29,Women's Apparel,446,383.0,,,seasonal_naive,Category
+2017-09-05,Women's Apparel,464,484.0,,,seasonal_naive,Category
+2017-09-12,Women's Apparel,407,430.0,,,seasonal_naive,Category
+2017-09-19,Women's Apparel,451,452.0,,,seasonal_naive,Category
+2017-09-26,Women's Apparel,448,492.0,,,seasonal_naive,Category
+2017-07-11,Women's Apparel,395,465.0899759938965,388.3669606169325,537.8157487600222,prophet,Category
+2017-07-18,Women's Apparel,469,468.637874628944,397.18697491074937,541.9143271439472,prophet,Category
+2017-07-25,Women's Apparel,413,467.6416608073704,392.0847108849681,546.7973081175177,prophet,Category
+2017-08-01,Women's Apparel,450,465.2146093185469,388.19030760866514,543.16227357845,prophet,Category
+2017-08-08,Women's Apparel,440,460.81778826654744,382.9062061530548,537.1965227566023,prophet,Category
+2017-08-15,Women's Apparel,415,451.76113804812815,376.9369047452435,524.3492067891132,prophet,Category
+2017-08-22,Women's Apparel,452,438.58527048461855,359.82867572578385,511.6917584663297,prophet,Category
+2017-08-29,Women's Apparel,446,427.6679439690211,355.7258325766228,500.82085393428474,prophet,Category
+2017-09-05,Women's Apparel,464,427.0704603160243,353.56265349471454,501.3481950865481,prophet,Category
+2017-09-12,Women's Apparel,407,439.13637351963064,363.10890440121494,511.0080151295511,prophet,Category
+2017-09-19,Women's Apparel,451,457.3058615252071,382.7507699708094,533.5426039672933,prophet,Category
+2017-09-26,Women's Apparel,448,470.5797545054657,396.3189064298327,548.6283728012804,prophet,Category
+2017-07-11,Diamondback Women's Serene Classic Comfort Bi,93,101.0,,,seasonal_naive,Product
+2017-07-18,Diamondback Women's Serene Classic Comfort Bi,114,102.0,,,seasonal_naive,Product
+2017-07-25,Diamondback Women's Serene Classic Comfort Bi,88,91.0,,,seasonal_naive,Product
+2017-08-01,Diamondback Women's Serene Classic Comfort Bi,89,98.0,,,seasonal_naive,Product
+2017-08-08,Diamondback Women's Serene Classic Comfort Bi,96,86.0,,,seasonal_naive,Product
+2017-08-15,Diamondback Women's Serene Classic Comfort Bi,93,104.0,,,seasonal_naive,Product
+2017-08-22,Diamondback Women's Serene Classic Comfort Bi,79,89.0,,,seasonal_naive,Product
+2017-08-29,Diamondback Women's Serene Classic Comfort Bi,106,84.0,,,seasonal_naive,Product
+2017-09-05,Diamondback Women's Serene Classic Comfort Bi,94,93.0,,,seasonal_naive,Product
+2017-09-12,Diamondback Women's Serene Classic Comfort Bi,105,85.0,,,seasonal_naive,Product
+2017-09-19,Diamondback Women's Serene Classic Comfort Bi,103,105.0,,,seasonal_naive,Product
+2017-09-26,Diamondback Women's Serene Classic Comfort Bi,77,87.0,,,seasonal_naive,Product
+2017-07-11,Diamondback Women's Serene Classic Comfort Bi,93,99.2,82.4,115.3,prophet,Product
+2017-07-18,Diamondback Women's Serene Classic Comfort Bi,114,100.8,85.1,116.9,prophet,Product
+2017-07-25,Diamondback Women's Serene Classic Comfort Bi,88,100.3,83.6,117.7,prophet,Product
+2017-08-01,Diamondback Women's Serene Classic Comfort Bi,89,98.7,81.8,115.9,prophet,Product
+2017-08-08,Diamondback Women's Serene Classic Comfort Bi,96,97.2,80.0,114.0,prophet,Product
+2017-08-15,Diamondback Women's Serene Classic Comfort Bi,93,95.9,79.4,111.9,prophet,Product
+2017-08-22,Diamondback Women's Serene Classic Comfort Bi,79,95.2,77.8,111.3,prophet,Product
+2017-08-29,Diamondback Women's Serene Classic Comfort Bi,106,95.9,80.1,112.1,prophet,Product
+2017-09-05,Diamondback Women's Serene Classic Comfort Bi,94,98.7,82.5,115.1,prophet,Product
+2017-09-12,Diamondback Women's Serene Classic Comfort Bi,105,102.1,85.3,117.9,prophet,Product
+2017-09-19,Diamondback Women's Serene Classic Comfort Bi,103,103.7,87.3,120.5,prophet,Product
+2017-09-26,Diamondback Women's Serene Classic Comfort Bi,77,102.5,86.1,119.7,prophet,Product
+2017-07-11,Field & Stream Sportsman 16 Gun Fire Safe,111,118.0,,,seasonal_naive,Product
+2017-07-18,Field & Stream Sportsman 16 Gun Fire Safe,119,114.0,,,seasonal_naive,Product
+2017-07-25,Field & Stream Sportsman 16 Gun Fire Safe,134,111.0,,,seasonal_naive,Product
+2017-08-01,Field & Stream Sportsman 16 Gun Fire Safe,106,126.0,,,seasonal_naive,Product
+2017-08-08,Field & Stream Sportsman 16 Gun Fire Safe,133,108.0,,,seasonal_naive,Product
+2017-08-15,Field & Stream Sportsman 16 Gun Fire Safe,128,126.0,,,seasonal_naive,Product
+2017-08-22,Field & Stream Sportsman 16 Gun Fire Safe,141,124.0,,,seasonal_naive,Product
+2017-08-29,Field & Stream Sportsman 16 Gun Fire Safe,102,116.0,,,seasonal_naive,Product
+2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,123,109.0,,,seasonal_naive,Product
+2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,142,142.0,,,seasonal_naive,Product
+2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,139,102.0,,,seasonal_naive,Product
+2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,117,115.0,,,seasonal_naive,Product
+2017-07-11,Field & Stream Sportsman 16 Gun Fire Safe,111,115.6,93.3,136.7,prophet,Product
+2017-07-18,Field & Stream Sportsman 16 Gun Fire Safe,119,112.2,91.4,133.5,prophet,Product
+2017-07-25,Field & Stream Sportsman 16 Gun Fire Safe,134,111.7,89.7,134.7,prophet,Product
+2017-08-01,Field & Stream Sportsman 16 Gun Fire Safe,106,112.7,90.3,135.4,prophet,Product
+2017-08-08,Field & Stream Sportsman 16 Gun Fire Safe,133,115.3,92.6,137.5,prophet,Product
+2017-08-15,Field & Stream Sportsman 16 Gun Fire Safe,128,119.2,97.5,140.3,prophet,Product
+2017-08-22,Field & Stream Sportsman 16 Gun Fire Safe,141,122.9,100.0,144.2,prophet,Product
+2017-08-29,Field & Stream Sportsman 16 Gun Fire Safe,102,123.6,102.7,144.9,prophet,Product
+2017-09-05,Field & Stream Sportsman 16 Gun Fire Safe,123,120.3,98.9,141.9,prophet,Product
+2017-09-12,Field & Stream Sportsman 16 Gun Fire Safe,142,115.1,93.0,136.0,prophet,Product
+2017-09-19,Field & Stream Sportsman 16 Gun Fire Safe,139,111.4,89.7,133.6,prophet,Product
+2017-09-26,Field & Stream Sportsman 16 Gun Fire Safe,117,110.9,89.3,133.6,prophet,Product
+2017-07-11,Nike Men's CJ Elite 2 TD Football Cleat,157,155.0,,,seasonal_naive,Product
+2017-07-18,Nike Men's CJ Elite 2 TD Football Cleat,159,144.0,,,seasonal_naive,Product
+2017-07-25,Nike Men's CJ Elite 2 TD Football Cleat,152,169.0,,,seasonal_naive,Product
+2017-08-01,Nike Men's CJ Elite 2 TD Football Cleat,155,148.0,,,seasonal_naive,Product
+2017-08-08,Nike Men's CJ Elite 2 TD Football Cleat,165,152.0,,,seasonal_naive,Product
+2017-08-15,Nike Men's CJ Elite 2 TD Football Cleat,157,180.0,,,seasonal_naive,Product
+2017-08-22,Nike Men's CJ Elite 2 TD Football Cleat,147,175.0,,,seasonal_naive,Product
+2017-08-29,Nike Men's CJ Elite 2 TD Football Cleat,141,175.0,,,seasonal_naive,Product
+2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,149,151.0,,,seasonal_naive,Product
+2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,177,175.0,,,seasonal_naive,Product
+2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,140,149.0,,,seasonal_naive,Product
+2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,141,145.0,,,seasonal_naive,Product
+2017-07-11,Nike Men's CJ Elite 2 TD Football Cleat,157,160.3,135.7,183.7,prophet,Product
+2017-07-18,Nike Men's CJ Elite 2 TD Football Cleat,159,159.9,137.0,183.5,prophet,Product
+2017-07-25,Nike Men's CJ Elite 2 TD Football Cleat,152,158.6,134.3,184.0,prophet,Product
+2017-08-01,Nike Men's CJ Elite 2 TD Football Cleat,155,158.4,133.6,183.5,prophet,Product
+2017-08-08,Nike Men's CJ Elite 2 TD Football Cleat,165,161.4,136.4,186.0,prophet,Product
+2017-08-15,Nike Men's CJ Elite 2 TD Football Cleat,157,167.1,143.0,190.4,prophet,Product
+2017-08-22,Nike Men's CJ Elite 2 TD Football Cleat,147,171.8,146.5,195.3,prophet,Product
+2017-08-29,Nike Men's CJ Elite 2 TD Football Cleat,141,171.9,148.8,195.4,prophet,Product
+2017-09-05,Nike Men's CJ Elite 2 TD Football Cleat,149,167.6,143.9,191.4,prophet,Product
+2017-09-12,Nike Men's CJ Elite 2 TD Football Cleat,177,162.7,138.3,185.8,prophet,Product
+2017-09-19,Nike Men's CJ Elite 2 TD Football Cleat,140,161.3,137.3,185.8,prophet,Product
+2017-09-26,Nike Men's CJ Elite 2 TD Football Cleat,141,163.0,139.2,188.1,prophet,Product
+2017-07-11,Nike Men's Dri-FIT Victory Golf Polo,395,444.0,,,seasonal_naive,Product
+2017-07-18,Nike Men's Dri-FIT Victory Golf Polo,469,441.0,,,seasonal_naive,Product
+2017-07-25,Nike Men's Dri-FIT Victory Golf Polo,413,510.0,,,seasonal_naive,Product
+2017-08-01,Nike Men's Dri-FIT Victory Golf Polo,450,452.0,,,seasonal_naive,Product
+2017-08-08,Nike Men's Dri-FIT Victory Golf Polo,440,515.0,,,seasonal_naive,Product
+2017-08-15,Nike Men's Dri-FIT Victory Golf Polo,415,458.0,,,seasonal_naive,Product
+2017-08-22,Nike Men's Dri-FIT Victory Golf Polo,452,439.0,,,seasonal_naive,Product
+2017-08-29,Nike Men's Dri-FIT Victory Golf Polo,446,383.0,,,seasonal_naive,Product
+2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,464,484.0,,,seasonal_naive,Product
+2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,407,430.0,,,seasonal_naive,Product
+2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,451,452.0,,,seasonal_naive,Product
+2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,448,492.0,,,seasonal_naive,Product
+2017-07-11,Nike Men's Dri-FIT Victory Golf Polo,395,465.1,388.4,537.8,prophet,Product
+2017-07-18,Nike Men's Dri-FIT Victory Golf Polo,469,468.6,397.2,541.9,prophet,Product
+2017-07-25,Nike Men's Dri-FIT Victory Golf Polo,413,467.6,392.1,546.8,prophet,Product
+2017-08-01,Nike Men's Dri-FIT Victory Golf Polo,450,465.2,388.2,543.2,prophet,Product
+2017-08-08,Nike Men's Dri-FIT Victory Golf Polo,440,460.8,382.9,537.2,prophet,Product
+2017-08-15,Nike Men's Dri-FIT Victory Golf Polo,415,451.8,376.9,524.3,prophet,Product
+2017-08-22,Nike Men's Dri-FIT Victory Golf Polo,452,438.6,359.8,511.7,prophet,Product
+2017-08-29,Nike Men's Dri-FIT Victory Golf Polo,446,427.7,355.7,500.8,prophet,Product
+2017-09-05,Nike Men's Dri-FIT Victory Golf Polo,464,427.1,353.6,501.3,prophet,Product
+2017-09-12,Nike Men's Dri-FIT Victory Golf Polo,407,439.1,363.1,511.0,prophet,Product
+2017-09-19,Nike Men's Dri-FIT Victory Golf Polo,451,457.3,382.8,533.5,prophet,Product
+2017-09-26,Nike Men's Dri-FIT Victory Golf Polo,448,470.6,396.3,548.6,prophet,Product
+2017-07-11,Nike Men's Free 5.0+ Running Shoe,247,256.0,,,seasonal_naive,Product
+2017-07-18,Nike Men's Free 5.0+ Running Shoe,273,210.0,,,seasonal_naive,Product
+2017-07-25,Nike Men's Free 5.0+ Running Shoe,278,250.0,,,seasonal_naive,Product
+2017-08-01,Nike Men's Free 5.0+ Running Shoe,234,265.0,,,seasonal_naive,Product
+2017-08-08,Nike Men's Free 5.0+ Running Shoe,269,234.0,,,seasonal_naive,Product
+2017-08-15,Nike Men's Free 5.0+ Running Shoe,246,239.0,,,seasonal_naive,Product
+2017-08-22,Nike Men's Free 5.0+ Running Shoe,247,238.0,,,seasonal_naive,Product
+2017-08-29,Nike Men's Free 5.0+ Running Shoe,264,277.0,,,seasonal_naive,Product
+2017-09-05,Nike Men's Free 5.0+ Running Shoe,299,237.0,,,seasonal_naive,Product
+2017-09-12,Nike Men's Free 5.0+ Running Shoe,206,251.0,,,seasonal_naive,Product
+2017-09-19,Nike Men's Free 5.0+ Running Shoe,298,274.0,,,seasonal_naive,Product
+2017-09-26,Nike Men's Free 5.0+ Running Shoe,252,266.0,,,seasonal_naive,Product
+2017-07-11,Nike Men's Free 5.0+ Running Shoe,247,238.3,179.3,294.1,prophet,Product
+2017-07-18,Nike Men's Free 5.0+ Running Shoe,273,224.7,169.8,280.9,prophet,Product
+2017-07-25,Nike Men's Free 5.0+ Running Shoe,278,225.0,166.9,285.7,prophet,Product
+2017-08-01,Nike Men's Free 5.0+ Running Shoe,234,236.9,177.8,296.8,prophet,Product
+2017-08-08,Nike Men's Free 5.0+ Running Shoe,269,247.0,187.2,305.6,prophet,Product
+2017-08-15,Nike Men's Free 5.0+ Running Shoe,246,245.7,188.2,301.4,prophet,Product
+2017-08-22,Nike Men's Free 5.0+ Running Shoe,247,237.6,177.1,293.7,prophet,Product
+2017-08-29,Nike Men's Free 5.0+ Running Shoe,264,235.1,179.8,291.2,prophet,Product
+2017-09-05,Nike Men's Free 5.0+ Running Shoe,299,243.2,186.8,300.3,prophet,Product
+2017-09-12,Nike Men's Free 5.0+ Running Shoe,206,253.9,195.5,309.1,prophet,Product
+2017-09-19,Nike Men's Free 5.0+ Running Shoe,298,255.5,198.2,314.0,prophet,Product
+2017-09-26,Nike Men's Free 5.0+ Running Shoe,252,246.8,189.7,306.7,prophet,Product
+2017-07-11,O'Brien Men's Neoprene Life Vest,425,457.0,,,seasonal_naive,Product
+2017-07-18,O'Brien Men's Neoprene Life Vest,373,384.0,,,seasonal_naive,Product
+2017-07-25,O'Brien Men's Neoprene Life Vest,365,405.0,,,seasonal_naive,Product
+2017-08-01,O'Brien Men's Neoprene Life Vest,376,383.0,,,seasonal_naive,Product
+2017-08-08,O'Brien Men's Neoprene Life Vest,391,327.0,,,seasonal_naive,Product
+2017-08-15,O'Brien Men's Neoprene Life Vest,350,416.0,,,seasonal_naive,Product
+2017-08-22,O'Brien Men's Neoprene Life Vest,402,311.0,,,seasonal_naive,Product
+2017-08-29,O'Brien Men's Neoprene Life Vest,445,384.0,,,seasonal_naive,Product
+2017-09-05,O'Brien Men's Neoprene Life Vest,296,363.0,,,seasonal_naive,Product
+2017-09-12,O'Brien Men's Neoprene Life Vest,373,473.0,,,seasonal_naive,Product
+2017-09-19,O'Brien Men's Neoprene Life Vest,405,363.0,,,seasonal_naive,Product
+2017-09-26,O'Brien Men's Neoprene Life Vest,338,452.0,,,seasonal_naive,Product
+2017-07-11,O'Brien Men's Neoprene Life Vest,425,416.8,346.9,483.2,prophet,Product
+2017-07-18,O'Brien Men's Neoprene Life Vest,373,418.4,353.3,485.2,prophet,Product
+2017-07-25,O'Brien Men's Neoprene Life Vest,365,402.8,333.9,475.0,prophet,Product
+2017-08-01,O'Brien Men's Neoprene Life Vest,376,373.8,303.5,444.8,prophet,Product
+2017-08-08,O'Brien Men's Neoprene Life Vest,391,344.5,273.5,414.2,prophet,Product
+2017-08-15,O'Brien Men's Neoprene Life Vest,350,332.5,264.3,398.7,prophet,Product
+2017-08-22,O'Brien Men's Neoprene Life Vest,402,346.5,274.7,413.2,prophet,Product
+2017-08-29,O'Brien Men's Neoprene Life Vest,445,378.5,312.9,445.2,prophet,Product
+2017-09-05,O'Brien Men's Neoprene Life Vest,296,408.8,341.8,476.6,prophet,Product
+2017-09-12,O'Brien Men's Neoprene Life Vest,373,422.8,353.5,488.4,prophet,Product
+2017-09-19,O'Brien Men's Neoprene Life Vest,405,421.6,353.6,491.1,prophet,Product
+2017-09-26,O'Brien Men's Neoprene Life Vest,338,417.1,349.4,488.3,prophet,Product
+2017-07-11,Pelican Sunstream 100 Kayak,99,108.0,,,seasonal_naive,Product
+2017-07-18,Pelican Sunstream 100 Kayak,119,120.0,,,seasonal_naive,Product
+2017-07-25,Pelican Sunstream 100 Kayak,69,100.0,,,seasonal_naive,Product
+2017-08-01,Pelican Sunstream 100 Kayak,118,96.0,,,seasonal_naive,Product
+2017-08-08,Pelican Sunstream 100 Kayak,127,97.0,,,seasonal_naive,Product
+2017-08-15,Pelican Sunstream 100 Kayak,117,112.0,,,seasonal_naive,Product
+2017-08-22,Pelican Sunstream 100 Kayak,113,115.0,,,seasonal_naive,Product
+2017-08-29,Pelican Sunstream 100 Kayak,98,109.0,,,seasonal_naive,Product
+2017-09-05,Pelican Sunstream 100 Kayak,129,108.0,,,seasonal_naive,Product
+2017-09-12,Pelican Sunstream 100 Kayak,92,115.0,,,seasonal_naive,Product
+2017-09-19,Pelican Sunstream 100 Kayak,116,105.0,,,seasonal_naive,Product
+2017-09-26,Pelican Sunstream 100 Kayak,103,120.0,,,seasonal_naive,Product
+2017-07-11,Pelican Sunstream 100 Kayak,99,115.2,96.1,133.2,prophet,Product
+2017-07-18,Pelican Sunstream 100 Kayak,119,109.8,92.1,128.0,prophet,Product
+2017-07-25,Pelican Sunstream 100 Kayak,69,105.0,86.3,124.7,prophet,Product
+2017-08-01,Pelican Sunstream 100 Kayak,118,103.5,84.4,122.8,prophet,Product
+2017-08-08,Pelican Sunstream 100 Kayak,127,105.1,85.8,124.1,prophet,Product
+2017-08-15,Pelican Sunstream 100 Kayak,117,108.0,89.4,126.0,prophet,Product
+2017-08-22,Pelican Sunstream 100 Kayak,113,109.9,90.3,128.0,prophet,Product
+2017-08-29,Pelican Sunstream 100 Kayak,98,109.8,92.0,128.0,prophet,Product
+2017-09-05,Pelican Sunstream 100 Kayak,129,108.4,90.2,126.8,prophet,Product
+2017-09-12,Pelican Sunstream 100 Kayak,92,107.0,88.1,124.8,prophet,Product
+2017-09-19,Pelican Sunstream 100 Kayak,116,106.7,88.2,125.6,prophet,Product
+2017-09-26,Pelican Sunstream 100 Kayak,103,107.6,89.2,127.1,prophet,Product
+2017-07-11,Perfect Fitness Perfect Rip Deck,564,565.0,,,seasonal_naive,Product
+2017-07-18,Perfect Fitness Perfect Rip Deck,489,481.0,,,seasonal_naive,Product
+2017-07-25,Perfect Fitness Perfect Rip Deck,480,457.0,,,seasonal_naive,Product
+2017-08-01,Perfect Fitness Perfect Rip Deck,503,497.0,,,seasonal_naive,Product
+2017-08-08,Perfect Fitness Perfect Rip Deck,499,537.0,,,seasonal_naive,Product
+2017-08-15,Perfect Fitness Perfect Rip Deck,504,537.0,,,seasonal_naive,Product
+2017-08-22,Perfect Fitness Perfect Rip Deck,545,511.0,,,seasonal_naive,Product
+2017-08-29,Perfect Fitness Perfect Rip Deck,582,547.0,,,seasonal_naive,Product
+2017-09-05,Perfect Fitness Perfect Rip Deck,490,521.0,,,seasonal_naive,Product
+2017-09-12,Perfect Fitness Perfect Rip Deck,472,511.0,,,seasonal_naive,Product
+2017-09-19,Perfect Fitness Perfect Rip Deck,461,524.0,,,seasonal_naive,Product
+2017-09-26,Perfect Fitness Perfect Rip Deck,449,496.0,,,seasonal_naive,Product
+2017-07-11,Perfect Fitness Perfect Rip Deck,564,510.2,436.3,580.2,prophet,Product
+2017-07-18,Perfect Fitness Perfect Rip Deck,489,491.8,423.0,562.4,prophet,Product
+2017-07-25,Perfect Fitness Perfect Rip Deck,480,488.6,415.8,564.8,prophet,Product
+2017-08-01,Perfect Fitness Perfect Rip Deck,503,504.8,430.6,579.8,prophet,Product
+2017-08-08,Perfect Fitness Perfect Rip Deck,499,527.5,452.5,601.0,prophet,Product
+2017-08-15,Perfect Fitness Perfect Rip Deck,504,540.0,467.9,609.8,prophet,Product
+2017-08-22,Perfect Fitness Perfect Rip Deck,545,536.4,460.6,606.8,prophet,Product
+2017-08-29,Perfect Fitness Perfect Rip Deck,582,524.7,455.4,595.1,prophet,Product
+2017-09-05,Perfect Fitness Perfect Rip Deck,490,515.9,445.2,587.5,prophet,Product
+2017-09-12,Perfect Fitness Perfect Rip Deck,472,513.2,440.0,582.4,prophet,Product
+2017-09-19,Perfect Fitness Perfect Rip Deck,461,510.9,439.1,584.3,prophet,Product
+2017-09-26,Perfect Fitness Perfect Rip Deck,449,503.6,432.1,578.8,prophet,Product
+2017-07-11,Under Armour Girls' Toddler Spine Surge Runni,205,228.0,,,seasonal_naive,Product
+2017-07-18,Under Armour Girls' Toddler Spine Surge Runni,261,164.0,,,seasonal_naive,Product
+2017-07-25,Under Armour Girls' Toddler Spine Surge Runni,255,186.0,,,seasonal_naive,Product
+2017-08-01,Under Armour Girls' Toddler Spine Surge Runni,216,259.0,,,seasonal_naive,Product
+2017-08-08,Under Armour Girls' Toddler Spine Surge Runni,203,243.0,,,seasonal_naive,Product
+2017-08-15,Under Armour Girls' Toddler Spine Surge Runni,241,258.0,,,seasonal_naive,Product
+2017-08-22,Under Armour Girls' Toddler Spine Surge Runni,168,194.0,,,seasonal_naive,Product
+2017-08-29,Under Armour Girls' Toddler Spine Surge Runni,239,209.0,,,seasonal_naive,Product
+2017-09-05,Under Armour Girls' Toddler Spine Surge Runni,261,209.0,,,seasonal_naive,Product
+2017-09-12,Under Armour Girls' Toddler Spine Surge Runni,210,264.0,,,seasonal_naive,Product
+2017-09-19,Under Armour Girls' Toddler Spine Surge Runni,223,228.0,,,seasonal_naive,Product
+2017-09-26,Under Armour Girls' Toddler Spine Surge Runni,173,158.0,,,seasonal_naive,Product
+2017-07-11,Under Armour Girls' Toddler Spine Surge Runni,205,202.7,150.1,252.5,prophet,Product
+2017-07-18,Under Armour Girls' Toddler Spine Surge Runni,261,199.1,150.2,249.4,prophet,Product
+2017-07-25,Under Armour Girls' Toddler Spine Surge Runni,255,210.5,158.8,264.7,prophet,Product
+2017-08-01,Under Armour Girls' Toddler Spine Surge Runni,216,225.8,173.0,279.2,prophet,Product
+2017-08-08,Under Armour Girls' Toddler Spine Surge Runni,203,231.1,177.7,283.5,prophet,Product
+2017-08-15,Under Armour Girls' Toddler Spine Surge Runni,241,223.0,171.7,272.7,prophet,Product
+2017-08-22,Under Armour Girls' Toddler Spine Surge Runni,168,210.8,156.9,260.9,prophet,Product
+2017-08-29,Under Armour Girls' Toddler Spine Surge Runni,239,207.2,157.9,257.3,prophet,Product
+2017-09-05,Under Armour Girls' Toddler Spine Surge Runni,261,215.1,164.8,266.0,prophet,Product
+2017-09-12,Under Armour Girls' Toddler Spine Surge Runni,210,226.0,173.9,275.2,prophet,Product
+2017-09-19,Under Armour Girls' Toddler Spine Surge Runni,223,228.1,177.1,280.4,prophet,Product
+2017-09-26,Under Armour Girls' Toddler Spine Surge Runni,173,218.9,168.0,272.3,prophet,Product
