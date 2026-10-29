@@ -38,6 +38,7 @@ METRICS_OUT = Path("outputs/metrics.csv")
 
 HOLDOUT_WEEKS = 12
 SEASON_WEEKS = 52  # yearly seasonality for the naive baseline
+SEED = 42
 
 
 def mape(actual: np.ndarray, pred: np.ndarray) -> float:
@@ -64,6 +65,7 @@ def prophet_forecast(train: pd.Series, test_index: pd.DatetimeIndex) -> pd.DataF
                 daily_seasonality=False, interval_width=0.95)
     m.fit(pd.DataFrame({"ds": train.index, "y": train.values}))
     future = pd.DataFrame({"ds": test_index})
+    np.random.seed(SEED)  # interval bounds are sampled; seed for reproducible runs
     fc = m.predict(future).set_index("ds")
     return fc[["yhat", "yhat_lower", "yhat_upper"]].clip(lower=0)
 

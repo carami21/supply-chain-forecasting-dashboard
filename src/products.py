@@ -50,7 +50,7 @@ def wape(actual: np.ndarray, pred: np.ndarray) -> float:
     return float(np.abs(actual - pred).sum() / actual.sum() * 100)
 
 
-def _round(df: pd.DataFrame, n: int = 1) -> pd.DataFrame:
+def round_numeric(df: pd.DataFrame, n: int = 1) -> pd.DataFrame:
     num = df.select_dtypes("number").columns
     return df.assign(**{c: df[c].round(n) for c in num})
 
@@ -131,10 +131,10 @@ def run() -> None:
                                      "yhat_upper": fut["yhat_upper"].values}))
 
     pw.to_csv(OUT / "product_weekly.csv", index=False)
-    _round(pd.concat(forecasts)).to_csv(OUT / "product_forecasts.csv", index=False)
+    round_numeric(pd.concat(forecasts)).to_csv(OUT / "product_forecasts.csv", index=False)
     metrics = pd.DataFrame(metrics)
     metrics.to_csv(OUT / "product_metrics.csv", index=False)
-    _round(pd.concat(outlook)).to_csv(OUT / "product_outlook.csv", index=False)
+    round_numeric(pd.concat(outlook)).to_csv(OUT / "product_outlook.csv", index=False)
 
     summary = metrics.groupby("model")["wape"].mean()
     nike = brands.loc["Nike"] if "Nike" in brands.index else None
