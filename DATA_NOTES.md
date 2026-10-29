@@ -56,3 +56,24 @@ second regime; do not merge the two — they are different product mixes.
 - Demand series: **top 8 categories × 143 weeks** (`demand_weekly.csv`).
 - Fulfillment series: **week × region** late-rate and avg shipping delay,
   canceled orders excluded (`fulfillment_weekly.csv`).
+
+## Brand / product layer (added 2026-10-28)
+
+- DataCo product names carry real brands. Brand = first word, except a
+  whitelist of multi-word brands (Under Armour, Field & Stream, ...) in
+  `etl.py`. **Nike is #1: 126.5K units, 33.8% of the stable window, 13 products.**
+- Source product names are **truncated at 45 characters** ("... Comfort Bi",
+  "... Spine Surge Runni"), so style keywords in `etl.py` include fragments.
+- Volume is extremely concentrated: each top category is effectively one
+  product (e.g. Women's Apparel ≈ Nike Dri-FIT polo, Fishing ≈ Field & Stream
+  gun safe — DataCo's category labels are loose). Product- and category-level
+  forecasts for those pairs therefore match closely; that is expected.
+- 9 products sell in ≥95% of weeks and are forecast; the long tail is sparse
+  (zero-sale weeks), which is why product accuracy is reported as **WAPE**.
+
+## Shipping (added 2026-10-28)
+
+- Delivery promise vs actual is deterministic by mode: First Class always
+  takes 2 days against a 1-day promise (100% late); Second Class takes ~4
+  days against 2 (80% late), identical to Standard's ~4 days. Late rate is
+  ~57% in every market, so lateness is driven by the quoted days, not geography.
